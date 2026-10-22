@@ -1,0 +1,24 @@
+{
+  "exerciseId": "E05",
+  "title": "Chuyển trọng tâm",
+  "totalSeconds": 120,
+  "status": "script-awaiting-voice-video-review",
+  "cues": [
+    {
+      "atSeconds": 0,
+      "text": "Đứng cạnh điểm vịn chắc chắn."
+    },
+    {
+      "atSeconds": 30,
+      "text": "Chuyển nhẹ trọng lượng sang trái."
+    },
+    {
+      "atSeconds": 60,
+      "text": "Chuyển từ từ sang bên phải."
+    },
+    {
+      "atSeconds": 90,
+      "text": "Trở về giữa, thở đều."
+    }
+  ]
+}

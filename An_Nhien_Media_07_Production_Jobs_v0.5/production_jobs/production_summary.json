@@ -1,0 +1,18 @@
+{
+  "base_date": "2026-10-18",
+  "source": "07 — Prompt ChatGPT: ảnh chi tiết từng thức, giọng đọc, âm báo, nhạc nền",
+  "image_job_count": 246,
+  "basic_image_count": 30,
+  "eastern_image_count": 180,
+  "chair_image_count": 36,
+  "voice_script_count": 67,
+  "subtitle_draft_count": 67,
+  "video_output_required": 67,
+  "professionally_mastered_voice_count": 0,
+  "final_video_count": 0,
+  "final_pose_frames_count": 0,
+  "existing_audio_cue_formats": 8,
+  "new_music_produced_count": 0,
+  "release_status": "BLOCKED",
+  "release_gate_reason": "Motion technique, media, voice and expert review not complete"
+}

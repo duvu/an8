@@ -1,0 +1,405 @@
+﻿path,exercise_id,slot,width,height,duration_s,creator,tool,ai_generated,license,reviewer,review_date,notes,sha256,status
+assets/series/E01/frames/01.png,E01,01,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E01/frames/02.png,E01,02,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E01/frames/03.png,E01,03,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E01/frames/04.png,E01,04,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E02/frames/01.png,E02,01,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E02/frames/02.png,E02,02,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E02/frames/03.png,E02,03,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E02/frames/04.png,E02,04,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E03/frames/01.png,E03,01,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E03/frames/02.png,E03,02,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E03/frames/03.png,E03,03,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E03/frames/04.png,E03,04,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E03/frames/05.png,E03,05,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E03/frames/06.png,E03,06,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E04/frames/01.png,E04,01,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E04/frames/02.png,E04,02,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E04/frames/03.png,E04,03,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E04/frames/04.png,E04,04,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E05/frames/01.png,E05,01,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E05/frames/02.png,E05,02,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E05/frames/03.png,E05,03,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E05/frames/04.png,E05,04,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E06/frames/01.png,E06,01,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E06/frames/02.png,E06,02,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E06/frames/03.png,E06,03,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E06/frames/04.png,E06,04,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E07/frames/01.png,E07,01,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E07/frames/02.png,E07,02,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E07/frames/03.png,E07,03,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+assets/series/E07/frames/04.png,E07,04,1024,1024,,,,,,,,DO NOT PUBLISH: technique sign-off required,,needs_generation
+packages/an_nhien_eastern_content/assets/series/E101/pose_start.webp,E101,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E101/pose_transition.webp,E101,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E101/pose_end.webp,E101,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E102/pose_start.webp,E102,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E102/pose_transition.webp,E102,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E102/pose_end.webp,E102,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E102/pose_start_chair.webp,E102,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E102/pose_transition_chair.webp,E102,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E102/pose_end_chair.webp,E102,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E103/pose_start.webp,E103,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E103/pose_transition.webp,E103,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E103/pose_end.webp,E103,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E104/pose_start.webp,E104,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E104/pose_transition.webp,E104,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E104/pose_end.webp,E104,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E105/pose_start.webp,E105,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E105/pose_transition.webp,E105,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E105/pose_end.webp,E105,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E105/pose_start_chair.webp,E105,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E105/pose_transition_chair.webp,E105,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E105/pose_end_chair.webp,E105,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E106/pose_start.webp,E106,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E106/pose_transition.webp,E106,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E106/pose_end.webp,E106,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E106/pose_start_chair.webp,E106,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E106/pose_transition_chair.webp,E106,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E106/pose_end_chair.webp,E106,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E107/pose_start.webp,E107,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E107/pose_transition.webp,E107,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E107/pose_end.webp,E107,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E108/pose_start.webp,E108,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E108/pose_transition.webp,E108,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E108/pose_end.webp,E108,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E108/pose_start_chair.webp,E108,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E108/pose_transition_chair.webp,E108,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E108/pose_end_chair.webp,E108,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E201/pose_start.webp,E201,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E201/pose_transition.webp,E201,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E201/pose_end.webp,E201,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E202/pose_start.webp,E202,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E202/pose_transition.webp,E202,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E202/pose_end.webp,E202,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E203/pose_start.webp,E203,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E203/pose_transition.webp,E203,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E203/pose_end.webp,E203,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E204/pose_start.webp,E204,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E204/pose_transition.webp,E204,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E204/pose_end.webp,E204,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E205/pose_start.webp,E205,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E205/pose_transition.webp,E205,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E205/pose_end.webp,E205,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E206/pose_start.webp,E206,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E206/pose_transition.webp,E206,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E206/pose_end.webp,E206,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E207/pose_start.webp,E207,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E207/pose_transition.webp,E207,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E207/pose_end.webp,E207,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E208/pose_start.webp,E208,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E208/pose_transition.webp,E208,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E208/pose_end.webp,E208,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E209/pose_start.webp,E209,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E209/pose_transition.webp,E209,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E209/pose_end.webp,E209,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E210/pose_start.webp,E210,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E210/pose_transition.webp,E210,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E210/pose_end.webp,E210,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E210/pose_start_chair.webp,E210,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E210/pose_transition_chair.webp,E210,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E210/pose_end_chair.webp,E210,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E211/pose_start.webp,E211,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E211/pose_transition.webp,E211,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E211/pose_end.webp,E211,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E212/pose_start.webp,E212,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E212/pose_transition.webp,E212,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E212/pose_end.webp,E212,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E301/pose_start.webp,E301,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E301/pose_transition.webp,E301,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E301/pose_end.webp,E301,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E302/pose_start.webp,E302,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E302/pose_transition.webp,E302,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E302/pose_end.webp,E302,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E303/pose_start.webp,E303,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E303/pose_transition.webp,E303,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E303/pose_end.webp,E303,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E304/pose_start.webp,E304,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E304/pose_transition.webp,E304,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E304/pose_end.webp,E304,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E305/pose_start.webp,E305,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E305/pose_transition.webp,E305,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E305/pose_end.webp,E305,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E306/pose_start.webp,E306,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E306/pose_transition.webp,E306,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E306/pose_end.webp,E306,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E307/pose_start.webp,E307,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E307/pose_transition.webp,E307,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E307/pose_end.webp,E307,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E308/pose_start.webp,E308,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E308/pose_transition.webp,E308,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E308/pose_end.webp,E308,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E309/pose_start.webp,E309,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E309/pose_transition.webp,E309,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E309/pose_end.webp,E309,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E309/pose_start_chair.webp,E309,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E309/pose_transition_chair.webp,E309,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E309/pose_end_chair.webp,E309,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E310/pose_start.webp,E310,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E310/pose_transition.webp,E310,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E310/pose_end.webp,E310,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E310/pose_start_chair.webp,E310,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E310/pose_transition_chair.webp,E310,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E310/pose_end_chair.webp,E310,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E401/pose_start.webp,E401,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E401/pose_transition.webp,E401,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E401/pose_end.webp,E401,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E402/pose_start.webp,E402,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E402/pose_transition.webp,E402,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E402/pose_end.webp,E402,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E403/pose_start.webp,E403,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E403/pose_transition.webp,E403,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E403/pose_end.webp,E403,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E404/pose_start.webp,E404,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E404/pose_transition.webp,E404,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E404/pose_end.webp,E404,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E405/pose_start.webp,E405,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E405/pose_transition.webp,E405,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E405/pose_end.webp,E405,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E406/pose_start.webp,E406,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E406/pose_transition.webp,E406,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E406/pose_end.webp,E406,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E501/pose_start.webp,E501,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E501/pose_transition.webp,E501,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E501/pose_end.webp,E501,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E502/pose_start.webp,E502,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E502/pose_transition.webp,E502,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E502/pose_end.webp,E502,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E503/pose_start.webp,E503,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E503/pose_transition.webp,E503,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E503/pose_end.webp,E503,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E503/pose_start_chair.webp,E503,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E503/pose_transition_chair.webp,E503,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E503/pose_end_chair.webp,E503,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E504/pose_start.webp,E504,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E504/pose_transition.webp,E504,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E504/pose_end.webp,E504,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E505/pose_start.webp,E505,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E505/pose_transition.webp,E505,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E505/pose_end.webp,E505,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E506/pose_start.webp,E506,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E506/pose_transition.webp,E506,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E506/pose_end.webp,E506,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E507/pose_start.webp,E507,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E507/pose_transition.webp,E507,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E507/pose_end.webp,E507,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E508/pose_start.webp,E508,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E508/pose_transition.webp,E508,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E508/pose_end.webp,E508,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E509/pose_start.webp,E509,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E509/pose_transition.webp,E509,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E509/pose_end.webp,E509,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E510/pose_start.webp,E510,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E510/pose_transition.webp,E510,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E510/pose_end.webp,E510,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E511/pose_start.webp,E511,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E511/pose_transition.webp,E511,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E511/pose_end.webp,E511,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E512/pose_start.webp,E512,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E512/pose_transition.webp,E512,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E512/pose_end.webp,E512,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E513/pose_start.webp,E513,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E513/pose_transition.webp,E513,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E513/pose_end.webp,E513,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E513/pose_start_chair.webp,E513,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E513/pose_transition_chair.webp,E513,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E513/pose_end_chair.webp,E513,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E514/pose_start.webp,E514,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E514/pose_transition.webp,E514,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E514/pose_end.webp,E514,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E515/pose_start.webp,E515,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E515/pose_transition.webp,E515,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E515/pose_end.webp,E515,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E515/pose_start_chair.webp,E515,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E515/pose_transition_chair.webp,E515,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E515/pose_end_chair.webp,E515,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E516/pose_start.webp,E516,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E516/pose_transition.webp,E516,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E516/pose_end.webp,E516,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E516/pose_start_chair.webp,E516,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E516/pose_transition_chair.webp,E516,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E516/pose_end_chair.webp,E516,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E517/pose_start.webp,E517,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E517/pose_transition.webp,E517,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E517/pose_end.webp,E517,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E517/pose_start_chair.webp,E517,pose_start_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E517/pose_transition_chair.webp,E517,pose_transition_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E517/pose_end_chair.webp,E517,pose_end_chair,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E518/pose_start.webp,E518,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E518/pose_transition.webp,E518,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E518/pose_end.webp,E518,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E519/pose_start.webp,E519,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E519/pose_transition.webp,E519,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E519/pose_end.webp,E519,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E520/pose_start.webp,E520,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E520/pose_transition.webp,E520,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E520/pose_end.webp,E520,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E521/pose_start.webp,E521,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E521/pose_transition.webp,E521,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E521/pose_end.webp,E521,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E522/pose_start.webp,E522,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E522/pose_transition.webp,E522,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E522/pose_end.webp,E522,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E523/pose_start.webp,E523,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E523/pose_transition.webp,E523,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E523/pose_end.webp,E523,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E524/pose_start.webp,E524,pose_start,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E524/pose_transition.webp,E524,pose_transition,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+packages/an_nhien_eastern_content/assets/series/E524/pose_end.webp,E524,pose_end,1080,1080,,,,,,,,DO NOT PUBLISH: technique sign-off required,,blocked_expert_review
+assets/media/E01/guide.mp4,E01,video,1920,1080,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E01/guide.vi.vtt,E01,subtitle,,,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E02/guide.mp4,E02,video,1920,1080,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E02/guide.vi.vtt,E02,subtitle,,,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E03/guide.mp4,E03,video,1920,1080,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E03/guide.vi.vtt,E03,subtitle,,,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E04/guide.mp4,E04,video,1920,1080,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E04/guide.vi.vtt,E04,subtitle,,,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E05/guide.mp4,E05,video,1920,1080,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E05/guide.vi.vtt,E05,subtitle,,,120.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E06/guide.mp4,E06,video,1920,1080,180.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E06/guide.vi.vtt,E06,subtitle,,,180.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E07/guide.mp4,E07,video,1920,1080,60.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+assets/media/E07/guide.vi.vtt,E07,subtitle,,,60.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E101/guide.mp4,E101,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E101/guide.vi.vtt,E101,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E102/guide.mp4,E102,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E102/guide.vi.vtt,E102,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E103/guide.mp4,E103,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E103/guide.vi.vtt,E103,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E104/guide.mp4,E104,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E104/guide.vi.vtt,E104,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E105/guide.mp4,E105,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E105/guide.vi.vtt,E105,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E106/guide.mp4,E106,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E106/guide.vi.vtt,E106,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E107/guide.mp4,E107,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E107/guide.vi.vtt,E107,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E108/guide.mp4,E108,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E108/guide.vi.vtt,E108,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E201/guide.mp4,E201,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E201/guide.vi.vtt,E201,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E202/guide.mp4,E202,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E202/guide.vi.vtt,E202,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E203/guide.mp4,E203,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E203/guide.vi.vtt,E203,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E204/guide.mp4,E204,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E204/guide.vi.vtt,E204,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E205/guide.mp4,E205,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E205/guide.vi.vtt,E205,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E206/guide.mp4,E206,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E206/guide.vi.vtt,E206,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E207/guide.mp4,E207,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E207/guide.vi.vtt,E207,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E208/guide.mp4,E208,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E208/guide.vi.vtt,E208,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E209/guide.mp4,E209,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E209/guide.vi.vtt,E209,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E210/guide.mp4,E210,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E210/guide.vi.vtt,E210,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E211/guide.mp4,E211,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E211/guide.vi.vtt,E211,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E212/guide.mp4,E212,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E212/guide.vi.vtt,E212,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E301/guide.mp4,E301,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E301/guide.vi.vtt,E301,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E302/guide.mp4,E302,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E302/guide.vi.vtt,E302,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E303/guide.mp4,E303,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E303/guide.vi.vtt,E303,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E304/guide.mp4,E304,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E304/guide.vi.vtt,E304,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E305/guide.mp4,E305,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E305/guide.vi.vtt,E305,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E306/guide.mp4,E306,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E306/guide.vi.vtt,E306,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E307/guide.mp4,E307,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E307/guide.vi.vtt,E307,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E308/guide.mp4,E308,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E308/guide.vi.vtt,E308,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E309/guide.mp4,E309,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E309/guide.vi.vtt,E309,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E310/guide.mp4,E310,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E310/guide.vi.vtt,E310,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E401/guide.mp4,E401,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E401/guide.vi.vtt,E401,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E402/guide.mp4,E402,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E402/guide.vi.vtt,E402,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E403/guide.mp4,E403,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E403/guide.vi.vtt,E403,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E404/guide.mp4,E404,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E404/guide.vi.vtt,E404,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E405/guide.mp4,E405,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E405/guide.vi.vtt,E405,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E406/guide.mp4,E406,video,1920,1080,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E406/guide.vi.vtt,E406,subtitle,,,75.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E501/guide.mp4,E501,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E501/guide.vi.vtt,E501,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E502/guide.mp4,E502,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E502/guide.vi.vtt,E502,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E503/guide.mp4,E503,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E503/guide.vi.vtt,E503,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E504/guide.mp4,E504,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E504/guide.vi.vtt,E504,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E505/guide.mp4,E505,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E505/guide.vi.vtt,E505,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E506/guide.mp4,E506,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E506/guide.vi.vtt,E506,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E507/guide.mp4,E507,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E507/guide.vi.vtt,E507,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E508/guide.mp4,E508,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E508/guide.vi.vtt,E508,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E509/guide.mp4,E509,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E509/guide.vi.vtt,E509,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E510/guide.mp4,E510,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E510/guide.vi.vtt,E510,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E511/guide.mp4,E511,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E511/guide.vi.vtt,E511,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E512/guide.mp4,E512,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E512/guide.vi.vtt,E512,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E513/guide.mp4,E513,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E513/guide.vi.vtt,E513,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E514/guide.mp4,E514,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E514/guide.vi.vtt,E514,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E515/guide.mp4,E515,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E515/guide.vi.vtt,E515,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E516/guide.mp4,E516,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E516/guide.vi.vtt,E516,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E517/guide.mp4,E517,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E517/guide.vi.vtt,E517,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E518/guide.mp4,E518,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E518/guide.vi.vtt,E518,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E519/guide.mp4,E519,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E519/guide.vi.vtt,E519,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E520/guide.mp4,E520,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E520/guide.vi.vtt,E520,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E521/guide.mp4,E521,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E521/guide.vi.vtt,E521,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E522/guide.mp4,E522,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E522/guide.vi.vtt,E522,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E523/guide.mp4,E523,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E523/guide.vi.vtt,E523,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E524/guide.mp4,E524,video,1920,1080,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/series/E524/guide.vi.vtt,E524,subtitle,,,55.0,,,,,,,Final video mandatory / VTT must align to final audio,,missing
+packages/an_nhien_eastern_content/assets/audio/pronunciations/E401_verified.m4a,E401,pronunciation,,,,,,,,,,Professional Liu Zi Jue phonetic signoff required,,missing
+packages/an_nhien_eastern_content/assets/audio/pronunciations/E402_verified.m4a,E402,pronunciation,,,,,,,,,,Professional Liu Zi Jue phonetic signoff required,,missing
+packages/an_nhien_eastern_content/assets/audio/pronunciations/E403_verified.m4a,E403,pronunciation,,,,,,,,,,Professional Liu Zi Jue phonetic signoff required,,missing
+packages/an_nhien_eastern_content/assets/audio/pronunciations/E404_verified.m4a,E404,pronunciation,,,,,,,,,,Professional Liu Zi Jue phonetic signoff required,,missing
+packages/an_nhien_eastern_content/assets/audio/pronunciations/E405_verified.m4a,E405,pronunciation,,,,,,,,,,Professional Liu Zi Jue phonetic signoff required,,missing
+packages/an_nhien_eastern_content/assets/audio/pronunciations/E406_verified.m4a,E406,pronunciation,,,,,,,,,,Professional Liu Zi Jue phonetic signoff required,,missing
+assets/audio/music/music_morning.m4a,,music,,,,,,,,,,Seamless 2-3 minute original loop; commercial rights required,,missing
+assets/audio/music/music_evening.m4a,,music,,,,,,,,,,Seamless 2-3 minute original loop; commercial rights required,,missing
+assets/audio/music/music_qigong.m4a,,music,,,,,,,,,,Seamless 2-3 minute original loop; commercial rights required,,missing
+assets/audio/music/music_five_animals.m4a,,music,,,,,,,,,,Seamless 2-3 minute original loop; commercial rights required,,missing
+assets/audio/music/music_six_sounds.m4a,,music,,,,,,,,,,Seamless 2-3 minute original loop; commercial rights required,,missing
+assets/audio/music/music_taichi.m4a,,music,,,,,,,,,,Seamless 2-3 minute original loop; commercial rights required,,missing
+assets/audio/cues/cue_step_soon.ogg,,cue,,,,Prior media kit v0.4,audio synthesis (prior build),no,Verify before commercial distribution,,,Exists; audio quality and LUFS require final QA,cbdcb603a389577fcf387b0f9f886c83a365463e978fb58450409c3be34cddbc,candidate_not_approved
+assets/audio/cues/cue_step_soon.m4a,,cue,,,,Prior media kit v0.4,audio synthesis (prior build),no,Verify before commercial distribution,,,Exists; audio quality and LUFS require final QA,28813bdaa098d312b265a4a8960615d48355dfa4cec2d53e55478f9ae2c76f81,candidate_not_approved
+assets/audio/cues/cue_step_start.ogg,,cue,,,,Prior media kit v0.4,audio synthesis (prior build),no,Verify before commercial distribution,,,Exists; audio quality and LUFS require final QA,f5cb73ade1d9adf1ead8656a32edfdc31b80bd60eaae09e12170681ecae6af68,candidate_not_approved
+assets/audio/cues/cue_step_start.m4a,,cue,,,,Prior media kit v0.4,audio synthesis (prior build),no,Verify before commercial distribution,,,Exists; audio quality and LUFS require final QA,5e8c208b1423369a1b0878350b165c9326faf955b5551be5273b5f513b86273b,candidate_not_approved
+assets/audio/cues/cue_countdown.ogg,,cue,,,,Prior media kit v0.4,audio synthesis (prior build),no,Verify before commercial distribution,,,Exists; audio quality and LUFS require final QA,e21ad387273360f12474868e881e8f0d46b3886bcd2cb75ae76ceeb5d2de9c3a,candidate_not_approved
+assets/audio/cues/cue_countdown.m4a,,cue,,,,Prior media kit v0.4,audio synthesis (prior build),no,Verify before commercial distribution,,,Exists; audio quality and LUFS require final QA,6ce9572c3511b6ab60af79be9559d808d8e0ff25657354d2502df399ad1f6a44,candidate_not_approved
+assets/audio/cues/cue_complete.ogg,,cue,,,,Prior media kit v0.4,audio synthesis (prior build),no,Verify before commercial distribution,,,Exists; audio quality and LUFS require final QA,f3df2a86059a9d36f7823d11312feba1b9a35f173ebef316d27c2c77be69e598,candidate_not_approved
+assets/audio/cues/cue_complete.m4a,,cue,,,,Prior media kit v0.4,audio synthesis (prior build),no,Verify before commercial distribution,,,Exists; audio quality and LUFS require final QA,e8287dde950e24383183213da699686c82521bf2dc410c7ea795f69afe726b38,candidate_not_approved
+assets/icons/app_icon_ios_1024.png,,icon,,,,Prior media kit v0.4,vector/python,no,Verify brand rights,,,Exists; brand signoff required,06f90be58eea1f2b1f079b8e752561acbb4a8c89be884aab9aa278fb9035dc53,candidate_not_approved
+assets/icons/app_icon_master_1024.png,,icon,,,,Prior media kit v0.4,vector/python,no,Verify brand rights,,,Exists; brand signoff required,06f90be58eea1f2b1f079b8e752561acbb4a8c89be884aab9aa278fb9035dc53,candidate_not_approved
+assets/icons/android_adaptive_background_432.png,,icon,,,,Prior media kit v0.4,vector/python,no,Verify brand rights,,,Exists; brand signoff required,333bf0a757668e9984530527fff5676841b7c35e5d8d02da7809e35e6531645b,candidate_not_approved
+assets/icons/android_adaptive_foreground_432.png,,icon,,,,Prior media kit v0.4,vector/python,no,Verify brand rights,,,Exists; brand signoff required,cd6d1e6549e2813f1f8f96a29bfee2a9f606b4639ce58a89a91f36b85711d0f3,candidate_not_approved

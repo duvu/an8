@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "systemId": "SYS-WQX",
+  "slug": "wuqinxi",
+  "titleVi": "Ngũ Cầm Hí",
+  "titleEn": "Wu Qin Xi — Five Animals",
+  "numberOfForms": 10,
+  "level": "moderate",
+  "summary": "5 loài vật • 10 động tác",
+  "lineageNotes": "5 loài vật (hổ, hươu, gấu, khỉ, chim), mỗi loài hai động tác theo bộ thường dạy",
+  "reviewStatus": "draft",
+  "demoOnly": true,
+  "sourceReferences": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7644302/",
+    "https://www.healthqigong.org/index.php/learn"
+  ],
+  "coverPath": "assets/covers/wuqinxi.webp",
+  "routineIds": [
+    "R103"
+  ],
+  "exerciseTitles": [
+    {
+      "exerciseId": "E301",
+      "number": 1,
+      "titleVi": "Hổ giơ vuốt",
+      "sourceNameEn": "Tiger Raising",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E302",
+      "number": 2,
+      "titleVi": "Hổ vồ mồi",
+      "sourceNameEn": "Tiger Seizing",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E303",
+      "number": 3,
+      "titleVi": "Hươu húc gạc",
+      "sourceNameEn": "Deer Colliding",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E304",
+      "number": 4,
+      "titleVi": "Hươu chạy",
+      "sourceNameEn": "Deer Running",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E305",
+      "number": 5,
+      "titleVi": "Gấu lắc mình",
+      "sourceNameEn": "Bear Swaying",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E306",
+      "number": 6,
+      "titleVi": "Gấu xoa bụng",
+      "sourceNameEn": "Bear Rubbing",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E307",
+      "number": 7,
+      "titleVi": "Khỉ cảnh giác",
+      "sourceNameEn": "Monkey Alert",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E308",
+      "number": 8,
+      "titleVi": "Khỉ hái quả",
+      "sourceNameEn": "Monkey Plucking",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E309",
+      "number": 9,
+      "titleVi": "Chim vươn cánh",
+      "sourceNameEn": "Bird Stretching",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E310",
+      "number": 10,
+      "titleVi": "Chim bay",
+      "sourceNameEn": "Bird Flying",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    }
+  ],
+  "safetyPolicy": [
+    "Đây chỉ là tên thức, không phải hướng dẫn kỹ thuật đã duyệt.",
+    "Không nín thở, rặn, ép biên độ, quay hoặc giật cổ mạnh.",
+    "Người có chóng mặt, tăng huyết áp chưa kiểm soát, triệu chứng thần kinh mới hoặc đau nên tham vấn chuyên môn trước khi tập."
+  ]
+}

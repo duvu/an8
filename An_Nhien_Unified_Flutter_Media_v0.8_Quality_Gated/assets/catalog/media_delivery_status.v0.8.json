@@ -1,0 +1,886 @@
+{
+  "schemaVersion": 1,
+  "version": "0.8.0",
+  "product": "An Nhiên",
+  "packageStatus": "production_candidate_not_publishable",
+  "styleLock": "v0.7 original studio imagery (v1.1 basics/v0.3 Eastern); no v0.6 regenerated vectors",
+  "safetyCriticalIssues": {
+    "E04": [
+      "03.png: original image shows arms over head, contrary to safety instruction. DO NOT PUBLISH"
+    ],
+    "E06": [
+      "Original 01–04 lack sturdy handhold; 02–04 lift knee too high. DO NOT PUBLISH"
+    ]
+  },
+  "mandatoryExpertReview": true,
+  "exerciseCount": 67,
+  "exercises": {
+    "E01": {
+      "title": "Thở tự nhiên",
+      "system": "basic",
+      "listing": "assets/listing/E01_cover.webp",
+      "existingFrames": [
+        "assets/series/E01/frames/01.png",
+        "assets/series/E01/frames/02.png",
+        "assets/series/E01/frames/03.png",
+        "assets/series/E01/frames/04.png"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E02": {
+      "title": "Xoay vai nhẹ",
+      "system": "basic",
+      "listing": "assets/listing/E02_cover.webp",
+      "existingFrames": [
+        "assets/series/E02/frames/01.png",
+        "assets/series/E02/frames/02.png",
+        "assets/series/E02/frames/03.png",
+        "assets/series/E02/frames/04.png"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E03": {
+      "title": "Bàn tay và cổ chân",
+      "system": "basic",
+      "listing": "assets/listing/E03_cover.webp",
+      "existingFrames": [
+        "assets/series/E03/frames/01.png",
+        "assets/series/E03/frames/02.png",
+        "assets/series/E03/frames/03.png",
+        "assets/series/E03/frames/04.png",
+        "assets/series/E03/frames/05.png",
+        "assets/series/E03/frames/06.png"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E04": {
+      "title": "Nâng hạ hai tay",
+      "system": "basic",
+      "listing": "assets/listing/E04_cover.webp",
+      "existingFrames": [
+        "assets/series/E04/frames/01.png",
+        "assets/series/E04/frames/02.png",
+        "assets/series/E04/frames/03.png",
+        "assets/series/E04/frames/04.png"
+      ],
+      "instructionStatus": "blocked_known_pose_issue",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E05": {
+      "title": "Chuyển trọng tâm",
+      "system": "basic",
+      "listing": "assets/listing/E05_cover.webp",
+      "existingFrames": [
+        "assets/series/E05/frames/01.png",
+        "assets/series/E05/frames/02.png",
+        "assets/series/E05/frames/03.png",
+        "assets/series/E05/frames/04.png"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E06": {
+      "title": "Đi bộ tại chỗ",
+      "system": "basic",
+      "listing": "assets/listing/E06_cover.webp",
+      "existingFrames": [
+        "assets/series/E06/frames/01.png",
+        "assets/series/E06/frames/02.png",
+        "assets/series/E06/frames/03.png",
+        "assets/series/E06/frames/04.png"
+      ],
+      "instructionStatus": "blocked_known_pose_issue",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E07": {
+      "title": "Ngồi thư giãn",
+      "system": "basic",
+      "listing": "assets/listing/E07_cover.webp",
+      "existingFrames": [
+        "assets/series/E07/frames/01.png",
+        "assets/series/E07/frames/02.png",
+        "assets/series/E07/frames/03.png",
+        "assets/series/E07/frames/04.png"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E101": {
+      "title": "Song thủ thác thiên",
+      "system": "baduanjin",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E101_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E101/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E101/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E101/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E101/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E102": {
+      "title": "Tả hữu khai cung",
+      "system": "baduanjin",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E102_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E102/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E102/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E102/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E102/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E103": {
+      "title": "Điều lý tỳ vị, nhất thủ cử",
+      "system": "baduanjin",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E103_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E103/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E103/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E103/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E103/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E104": {
+      "title": "Ngũ lao thất thương vãng hậu tiều",
+      "system": "baduanjin",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E104_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E104/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E104/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E104/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E104/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E105": {
+      "title": "Dao đầu bãi vĩ",
+      "system": "baduanjin",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E105_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E105/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E105/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E105/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E105/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E106": {
+      "title": "Lưỡng thủ phàn túc",
+      "system": "baduanjin",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E106_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E106/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E106/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E106/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E106/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E107": {
+      "title": "Toản quyền nộ mục",
+      "system": "baduanjin",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E107_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E107/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E107/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E107/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E107/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E108": {
+      "title": "Bối hậu thất điên",
+      "system": "baduanjin",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E108_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E108/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E108/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E108/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E108/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E201": {
+      "title": "Vi Đà hiến chử — thức 1",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E201_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E201/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E201/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E201/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E201/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E202": {
+      "title": "Vi Đà hiến chử — thức 2",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E202_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E203": {
+      "title": "Vi Đà hiến chử — thức 3",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E203_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E204": {
+      "title": "Trích tinh hoán đẩu",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E204_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E205": {
+      "title": "Đảo duệ cửu ngưu vĩ",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E205_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E206": {
+      "title": "Xuất trảo lượng sí",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E206_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E207": {
+      "title": "Cửu quỷ bạt mã đao",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E207_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E208": {
+      "title": "Tam bàn lạc địa",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E208_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E209": {
+      "title": "Thanh long thám trảo",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E209_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E210": {
+      "title": "Ngọa hổ phác thực",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E210_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E211": {
+      "title": "Đả cung",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E211_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E212": {
+      "title": "Điệu vĩ",
+      "system": "yijinjing",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E212_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E301": {
+      "title": "Hổ giơ vuốt",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E301_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E301/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E301/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E301/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E301/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E302": {
+      "title": "Hổ vồ mồi",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E302_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E303": {
+      "title": "Hươu húc gạc",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E303_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E304": {
+      "title": "Hươu chạy",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E304_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E305": {
+      "title": "Gấu lắc mình",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E305_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E306": {
+      "title": "Gấu xoa bụng",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E306_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E307": {
+      "title": "Khỉ cảnh giác",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E307_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E308": {
+      "title": "Khỉ hái quả",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E308_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E309": {
+      "title": "Chim vươn cánh",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E309_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E309/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E309/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E309/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E309/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E310": {
+      "title": "Chim bay",
+      "system": "wuqinxi",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E310_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E401": {
+      "title": "Âm Xu (嘘)",
+      "system": "liuzijue",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E401_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E401/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E401/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E401/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E401/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E402": {
+      "title": "Âm He (呵)",
+      "system": "liuzijue",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E402_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E403": {
+      "title": "Âm Hu (呼)",
+      "system": "liuzijue",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E403_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E404": {
+      "title": "Âm Si (呬)",
+      "system": "liuzijue",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E404_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E405": {
+      "title": "Âm Chui (吹)",
+      "system": "liuzijue",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E405_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E406": {
+      "title": "Âm Xi (嘻)",
+      "system": "liuzijue",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E406_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E501": {
+      "title": "Khởi thế",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E501_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E501/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E501/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E501/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E501/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E502": {
+      "title": "Dã mã phân tông",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E502_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E503": {
+      "title": "Bạch hạc lượng sí",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E503_cover.webp",
+      "existingFrames": [
+        "packages/an_nhien_eastern_content/assets/series/E503/04_step_1.webp",
+        "packages/an_nhien_eastern_content/assets/series/E503/05_step_2.webp",
+        "packages/an_nhien_eastern_content/assets/series/E503/06_step_3.webp",
+        "packages/an_nhien_eastern_content/assets/series/E503/07_step_4.webp"
+      ],
+      "instructionStatus": "draft_unreviewed",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E504": {
+      "title": "Lâu tất ảo bộ",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E504_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E505": {
+      "title": "Thủ huy tỳ bà",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E505_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E506": {
+      "title": "Đảo quyển quăng",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E506_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E507": {
+      "title": "Tả lãm tước vĩ",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E507_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E508": {
+      "title": "Hữu lãm tước vĩ",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E508_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E509": {
+      "title": "Đơn tiên",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E509_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E510": {
+      "title": "Vân thủ",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E510_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E511": {
+      "title": "Đơn tiên (lặp)",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E511_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E512": {
+      "title": "Cao thám mã",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E512_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E513": {
+      "title": "Hữu đăng cước",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E513_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E514": {
+      "title": "Song phong quán nhĩ",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E514_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E515": {
+      "title": "Chuyển thân tả đăng cước",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E515_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E516": {
+      "title": "Tả hạ thế độc lập",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E516_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E517": {
+      "title": "Hữu hạ thế độc lập",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E517_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E518": {
+      "title": "Tả hữu xuyên thoa",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E518_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E519": {
+      "title": "Hải để châm",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E519_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E520": {
+      "title": "Thiểm thông tý",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E520_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E521": {
+      "title": "Chuyển thân ban lan chùy",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E521_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E522": {
+      "title": "Như phong tự bế",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E522_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E523": {
+      "title": "Thập tự thủ",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E523_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    },
+    "E524": {
+      "title": "Thu thế",
+      "system": "taichi24",
+      "listing": "packages/an_nhien_eastern_content/assets/listing/E524_cover.webp",
+      "existingFrames": [],
+      "instructionStatus": "missing",
+      "approved": false,
+      "video": null,
+      "recordedVoice": null,
+      "synchronizedVtt": null
+    }
+  },
+  "requiredChairVariants": [
+    "E102",
+    "E105",
+    "E106",
+    "E108",
+    "E210",
+    "E309",
+    "E310",
+    "E503",
+    "E513",
+    "E515",
+    "E516",
+    "E517"
+  ],
+  "originalAmbientMusic": [
+    "assets/audio/music/music_morning.m4a",
+    "assets/audio/music/music_evening.m4a",
+    "assets/audio/music/music_qigong.m4a",
+    "assets/audio/music/music_five_animals.m4a",
+    "assets/audio/music/music_six_sounds.m4a",
+    "assets/audio/music/music_taichi.m4a"
+  ],
+  "recordingPolicy": "No fake video, impersonated professional voice, or inferred qigong pronunciation"
+}

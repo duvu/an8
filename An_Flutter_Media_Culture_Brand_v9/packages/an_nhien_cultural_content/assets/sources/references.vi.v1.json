@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "1.0",
+  "items": [
+    {
+      "id": "UNESCO_TAIJI",
+      "title": "UNESCO — Taijiquan (di sản văn hóa phi vật thể, 2020)",
+      "url": "https://ich.unesco.org/en/RL/tai-ji-quan-mind-body-practice-in-china-00424",
+      "category": "institutional",
+      "scope": [
+        "taichi24"
+      ]
+    },
+    {
+      "id": "CHQA_FOUR",
+      "title": "British Health Qigong Association — Four Health Qigong sets",
+      "url": "https://healthqigong.org.uk/info/?page_alias=health_qigong_sets",
+      "category": "practice_organization",
+      "scope": [
+        "baduanjin",
+        "yijinjing",
+        "wuqinxi",
+        "liuzijue"
+      ]
+    },
+    {
+      "id": "BADUANJIN_HISTORY",
+      "title": "British Health Qigong Association — Origin of Ba Duan Jin",
+      "url": "https://healthqigong.org.uk/info/?page_alias=ba_duan_jin_article_09_origin",
+      "category": "practice_organization",
+      "scope": [
+        "baduanjin"
+      ]
+    },
+    {
+      "id": "WUQINXI_HISTORY",
+      "title": "Yang & Wu (2011), Origin and development of qigong-wuqinxi, PubMed PMID: 22340002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22340002/",
+      "category": "scholarly_abstract",
+      "scope": [
+        "wuqinxi"
+      ]
+    },
+    {
+      "id": "TAIJI_24_1956",
+      "title": "Gu Feng Tai Chi — Standard Forms (Yang 24, 1956)",
+      "url": "https://gufengtaichi.org/class-info/styles-and-forms/standard-forms/",
+      "category": "practice_school",
+      "scope": [
+        "taichi24"
+      ]
+    },
+    {
+      "id": "DAOYIN_REVIEW",
+      "title": "Dao Yin (a.k.a. Qigong): Origin, Development, Potential Mechanisms, and Clinical Applications (2019)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6854271/",
+      "category": "scholarly_review",
+      "scope": [
+        "baduanjin",
+        "yijinjing",
+        "wuqinxi",
+        "liuzijue"
+      ]
+    },
+    {
+      "id": "YIJIN_TRADITION",
+      "title": "Health Qigong Association — Yi Jin Jing practice summary",
+      "url": "https://healthqigong.org.uk/info/?page_alias=health_qigong_sets",
+      "category": "practice_organization",
+      "scope": [
+        "yijinjing"
+      ]
+    }
+  ]
+}

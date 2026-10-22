@@ -1,0 +1,41 @@
+{
+  "exercise_id": "E523",
+  "title": "Thập tự thủ",
+  "locale": "vi-VN",
+  "duration_ms": 55000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thức 23: Thập tự thủ."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Xoay phải, tách tay."
+    },
+    {
+      "offset_ms": 18000,
+      "text": "Tay vòng xuống, chân song song."
+    },
+    {
+      "offset_ms": 36000,
+      "text": "Bắt chéo tay trước ngực."
+    },
+    {
+      "offset_ms": 45000,
+      "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+    },
+    {
+      "offset_ms": 50000,
+      "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+    }
+  ]
+}

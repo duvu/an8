@@ -1,0 +1,41 @@
+{
+  "exercise_id": "E206",
+  "title": "Xuất trảo lượng sí",
+  "locale": "vi-VN",
+  "duration_ms": 75000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thức 6: Xuất trảo lượng sí."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Dựng hai bàn tay trước ngực."
+    },
+    {
+      "offset_ms": 25000,
+      "text": "Đẩy chậm ra trước, xòe ngón."
+    },
+    {
+      "offset_ms": 50000,
+      "text": "Duỗi tay, xòe ngón như móng vuốt; thu về."
+    },
+    {
+      "offset_ms": 62000,
+      "text": "Thở ra khi đẩy, hít vào khi thu."
+    },
+    {
+      "offset_ms": 70000,
+      "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+    }
+  ]
+}

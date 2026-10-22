@@ -1,0 +1,24 @@
+{
+  "version": "9.0",
+  "appName": "An",
+  "module": "taichi24_overview",
+  "routineId": "R105",
+  "title": "Thái Cực Quyền 24 thức",
+  "pages": [
+    {
+      "id": "tc24-01-08",
+      "title": "Thức 1–8",
+      "asset": "packages/an_nhien_eastern_content/assets/education/taichi24/taichi24_01_08.webp"
+    },
+    {
+      "id": "tc24-09-16",
+      "title": "Thức 9–16",
+      "asset": "packages/an_nhien_eastern_content/assets/education/taichi24/taichi24_09_16.webp"
+    },
+    {
+      "id": "tc24-17-24",
+      "title": "Thức 17–24",
+      "asset": "packages/an_nhien_eastern_content/assets/education/taichi24/taichi24_17_24.webp"
+    }
+  ]
+}

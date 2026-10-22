@@ -1,0 +1,76 @@
+name: an_nhien_eastern_content
+description: Draft Vietnamese Eastern qigong content catalogs and decorative media for An Nhien Flutter.
+version: 0.1.0
+publish_to: none
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  assets:
+    - assets/catalog/
+    - assets/covers/
+    - assets/series/E101/
+    - assets/series/E102/
+    - assets/series/E103/
+    - assets/series/E104/
+    - assets/series/E105/
+    - assets/series/E106/
+    - assets/series/E107/
+    - assets/series/E108/
+    - assets/series/E201/
+    - assets/series/E202/
+    - assets/series/E203/
+    - assets/series/E204/
+    - assets/series/E205/
+    - assets/series/E206/
+    - assets/series/E207/
+    - assets/series/E208/
+    - assets/series/E209/
+    - assets/series/E210/
+    - assets/series/E211/
+    - assets/series/E212/
+    - assets/series/E301/
+    - assets/series/E302/
+    - assets/series/E303/
+    - assets/series/E304/
+    - assets/series/E305/
+    - assets/series/E306/
+    - assets/series/E307/
+    - assets/series/E308/
+    - assets/series/E309/
+    - assets/series/E310/
+    - assets/series/E401/
+    - assets/series/E402/
+    - assets/series/E403/
+    - assets/series/E404/
+    - assets/series/E405/
+    - assets/series/E406/
+    - assets/series/E501/
+    - assets/series/E502/
+    - assets/series/E503/
+    - assets/series/E504/
+    - assets/series/E505/
+    - assets/series/E506/
+    - assets/series/E507/
+    - assets/series/E508/
+    - assets/series/E509/
+    - assets/series/E510/
+    - assets/series/E511/
+    - assets/series/E512/
+    - assets/series/E513/
+    - assets/series/E514/
+    - assets/series/E515/
+    - assets/series/E516/
+    - assets/series/E517/
+    - assets/series/E518/
+    - assets/series/E519/
+    - assets/series/E520/
+    - assets/series/E521/
+    - assets/series/E522/
+    - assets/series/E523/
+    - assets/series/E524/

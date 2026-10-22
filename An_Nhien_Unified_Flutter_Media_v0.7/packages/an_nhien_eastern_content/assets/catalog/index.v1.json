@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "packageId": "an_nhien_eastern_content",
+  "version": "0.1.0-draft",
+  "locale": "vi-VN",
+  "scope": "optional-extension-for-v1.1",
+  "requiresApprovedMediaForProduction": true,
+  "practiceSystems": [
+    {
+      "slug": "baduanjin",
+      "systemId": "SYS-BDJ",
+      "title": "Bát Đoạn Cẩm",
+      "exerciseCount": 8,
+      "routineCount": 1,
+      "catalogAsset": "assets/catalog/baduanjin.draft.v1.json",
+      "systemAsset": "assets/catalog/baduanjin.system.v1.json",
+      "coverAsset": "assets/covers/baduanjin.webp",
+      "status": "draft",
+      "demoOnly": true,
+      "sourceReferences": [
+        "https://www.healthqigong.org/index.php/learn",
+        "https://www.shaolinoverseas.com/articlesbyshifu/shaolin-temple-ba-duan-jin"
+      ]
+    },
+    {
+      "slug": "yijinjing",
+      "systemId": "SYS-YJJ",
+      "title": "Dịch Cân Kinh",
+      "exerciseCount": 12,
+      "routineCount": 1,
+      "catalogAsset": "assets/catalog/yijinjing.draft.v1.json",
+      "systemAsset": "assets/catalog/yijinjing.system.v1.json",
+      "coverAsset": "assets/covers/yijinjing.webp",
+      "status": "draft",
+      "demoOnly": true,
+      "sourceReferences": [
+        "https://www.healthqigong.org/index.php/learn",
+        "https://brennantranslation.wordpress.com/2017/11/30/wang-huaiqi-on-twelve-posture-yijinjing/"
+      ]
+    },
+    {
+      "slug": "wuqinxi",
+      "systemId": "SYS-WQX",
+      "title": "Ngũ Cầm Hí",
+      "exerciseCount": 10,
+      "routineCount": 1,
+      "catalogAsset": "assets/catalog/wuqinxi.draft.v1.json",
+      "systemAsset": "assets/catalog/wuqinxi.system.v1.json",
+      "coverAsset": "assets/covers/wuqinxi.webp",
+      "status": "draft",
+      "demoOnly": true,
+      "sourceReferences": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7644302/",
+        "https://www.healthqigong.org/index.php/learn"
+      ]
+    },
+    {
+      "slug": "liuzijue",
+      "systemId": "SYS-LZJ",
+      "title": "Lục Tự Quyết",
+      "exerciseCount": 6,
+      "routineCount": 1,
+      "catalogAsset": "assets/catalog/liuzijue.draft.v1.json",
+      "systemAsset": "assets/catalog/liuzijue.system.v1.json",
+      "coverAsset": "assets/covers/liuzijue.webp",
+      "status": "draft",
+      "demoOnly": true,
+      "sourceReferences": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5766674/",
+        "https://wudang.academy/en/page/qigong-liu-zi-jue"
+      ]
+    },
+    {
+      "slug": "taichi24",
+      "systemId": "SYS-TC24",
+      "title": "Thái Cực Quyền 24 thức",
+      "exerciseCount": 24,
+      "routineCount": 1,
+      "catalogAsset": "assets/catalog/taichi24.draft.v1.json",
+      "systemAsset": "assets/catalog/taichi24.system.v1.json",
+      "coverAsset": "assets/covers/taichi24.webp",
+      "status": "draft",
+      "demoOnly": true,
+      "sourceReferences": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8245205/",
+        "https://gufengtaichi.org/class-info/styles-and-forms/standard-forms/"
+      ]
+    },
+    {
+      "slug": "xisuijing",
+      "systemId": "SYS-XSJ",
+      "title": "Tẩy Tủy Kinh",
+      "exerciseCount": 0,
+      "routineCount": 0,
+      "catalogAsset": null,
+      "systemAsset": "assets/catalog/xisuijing.research.v1.json",
+      "coverAsset": "assets/covers/xisuijing.webp",
+      "status": "research_only",
+      "demoOnly": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "exercise_id": "E01",
+  "title": "Thở tự nhiên",
+  "locale": "vi-VN",
+  "duration_ms": 120000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thở tự nhiên."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Ngồi vững, vai và hàm thả lỏng."
+    },
+    {
+      "offset_ms": 30000,
+      "text": "Đặt tay lên bụng nếu thấy dễ chịu."
+    },
+    {
+      "offset_ms": 60000,
+      "text": "Hít thở nhẹ theo nhịp tự nhiên."
+    },
+    {
+      "offset_ms": 90000,
+      "text": "Tiếp tục thở đều, không nín thở."
+    },
+    {
+      "offset_ms": 105000,
+      "text": "Thở đều, nhẹ nhàng."
+    },
+    {
+      "offset_ms": 115000,
+      "text": "Không cố hít quá sâu hoặc nín thở."
+    }
+  ]
+}

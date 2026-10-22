@@ -1,0 +1,11 @@
+E513 — pose_start_chair. Produce an expert-approved adapted pose for a participant needing chair/support assistance.
+Source-form reference (not a literal pose instruction):
+E513 – pose_start. Thái Cực Quyền 24 thức – thức 13: Hữu đăng cước (Right Heel Kick). Khung 1 – bắt đầu.
+Tư thế: Hai tay bắt chéo trước ngực, trọng tâm chân trái (vịn ghế nếu cần).
+Góc máy: chính diện. Giữ đúng nhân vật nữ áo kem và bối cảnh đã thống nhất. Ảnh vuông, toàn thân, không chữ.
+
+Mandatory adaptation specification from content brief:
+Một tay vịn lưng ghế, chỉ nhấc gối thấp, không đá gót. Ghế gỗ chắc chắn nhìn rõ trong khung.
+
+Resolve standing vs seated details by following the adaptation specification. Do NOT generate until an expert has signed off on the exact adapted joint positions, body weight distribution and chair placement. 1:1 photorealistic full body. No text.
+

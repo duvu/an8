@@ -1,0 +1,41 @@
+{
+  "exercise_id": "E212",
+  "title": "Điệu vĩ",
+  "locale": "vi-VN",
+  "duration_ms": 75000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thức 12: Điệu vĩ."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Đan tay đẩy ra trước."
+    },
+    {
+      "offset_ms": 25000,
+      "text": "Cúi nhẹ, tay đan đẩy xuống."
+    },
+    {
+      "offset_ms": 50000,
+      "text": "Quay đầu nhìn sau, hông lắc cùng bên; đổi bên."
+    },
+    {
+      "offset_ms": 62000,
+      "text": "Thở tự nhiên, không nín thở."
+    },
+    {
+      "offset_ms": 70000,
+      "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+    }
+  ]
+}

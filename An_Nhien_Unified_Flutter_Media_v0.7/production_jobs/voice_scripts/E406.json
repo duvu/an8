@@ -1,0 +1,41 @@
+{
+  "exercise_id": "E406",
+  "title": "Âm Xi (嘻)",
+  "locale": "vi-VN",
+  "duration_ms": 75000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": true,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thức 6: Âm Xi (嘻)."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Mu bàn tay áp nhau trước bụng."
+    },
+    {
+      "offset_ms": 25000,
+      "text": "Nâng lên ngực, tách ra lên cao."
+    },
+    {
+      "offset_ms": 50000,
+      "text": "Hạ tay sang hai bên, thở ra đọc \"xī\"."
+    },
+    {
+      "offset_ms": 62000,
+      "text": "Hít vào khi nâng, thở ra khi hạ và phát âm."
+    },
+    {
+      "offset_ms": 70000,
+      "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+    }
+  ]
+}

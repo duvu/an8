@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "exerciseId": "E506",
+  "program": "taichi24",
+  "reviewStatus": "draft",
+  "frames": [
+    {
+      "slot": "pose-start",
+      "assetPath": null
+    },
+    {
+      "slot": "pose-transition",
+      "assetPath": null
+    },
+    {
+      "slot": "pose-end",
+      "assetPath": null
+    }
+  ],
+  "videoPath": null,
+  "voicePath": null,
+  "subtitlePath": null,
+  "contentSafetyReviewer": null,
+  "licenseVerified": false,
+  "note": "Decorative cards in catalog are NOT pose/keyframe instruction."
+}

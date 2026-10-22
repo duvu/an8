@@ -1,0 +1,24 @@
+{
+  "exerciseId": "E01",
+  "title": "Thở tự nhiên",
+  "totalSeconds": 120,
+  "status": "script-awaiting-voice-video-review",
+  "cues": [
+    {
+      "atSeconds": 0,
+      "text": "Ngồi vững, vai và hàm thả lỏng."
+    },
+    {
+      "atSeconds": 30,
+      "text": "Đặt tay lên bụng nếu dễ chịu."
+    },
+    {
+      "atSeconds": 60,
+      "text": "Hít thở nhẹ theo nhịp tự nhiên."
+    },
+    {
+      "atSeconds": 90,
+      "text": "Tiếp tục thở đều, không nín thở."
+    }
+  ]
+}

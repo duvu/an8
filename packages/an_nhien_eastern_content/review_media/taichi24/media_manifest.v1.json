@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "contentId": "taichi24-review-media",
+  "version": "2026.10.20.2",
+  "locale": "vi-VN",
+  "releaseStatus": "review-only",
+  "demoOnly": true,
+  "expertReviewRequired": true,
+  "styleLock": {
+    "referenceAssets": [
+      "assets/listing/E501_cover.webp",
+      "assets/listing/E503_cover.webp",
+      "assets/series/E501/04_step_1.webp",
+      "assets/series/E503/04_step_1.webp"
+    ],
+    "character": "Cùng nam người Việt 50–60 tuổi, tóc đen ngắn",
+    "wardrobe": "Áo thun cổ tròn teal đậm, quần đen rộng, giày tập trắng",
+    "environment": "Studio kem ấm, sàn gỗ sáng, cây xanh nhỏ làm mờ, ánh sáng mềm đều",
+    "blockingMismatch": [
+      "identity",
+      "wardrobe",
+      "environment",
+      "lighting",
+      "camera",
+      "photographicStyle"
+    ]
+  },
+  "overviewBoards": [
+    {
+      "id": "tc24-01-08-v3",
+      "path": "assets/education/taichi24/taichi24_01_08_v3.webp",
+      "sha256": "b612f0a67c2c94ae2385ee2dcb0682fe6cd724726bd9b22a132c0421d9b2bd94",
+      "width": 1055,
+      "height": 1491,
+      "changes": [
+        "Sửa nhãn thức 6: Đảo quyển quăng",
+        "Khóa nhân vật và phong cách theo E501/E503 đang dùng trong app"
+      ]
+    },
+    {
+      "id": "tc24-09-16-v3",
+      "path": "assets/education/taichi24/taichi24_09_16_v3.webp",
+      "sha256": "360452884b0e3d0e978fd20697515cfd60661683216b6199219f679692d79316",
+      "width": 1055,
+      "height": 1491,
+      "changes": [
+        "Thức 12 dùng bộ hư, mũi chân chạm nhẹ sàn",
+        "Thức 15 thể hiện đá gót trái, khác hướng thức 13",
+        "Khóa nhân vật và phong cách theo E501/E503 đang dùng trong app"
+      ]
+    },
+    {
+      "id": "tc24-17-24-v3",
+      "path": "assets/education/taichi24/taichi24_17_24_v3.webp",
+      "sha256": "bc74dfc9e68566635632fb563315a7dac3dab7a5a8a9aed62ec61362c104f02f",
+      "width": 1055,
+      "height": 1491,
+      "changes": [
+        "Sửa nhãn thức 22: Như phong tự bế",
+        "Sửa nhãn thức 24: Thu thế",
+        "Khóa nhân vật và phong cách theo E501/E503 đang dùng trong app"
+      ]
+    }
+  ],
+  "ambientAudioCandidate": {
+    "path": "review_media/taichi24/audio/music_taichi_candidate.m4a",
+    "sha256": "672dc921f5dfbb509ebeafc992d8ebb3b691c1f53a650355fca4fe42e09983a6",
+    "codec": "AAC",
+    "sampleRateHz": 48000,
+    "channels": 2,
+    "durationMs": 120000,
+    "integratedLufs": -23.1,
+    "truePeakDbfs": -13.4,
+    "status": "candidate-audition",
+    "bundledInApp": false,
+    "licenseNote": "Bản tổng hợp nhạc cụ số nội bộ; cần chủ sản phẩm nghe duyệt và xác nhận quyền trước phát hành."
+  },
+  "narrationDrafts": {
+    "directory": "review_media/taichi24/narration",
+    "count": 24,
+    "pattern": "E5xx.txt",
+    "status": "script-preview-only"
+  },
+  "subtitleDrafts": {
+    "directory": "review_media/taichi24/subtitles",
+    "count": 24,
+    "pattern": "E5xx.vi.vtt",
+    "status": "draft-awaiting-final-voice-sync"
+  },
+  "blockedMedia": [
+    "24 voice-over recordings",
+    "24 expert-approved instructional image sequences",
+    "24 recorded and approved instructional videos",
+    "chair/support variants for E503, E513, E515, E516 and E517"
+  ]
+}

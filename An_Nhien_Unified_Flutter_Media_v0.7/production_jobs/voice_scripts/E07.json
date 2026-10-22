@@ -1,0 +1,45 @@
+{
+  "exercise_id": "E07",
+  "title": "Ngồi thư giãn",
+  "locale": "vi-VN",
+  "duration_ms": 60000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Ngồi thư giãn."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Ngồi trên ghế chắc chắn, chân chạm sàn."
+    },
+    {
+      "offset_ms": 15000,
+      "text": "Giữ lưng thoải mái, thở tự nhiên."
+    },
+    {
+      "offset_ms": 30000,
+      "text": "Buông lỏng vai, hàm và bàn tay."
+    },
+    {
+      "offset_ms": 45000,
+      "text": "Ngồi yên một lúc, chú ý hơi thở."
+    },
+    {
+      "offset_ms": 52000,
+      "text": "Thở đều, nhẹ nhàng."
+    },
+    {
+      "offset_ms": 55000,
+      "text": "Không ép hoặc điều khiển nhịp thở quá mức."
+    }
+  ]
+}

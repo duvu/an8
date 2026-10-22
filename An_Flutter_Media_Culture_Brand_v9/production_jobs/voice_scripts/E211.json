@@ -1,0 +1,41 @@
+{
+  "exercise_id": "E211",
+  "title": "Đả cung",
+  "locale": "vi-VN",
+  "duration_ms": 75000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thức 11: Đả cung."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Hai tay áp tai, ngón đặt sau gáy."
+    },
+    {
+      "offset_ms": 25000,
+      "text": "Gõ nhẹ ngón tay sau đầu."
+    },
+    {
+      "offset_ms": 50000,
+      "text": "Cúi chậm, cuộn lưng xuống, rồi cuộn lên."
+    },
+    {
+      "offset_ms": 62000,
+      "text": "Thở ra khi cúi, hít vào khi lên."
+    },
+    {
+      "offset_ms": 70000,
+      "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+    }
+  ]
+}

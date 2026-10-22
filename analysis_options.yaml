@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  language:
+    strict-casts: true
+    strict-inference: true
+    strict-raw-types: true
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - lib/app/localization/generated/**
+    # Content / media drops as delivered (sources, not app code).
+    - An_Nhien_*/**
+    - An_Flutter_*/**

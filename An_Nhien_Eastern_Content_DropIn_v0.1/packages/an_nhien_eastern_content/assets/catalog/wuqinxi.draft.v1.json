@@ -1,0 +1,697 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "an-nhien-wuqinxi",
+  "catalogVersion": "2026.10.18-draft.1",
+  "locale": "vi-VN",
+  "status": "draft",
+  "demoOnly": true,
+  "contentManagement": {
+    "source": "git-managed-manifest",
+    "futureBackend": "ContentCatalogRepository / remote CMS adapter",
+    "syncEnabled": false
+  },
+  "exercises": [
+    {
+      "id": "E301",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Hổ giơ vuốt",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E301/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E301/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E301-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E301-DRAFT-SERIES-v1"
+      ]
+    },
+    {
+      "id": "E302",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Hổ vồ mồi",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E302/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E302/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E302-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E302-DRAFT-SERIES-v1"
+      ]
+    },
+    {
+      "id": "E303",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Hươu húc gạc",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E303/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E303/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E303-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E303-DRAFT-SERIES-v1"
+      ]
+    },
+    {
+      "id": "E304",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Hươu chạy",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E304/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E304/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E304-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E304-DRAFT-SERIES-v1"
+      ]
+    },
+    {
+      "id": "E305",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Gấu lắc mình",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E305/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E305/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E305-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E305-DRAFT-SERIES-v1"
+      ]
+    },
+    {
+      "id": "E306",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Gấu xoa bụng",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E306/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E306/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E306-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E306-DRAFT-SERIES-v1"
+      ]
+    },
+    {
+      "id": "E307",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Khỉ cảnh giác",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E307/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E307/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E307-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E307-DRAFT-SERIES-v1"
+      ]
+    },
+    {
+      "id": "E308",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Khỉ hái quả",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E308/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E308/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E308-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E308-DRAFT-SERIES-v1"
+      ]
+    },
+    {
+      "id": "E309",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Chim vươn cánh",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E309/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E309/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E309-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E309-DRAFT-SERIES-v1"
+      ]
+    },
+    {
+      "id": "E310",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Chim bay",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E310/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E310/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E310-DRAFT-SERIES-v1",
+      "mediaAssetIds": [
+        "E310-DRAFT-SERIES-v1"
+      ]
+    }
+  ],
+  "routines": [
+    {
+      "id": "R103",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Ngũ Cầm Hí — chuỗi tham khảo",
+      "description": "Danh sách 10 thức theo tài liệu tham khảo. Chỉ xem giới thiệu cho đến khi media và kỹ thuật đã được chuyên gia duyệt.",
+      "tags": [
+        "eastern-qigong",
+        "wuqinxi",
+        "draft",
+        "not-playable"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "totalDurationSeconds": 750,
+      "steps": [
+        {
+          "order": 1,
+          "exerciseId": "E301",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 2,
+          "exerciseId": "E302",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 3,
+          "exerciseId": "E303",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 4,
+          "exerciseId": "E304",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 5,
+          "exerciseId": "E305",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 6,
+          "exerciseId": "E306",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 7,
+          "exerciseId": "E307",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 8,
+          "exerciseId": "E308",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 9,
+          "exerciseId": "E309",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 10,
+          "exerciseId": "E310",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        }
+      ]
+    }
+  ],
+  "mediaAssets": [
+    {
+      "id": "E301-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E301/01_title.webp",
+          "bytes": 38842,
+          "sha256": "edd5ad75079d0844f47c859cfc07d5dc8494b715c50c67aa4da2c1a9bd24339c"
+        },
+        {
+          "path": "assets/series/E301/02_review_pending.webp",
+          "bytes": 9968,
+          "sha256": "2c17df092a9590ee5e47fd60f76f18ee7254c9d151340cdf113c3416af12d585"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Hổ giơ vuốt; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E302-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E302/01_title.webp",
+          "bytes": 38692,
+          "sha256": "fb71a8197a4e8949512caaf56c1309fdf2e54d13c59b9ee6d319f5e44abf452c"
+        },
+        {
+          "path": "assets/series/E302/02_review_pending.webp",
+          "bytes": 9728,
+          "sha256": "cea6416967071bdb9c4d3a27334112742b0de7fd369b04bd67418a8af83297e3"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Hổ vồ mồi; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E303-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E303/01_title.webp",
+          "bytes": 38958,
+          "sha256": "0571c58a618c5e894d482a94a777169c24117389ff2eb6f07f6e6de5afccd781"
+        },
+        {
+          "path": "assets/series/E303/02_review_pending.webp",
+          "bytes": 10172,
+          "sha256": "b352404e0d32fe671c27326543b4fc8e89b28d4e3457a179a94b9c1a6569363b"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Hươu húc gạc; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E304-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E304/01_title.webp",
+          "bytes": 38690,
+          "sha256": "b6db7edcecd70cc8db6e5cd27cecd97479ecf5dbcd9fc0252193bbc88a804d0a"
+        },
+        {
+          "path": "assets/series/E304/02_review_pending.webp",
+          "bytes": 9872,
+          "sha256": "f1b41754e231df956bcda891dd29f5c4b84d473aeefaee597d273cc42f8f2926"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Hươu chạy; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E305-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E305/01_title.webp",
+          "bytes": 39072,
+          "sha256": "3f036ce094527602aac31504efec576351c92db65f0139ad583cc3ce414360d1"
+        },
+        {
+          "path": "assets/series/E305/02_review_pending.webp",
+          "bytes": 10024,
+          "sha256": "8c6619f608c1b672b0f23af5a0f2d1a7874193df7ec4c2dc19de59ba798000b5"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Gấu lắc mình; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E306-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E306/01_title.webp",
+          "bytes": 39256,
+          "sha256": "77e3223d31d2f2d5335f999890f61d27397978b4ae9a191460470c91f8e32eb1"
+        },
+        {
+          "path": "assets/series/E306/02_review_pending.webp",
+          "bytes": 10310,
+          "sha256": "0b6eb3a3883aca4f8ada75d6006ce7a13385c9e03e9877122b5e792d16ff3e20"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Gấu xoa bụng; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E307-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E307/01_title.webp",
+          "bytes": 39214,
+          "sha256": "b534bf5b7f83f4680f95c6fcae893abb4a7db74bba25d994d08c569e8104bdaf"
+        },
+        {
+          "path": "assets/series/E307/02_review_pending.webp",
+          "bytes": 10308,
+          "sha256": "cac5679974b42b17788cebc1b9d4ea7cf6da7b92e001f673c1d4ec8444c1249e"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Khỉ cảnh giác; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E308-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E308/01_title.webp",
+          "bytes": 38824,
+          "sha256": "8fa261f36f07e634869891758b86bb328efbbf56a29e7a9d7e8d4a63d843ad6a"
+        },
+        {
+          "path": "assets/series/E308/02_review_pending.webp",
+          "bytes": 9542,
+          "sha256": "359e0a559b1619e5e33b9dfb6a0d32c798daf7557ff35748154234b50c118d5b"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Khỉ hái quả; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E309-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E309/01_title.webp",
+          "bytes": 39352,
+          "sha256": "596bdfadf0ea023c10b4df0f18086f13352b71b77fada922ca6e7a0f25394115"
+        },
+        {
+          "path": "assets/series/E309/02_review_pending.webp",
+          "bytes": 10418,
+          "sha256": "ed6d6deef4d7821cbb1bc67d99fa431717f757b1984e9437fb8ccd9c7d62ea55"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Chim vươn cánh; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E310-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E310/01_title.webp",
+          "bytes": 38382,
+          "sha256": "760ca4ed0507f8052950faa097f0faee2db574368b49405002b737cf498c56e0"
+        },
+        {
+          "path": "assets/series/E310/02_review_pending.webp",
+          "bytes": 9474,
+          "sha256": "373e20db9fae620ddfdcb2a46e287a2f2db0a12329087a30b40712ab4b3e38ab"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Chim bay; không phải hướng dẫn tập."
+    }
+  ]
+}

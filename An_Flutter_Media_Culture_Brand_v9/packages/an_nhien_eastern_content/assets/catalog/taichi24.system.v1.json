@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 1,
+  "systemId": "SYS-TC24",
+  "slug": "taichi24",
+  "titleVi": "Thái Cực Quyền 24 thức",
+  "titleEn": "Simplified Taijiquan 24 Forms",
+  "numberOfForms": 24,
+  "level": "moderate",
+  "summary": "24 thức • phối hợp thăng bằng",
+  "lineageNotes": "Thái Cực giản hóa 24 thức; tư thế khó cần biên tập biến thể và huấn luyện chuyên môn",
+  "reviewStatus": "draft",
+  "demoOnly": true,
+  "sourceReferences": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8245205/",
+    "https://gufengtaichi.org/class-info/styles-and-forms/standard-forms/"
+  ],
+  "coverPath": "assets/covers/taichi24.webp",
+  "routineIds": [
+    "R105"
+  ],
+  "exerciseTitles": [
+    {
+      "exerciseId": "E501",
+      "number": 1,
+      "titleVi": "Khởi thế",
+      "sourceNameEn": "Commencing Form",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E502",
+      "number": 2,
+      "titleVi": "Dã mã phân tông",
+      "sourceNameEn": "Part the Wild Horse’s Mane",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E503",
+      "number": 3,
+      "titleVi": "Bạch hạc lượng sí",
+      "sourceNameEn": "White Crane Spreads its Wings",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E504",
+      "number": 4,
+      "titleVi": "Lâu tất ảo bộ",
+      "sourceNameEn": "Brush Knee and Push Forward",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E505",
+      "number": 5,
+      "titleVi": "Thủ huy tỳ bà",
+      "sourceNameEn": "Playing the Lute",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E506",
+      "number": 6,
+      "titleVi": "Đảo quyển quăng",
+      "sourceNameEn": "Repulse Monkey",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E507",
+      "number": 7,
+      "titleVi": "Tả lãm tước vĩ",
+      "sourceNameEn": "Grasp Sparrow’s Tail Left",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E508",
+      "number": 8,
+      "titleVi": "Hữu lãm tước vĩ",
+      "sourceNameEn": "Grasp Sparrow’s Tail Right",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E509",
+      "number": 9,
+      "titleVi": "Đơn tiên",
+      "sourceNameEn": "Single Whip",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E510",
+      "number": 10,
+      "titleVi": "Vân thủ",
+      "sourceNameEn": "Cloud Hands",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E511",
+      "number": 11,
+      "titleVi": "Đơn tiên (lặp)",
+      "sourceNameEn": "Single Whip",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E512",
+      "number": 12,
+      "titleVi": "Cao thám mã",
+      "sourceNameEn": "High Pat on Horse",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E513",
+      "number": 13,
+      "titleVi": "Hữu đăng cước",
+      "sourceNameEn": "Right Heel Kick",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E514",
+      "number": 14,
+      "titleVi": "Song phong quán nhĩ",
+      "sourceNameEn": "Strike to the Ears with Both Fists",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E515",
+      "number": 15,
+      "titleVi": "Chuyển thân tả đăng cước",
+      "sourceNameEn": "Turn and Left Heel Kick",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E516",
+      "number": 16,
+      "titleVi": "Tả hạ thế độc lập",
+      "sourceNameEn": "Left Lower Body and Stand on One Leg",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E517",
+      "number": 17,
+      "titleVi": "Hữu hạ thế độc lập",
+      "sourceNameEn": "Right Lower Body and Stand on One Leg",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E518",
+      "number": 18,
+      "titleVi": "Tả hữu xuyên thoa",
+      "sourceNameEn": "Fair Lady Works the Shuttles",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E519",
+      "number": 19,
+      "titleVi": "Hải để châm",
+      "sourceNameEn": "Needle at Sea Bottom",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E520",
+      "number": 20,
+      "titleVi": "Thiểm thông tý",
+      "sourceNameEn": "Fan Through the Back",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E521",
+      "number": 21,
+      "titleVi": "Chuyển thân ban lan chùy",
+      "sourceNameEn": "Turn, Deflect, Parry and Punch",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E522",
+      "number": 22,
+      "titleVi": "Như phong tự bế",
+      "sourceNameEn": "Apparent Closing a Door",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E523",
+      "number": 23,
+      "titleVi": "Thập tự thủ",
+      "sourceNameEn": "Cross Hands",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E524",
+      "number": 24,
+      "titleVi": "Thu thế",
+      "sourceNameEn": "Closing Form",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    }
+  ],
+  "safetyPolicy": [
+    "Đây chỉ là tên thức, không phải hướng dẫn kỹ thuật đã duyệt.",
+    "Không nín thở, rặn, ép biên độ, quay hoặc giật cổ mạnh.",
+    "Người có chóng mặt, tăng huyết áp chưa kiểm soát, triệu chứng thần kinh mới hoặc đau nên tham vấn chuyên môn trước khi tập."
+  ]
+}

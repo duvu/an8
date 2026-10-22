@@ -1,0 +1,1017 @@
+{
+  "@@locale": "vi",
+  "appTitle": "An",
+  "splashSlogan": "Cho người hữu duyên",
+  "navHome": "Hôm nay",
+  "navLibrary": "Bài tập",
+  "navProgress": "Tiến độ",
+  "navSettings": "Cài đặt",
+  "homeGreeting": "Hôm nay mình tập nhẹ nhé.",
+  "homeOtherRoutines": "Bài khác",
+  "homeEmpty": "Chưa có bài tập nào được phát hành.",
+  "startAction": "Bắt đầu",
+  "demoBanner": "Bản xem trước — chưa phải hướng dẫn tập chính thức.",
+  "demoBadge": "DEMO CONTENT",
+  "minutes": "{minutes} phút",
+  "@minutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "minutesSeconds": "{minutes} phút {seconds} giây",
+  "@minutesSeconds": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      },
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "routineMetaLine": "{duration} · {intensity} · {position}",
+  "@routineMetaLine": {
+    "placeholders": {
+      "duration": {
+        "type": "String"
+      },
+      "intensity": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "positionSeated": "Ngồi",
+  "positionStanding": "Đứng",
+  "positionMixed": "Đứng + ngồi",
+  "intensityGentle": "Nhẹ nhàng",
+  "intensityEasy": "Dễ",
+  "intensityModerate": "Vừa",
+  "detailTitle": "Chi tiết bài",
+  "detailStepsHeader": "{count} động tác",
+  "@detailStepsHeader": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "detailStepItem": "{order}. {title} · {duration}",
+  "@detailStepItem": {
+    "placeholders": {
+      "order": {
+        "type": "String"
+      },
+      "title": {
+        "type": "String"
+      },
+      "duration": {
+        "type": "String"
+      }
+    }
+  },
+  "detailSafetyHeader": "Lưu ý an toàn",
+  "stopWarning": "Dừng nếu chóng mặt, đau ngực, khó thở hoặc tê/yếu mới xuất hiện hay tăng lên.",
+  "detailStartAction": "Bắt đầu bài tập",
+  "needsDownload": "Cần tải",
+  "needsDownloadExplanation": "Bài này chưa tải về máy. Tải trước khi tập khi không có mạng.",
+  "preflightTitle": "Trước khi tập",
+  "preflightSpace": "Chọn vị trí đủ rộng, nền không trơn.",
+  "preflightChair": "Chuẩn bị ghế chắc chắn hoặc chỗ vịn nếu cần.",
+  "preflightComfort": "Tập trong phạm vi thoải mái, không cố quá sức.",
+  "preflightConfirm": "Tôi đã đọc, bắt đầu",
+  "safetyLink": "Xem nguyên tắc an toàn",
+  "playerStepCounter": "Bước {current} / {total}",
+  "@playerStepCounter": {
+    "placeholders": {
+      "current": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "playerTotalRemaining": "{time} toàn bài",
+  "@playerTotalRemaining": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "playerPause": "Tạm dừng",
+  "playerResume": "Tiếp tục",
+  "playerPrevious": "Bước trước",
+  "playerNext": "Bước tiếp",
+  "playerPreparing": "Đang chuẩn bị…",
+  "playerPaused": "Đang tạm dừng.",
+  "playerInterrupted": "Đã tạm dừng vì ứng dụng bị gián đoạn. Bấm Tiếp tục khi sẵn sàng.",
+  "playerBuffering": "Đang tải nội dung…",
+  "playerError": "Không tải được hình hướng dẫn.",
+  "playerSkip": "Bỏ qua bước",
+  "playerBack": "Quay lại",
+  "playerProgressLabel": "Tiến độ bài tập {percent}%",
+  "@playerProgressLabel": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "playerDemoMediaNotice": "Hình minh họa AI chưa kiểm duyệt",
+  "summaryCompletedTitle": "Hoàn thành bài tập",
+  "summaryEndedTitle": "Đã kết thúc sớm",
+  "summaryActive": "Thời gian tập thực tế: {time}",
+  "@summaryActive": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "summaryCompletedMessage": "Hôm nay bạn đã dành thời gian vận động nhẹ và thư giãn.",
+  "summaryEndedMessage": "Buổi tập được lưu là chưa hoàn thành. Bạn có thể tập lại khi thấy thoải mái.",
+  "summaryHome": "Về trang chủ",
+  "summaryProgress": "Xem tiến độ",
+  "loadError": "Không tải được dữ liệu.",
+  "retry": "Thử lại",
+  "notFound": "Không tìm thấy nội dung.",
+  "progressTitle": "Tiến độ",
+  "progressEmpty": "Chưa có buổi tập nào. Khi bạn tập, lịch sử sẽ hiện ở đây.",
+  "progressTotal": "Tổng thời gian tập: {time}",
+  "@progressTotal": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "progressCounts": "{count} buổi · {completed} hoàn thành",
+  "@progressCounts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "completed": {
+        "type": "int"
+      }
+    }
+  },
+  "statusCompleted": "Hoàn thành",
+  "statusAbandoned": "Dừng sớm",
+  "statusInterrupted": "Bị gián đoạn",
+  "statusInProgress": "Đang tập",
+  "historyItemSubtitle": "{date} · {status} · {time}",
+  "@historyItemSubtitle": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "status": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "safetyTitle": "An toàn khi tập",
+  "safetyIntro": "An là nội dung vận động nhẹ để thư giãn, không thay thế tư vấn, chẩn đoán hay điều trị y tế.",
+  "safetyRuleSpace": "Tập trong không gian an toàn, nền không trơn; dùng ghế chắc hoặc chỗ vịn khi cần.",
+  "safetyRuleGentle": "Chuyển động chậm, trong phạm vi thoải mái; không nín thở, không cố quá sức.",
+  "safetyRuleNeck": "Không ấn sâu hay xoa bóp mạnh vùng cổ trước hoặc dưới góc hàm.",
+  "safetyEmergency": "Nếu triệu chứng nặng hoặc kéo dài, hãy gọi cấp cứu 115 hoặc đến cơ sở y tế gần nhất.",
+  "safetyBack": "Quay lại",
+  "libraryTitle": "Bài tập",
+  "librarySearchHint": "Tìm bài hoặc động tác",
+  "libraryFilterGoal": "Mục tiêu",
+  "libraryFilterPosition": "Tư thế",
+  "libraryFilterDuration": "Thời lượng",
+  "libraryFilterAll": "Tất cả",
+  "libraryOfflineOnly": "Chỉ bài có sẵn trên máy",
+  "libraryEmpty": "Không có bài phù hợp với bộ lọc.",
+  "libraryClearFilters": "Xóa bộ lọc",
+  "libraryResultCount": "{count} bài",
+  "@libraryResultCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "durationShort": "Đến 6 phút",
+  "durationMedium": "7–10 phút",
+  "durationLong": "Trên 10 phút",
+  "availableOffline": "Có sẵn trên máy",
+  "tagStarter": "Mới bắt đầu",
+  "tagMorning": "Buổi sáng",
+  "tagEvening": "Buổi tối",
+  "tagNeckShoulder": "Cổ vai",
+  "tagSeated": "Trên ghế",
+  "tagGentle": "Nhẹ nhàng",
+  "onboardingValueTitle": "Dưỡng sinh nhẹ nhàng mỗi ngày",
+  "onboardingValueBody": "Các bài vận động ngắn, chậm, có thể tập trên ghế. Không cần tài khoản, không hỏi thông tin sức khỏe.",
+  "onboardingSafetyNotice": "An là nội dung thư giãn, không thay thế tư vấn hay điều trị y tế. Hãy dừng khi thấy khó chịu.",
+  "onboardingContinue": "Tiếp tục",
+  "onboardingSkip": "Bỏ qua",
+  "onboardingPrefsTitle": "Bạn muốn tập thế nào? (không bắt buộc)",
+  "onboardingGoal": "Mục tiêu",
+  "onboardingPosition": "Tư thế",
+  "onboardingPositionAny": "Cả hai",
+  "onboardingDone": "Khám phá bài tập",
+  "settingsTitle": "Cài đặt",
+  "settingsPracticeSection": "Khi tập",
+  "settingsCaptions": "Hiện lời hướng dẫn",
+  "settingsCaptionsHint": "Câu hướng dẫn hiển thị dưới hình.",
+  "settingsReducedMotion": "Giảm chuyển động",
+  "settingsReducedMotionHint": "Chuyển hình không hiệu ứng. Nội dung hướng dẫn vẫn giữ nguyên.",
+  "settingsReminderSection": "Nhắc nhở",
+  "settingsReminder": "Nhắc tập mỗi ngày",
+  "settingsReminderTime": "Giờ nhắc: {time}",
+  "@settingsReminderTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsReminderChangeTime": "Đổi giờ",
+  "settingsReminderDenied": "Chưa được cấp quyền thông báo. Bạn có thể bật trong Cài đặt của điện thoại.",
+  "settingsReminderError": "Không đặt được nhắc nhở. Vui lòng thử lại.",
+  "reminderTitle": "An",
+  "reminderBody": "Đến giờ vận động nhẹ rồi. Tập khi bạn thấy thoải mái nhé.",
+  "settingsBreakSection": "Nhắc đứng dậy",
+  "settingsBreak": "Nhắc đứng dậy vận động",
+  "settingsBreakHint": "Ngồi lâu cả ngày không tốt cho sức khỏe. An nhắc bạn đứng lên, đi lại và uống nước.",
+  "settingsBreakInterval": "Cách nhau",
+  "settingsBreakIntervalOption": "{minutes} phút",
+  "@settingsBreakIntervalOption": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "settingsBreakFrom": "Từ: {time}",
+  "@settingsBreakFrom": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsBreakTo": "Đến: {time}",
+  "@settingsBreakTo": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsBreakAlertLabel": "Kiểu nhắc",
+  "settingsBreakAlertSilent": "Chỉ thông báo",
+  "settingsBreakAlertVibrate": "Rung",
+  "settingsBreakAlertSound": "Chuông",
+  "settingsBreakAlertIosNote": "Trên iPhone, kiểu \"Rung\" hoạt động như \"Chỉ thông báo\"; hãy dùng \"Chuông\" nếu cần nghe thấy.",
+  "settingsBreakInvalidWindow": "Khoảng giờ quá ngắn so với khoảng cách giữa hai lần nhắc. Hãy kéo dài giờ kết thúc hoặc chọn khoảng cách ngắn hơn.",
+  "breakReminderBody1": "Bạn đã ngồi một lúc rồi. Đứng dậy, đi lại vài phút nhé.",
+  "breakReminderBody2": "Đứng lên vươn vai, xoay cổ nhẹ nhàng và uống một ngụm nước.",
+  "breakReminderBody3": "Nghỉ mắt một chút: nhìn xa 20 giây, rồi đứng dậy vận động nhẹ.",
+  "settingsMoreSection": "Khác",
+  "settingsSafety": "An toàn khi tập",
+  "settingsDownloads": "Bài đã tải",
+  "settingsPrivacy": "Quyền riêng tư",
+  "settingsPrivacyBody": "Dữ liệu tập, số đo sức khỏe và cài đặt chỉ lưu trên máy này: không gửi đi đâu, không sao lưu lên đám mây, không cần tài khoản.",
+  "settingsTextSizeHint": "Cỡ chữ theo cài đặt của điện thoại.",
+  "downloadsTitle": "Bài đã tải",
+  "downloadsReady": "Có sẵn trên máy",
+  "downloadsMissing": "Chưa có trên máy",
+  "downloadsSize": "{megabytes} MB",
+  "@downloadsSize": {
+    "placeholders": {
+      "megabytes": {
+        "type": "String"
+      }
+    }
+  },
+  "downloadsNote": "Các bài xem trước hiện đi kèm ứng dụng nên tập được khi không có mạng. Tải bài mới qua mạng sẽ có khi nội dung chính thức được phát hành.",
+  "distanceNextUp": "Tiếp theo: {title}",
+  "@distanceNextUp": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "distanceEndingLast": "Sắp kết thúc bài",
+  "distanceRemaining": "còn lại",
+  "distanceTimerLabel": "{title}, còn lại {time}",
+  "@distanceTimerLabel": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "distanceEndingNext": "Sắp đổi sang: {title}",
+  "@distanceEndingNext": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "easternTitle": "Dưỡng sinh phương Đông",
+  "easternEntrySubtitle": "{count} hệ truyền thống · {playable} hệ đã có bài tập",
+  "@easternEntrySubtitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "playable": {
+        "type": "int"
+      }
+    }
+  },
+  "easternIntro": "Giới thiệu các hệ dưỡng sinh truyền thống. Hệ nào đủ ảnh từng bước thì tập được ngay; các hệ khác sẽ được bổ sung dần sau khi kiểm duyệt kỹ thuật và hình ảnh.",
+  "easternPreparing": "Đang chuẩn bị – chưa có bài tập",
+  "easternResearch": "Đang nghiên cứu nguồn",
+  "easternFormCount": "{count} thức",
+  "@easternFormCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "easternCoverLabel": "Ảnh bìa minh họa {title}, không thể hiện tư thế tập",
+  "@easternCoverLabel": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "easternCoverNotice": "Ảnh bìa minh họa, không phải hướng dẫn tư thế.",
+  "easternFormsHeader": "Các thức",
+  "easternFormItem": "{number}. {title}",
+  "@easternFormItem": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "easternNotesHeader": "Ghi chú",
+  "easternRequiredHeader": "Cần làm trước khi biên soạn",
+  "easternSourcesHeader": "Nguồn tham khảo",
+  "easternLevelGentleToModerate": "Nhẹ đến vừa",
+  "easternLevelModerate": "Vừa",
+  "settingsSoundCues": "Âm báo khi tập",
+  "settingsSoundCuesHint": "Tiếng chuông nhẹ khi đếm ngược, khi đổi động tác, báo trước 10 giây và khi hoàn thành.",
+  "easternFormIllustrationNotice": "Ảnh minh họa chưa được đối chiếu kỹ thuật. Không tập theo ảnh này; bài tập có hướng dẫn sẽ được bổ sung sau khi chuyên gia duyệt.",
+  "easternFormIllustrationLabel": "Ảnh minh họa thức {title}, chưa đối chiếu kỹ thuật",
+  "@easternFormIllustrationLabel": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "tagBaduanjin": "Bát Đoạn Cẩm",
+  "tagEasternQigong": "Khí công phương Đông",
+  "easternPlayable": "Đã có bài tập",
+  "easternPracticeAction": "Tập bài {title}",
+  "@easternPracticeAction": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "easternStepsHeader": "Các bước",
+  "easternOverviewHeader": "Bảng tổng quan các thức",
+  "easternOverviewNotice": "Tranh minh họa để làm quen tên và dáng các thức. Chưa được đối chiếu kỹ thuật, không tập theo tranh này.",
+  "easternOverviewOpen": "Chạm để xem lớn, có thể phóng to",
+  "easternOverviewLabel": "Bảng tổng quan {system}, {title}",
+  "@easternOverviewLabel": {
+    "placeholders": {
+      "system": {
+        "type": "String"
+      },
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "pauseTitle": "Đang tạm dừng",
+  "pauseMessage": "Nghỉ một chút nếu cần. Nếu dừng hẳn, thời gian đã tập được lưu là chưa hoàn thành.",
+  "pauseResume": "Tiếp tục",
+  "pauseStop": "Dừng hẳn",
+  "settingsBackgroundMusic": "Nhạc nền khi tập",
+  "settingsBackgroundMusicHint": "Nhạc nhẹ không lời, tự dừng khi bạn tạm dừng.",
+  "learnHeader": "Tìm hiểu",
+  "learnMeaning": "Ý nghĩa",
+  "learnAwareness": "Khi tập, hãy để ý",
+  "learnNote": "Ghi chú",
+  "learnSystemHeader": "Lịch sử và văn hóa",
+  "learnHistory": "Lịch sử",
+  "learnContext": "Bối cảnh văn hóa",
+  "learnSpirit": "Tinh thần của bài",
+  "learnReadingCautions": "Lưu ý khi đọc",
+  "learnSources": "Nguồn tham khảo",
+  "learnDisclaimer": "Nội dung tìm hiểu do An biên tập, chưa được chuyên gia thẩm định. Đây không phải hướng dẫn kỹ thuật hay lời khuyên y tế.",
+  "learnStoriesHeader": "Chuyện kể",
+  "learnOpenAction": "Tìm hiểu {title}",
+  "@learnOpenAction": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "navHealth": "Sức khỏe",
+  "healthTitle": "Sức khỏe",
+  "healthConsentTitle": "Theo dõi chỉ số sức khỏe",
+  "healthConsentIntro": "Ghi lại các số đo hằng ngày để bạn và bác sĩ dễ theo dõi theo thời gian.",
+  "healthConsentManual": "Bạn tự nhập số đo: cân nặng, chiều cao, huyết áp, nhịp tim, đường huyết, SpO2, nhiệt độ, vòng eo.",
+  "healthConsentLocal": "Dữ liệu chỉ lưu trên điện thoại này. App không gửi đi đâu và không sao lưu lên đám mây.",
+  "healthConsentDelete": "Bạn có thể xóa toàn bộ dữ liệu sức khỏe bất cứ lúc nào trong Cài đặt.",
+  "healthConsentNoDiagnosis": "App không chẩn đoán bệnh. Khoảng tham khảo chỉ giúp bạn biết khi nào nên hỏi bác sĩ.",
+  "healthConsentAccept": "Đồng ý và bắt đầu",
+  "healthAddAction": "Ghi chỉ số",
+  "healthNoReading": "Chưa có số đo",
+  "healthDisclaimer": "Đây là sổ theo dõi cá nhân, không thay thế khám bệnh. Hãy mang số đo khi đi khám và làm theo hướng dẫn của bác sĩ.",
+  "metricWeight": "Cân nặng",
+  "metricHeight": "Chiều cao",
+  "metricBloodPressure": "Huyết áp",
+  "metricHeartRate": "Nhịp tim",
+  "metricBloodGlucose": "Đường huyết",
+  "metricOxygenSaturation": "SpO2 (ô-xy trong máu)",
+  "metricTemperature": "Nhiệt độ cơ thể",
+  "metricWaist": "Vòng eo",
+  "unitKg": "kg",
+  "unitCm": "cm",
+  "unitMmHg": "mmHg",
+  "unitBpm": "lần/phút",
+  "unitMmolL": "mmol/L",
+  "unitMgDl": "mg/dL",
+  "unitPercent": "%",
+  "unitCelsius": "°C",
+  "bmiTitle": "BMI",
+  "bmiUnder": "Thấp hơn mức tham khảo",
+  "bmiNormal": "Trong mức tham khảo",
+  "bmiOver": "Thừa cân (mức tham khảo người châu Á)",
+  "bmiObese": "Béo phì (mức tham khảo người châu Á)",
+  "bmiNeedsBoth": "Ghi cân nặng và chiều cao để tính BMI.",
+  "bmiNote": "Tính từ cân nặng và chiều cao gần nhất. Ở người cao tuổi, BMI chỉ là số tham khảo.",
+  "bmiNeedsWeight": "Ghi cân nặng để tính BMI.",
+  "bmiWeightRange": "Cân nặng tham khảo với chiều cao {height} cm: {min}–{max} kg",
+  "@bmiWeightRange": {
+    "placeholders": {
+      "height": {
+        "type": "String"
+      },
+      "min": {
+        "type": "String"
+      },
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "bmiWeightInRange": "Cân nặng hiện tại nằm trong khoảng này.",
+  "bmiWeightAbove": "Cân nặng hiện tại nhiều hơn mức trên {kg} kg.",
+  "@bmiWeightAbove": {
+    "placeholders": {
+      "kg": {
+        "type": "String"
+      }
+    }
+  },
+  "bmiWeightBelow": "Cân nặng hiện tại ít hơn mức dưới {kg} kg.",
+  "@bmiWeightBelow": {
+    "placeholders": {
+      "kg": {
+        "type": "String"
+      }
+    }
+  },
+  "bmiWeightAdvice": "Ở người cao tuổi, đừng tự ăn kiêng hay ép tăng cân; hãy hỏi bác sĩ trước khi đặt mục tiêu cân nặng.",
+  "weightLossNotice": "Cân nặng giảm từ 5% trở lên trong 6 tháng. Nếu bạn không chủ ý giảm cân, hãy trao đổi với bác sĩ.",
+  "statusInRange": "Trong khoảng tham khảo",
+  "statusOutside": "Ngoài khoảng tham khảo",
+  "statusUrgent": "Cần chú ý ngay",
+  "reasonPressureHigh": "Huyết áp đo tại nhà từ 135/85 mmHg trở lên. Đo lại sau khi ngồi nghỉ 5 phút; nếu nhiều lần vẫn cao, hãy hỏi bác sĩ.",
+  "reasonPressureLow": "Huyết áp thấp hơn 90/60 mmHg. Nếu thấy chóng mặt, mệt, hãy ngồi hoặc nằm nghỉ và hỏi bác sĩ.",
+  "reasonPressureVeryHigh": "Huyết áp rất cao (từ 180/120 mmHg). Nếu kèm đau ngực, khó thở, đau đầu dữ dội, yếu hoặc tê tay chân, nói khó: gọi 115 ngay. Nếu không có các dấu hiệu đó, ngồi nghỉ 5 phút rồi đo lại và liên hệ bác sĩ sớm.",
+  "reasonPulseHigh": "Nhịp tim lúc nghỉ trên 100 lần/phút. Ngồi nghỉ rồi đo lại; nếu vẫn cao hoặc thấy hồi hộp, khó thở, hãy hỏi bác sĩ.",
+  "reasonPulseLow": "Nhịp tim lúc nghỉ dưới 60 lần/phút. Điều này có thể bình thường ở một số người; nếu kèm chóng mặt, mệt lả, hãy hỏi bác sĩ.",
+  "reasonGlucoseHigh": "Đường huyết cao hơn khoảng tham khảo cho thời điểm đo. Hãy ghi lại và trao đổi với bác sĩ.",
+  "reasonGlucoseLow": "Đường huyết thấp (dưới 3,9 mmol/L). Nếu run, vã mồ hôi, lú lẫn: xử trí ngay theo hướng dẫn bác sĩ đã dặn hoặc gọi 115.",
+  "reasonGlucoseVeryHigh": "Đường huyết rất cao (từ 16,7 mmol/L). Liên hệ bác sĩ ngay; nếu lơ mơ, khó thở, nôn nhiều: gọi 115.",
+  "reasonOxygenLow": "SpO2 dưới 95%. Ngồi thẳng, nghỉ rồi đo lại; nếu vẫn thấp, hãy hỏi bác sĩ.",
+  "reasonOxygenVeryLow": "SpO2 từ 92% trở xuống. Nếu khó thở, môi tím, lú lẫn: gọi 115 ngay. Nếu không, đo lại và liên hệ bác sĩ ngay.",
+  "reasonFever": "Sốt (từ 37,5 °C). Uống đủ nước, nghỉ ngơi và theo dõi; hỏi bác sĩ nếu sốt kéo dài hoặc kèm dấu hiệu khác.",
+  "reasonHighFever": "Sốt cao (từ 39,5 °C). Liên hệ bác sĩ ngay; nếu lú lẫn, co giật, khó thở: gọi 115.",
+  "reasonTemperatureLow": "Thân nhiệt thấp (dưới 35,5 °C). Đo lại, giữ ấm; nếu vẫn thấp hoặc lơ mơ, hãy liên hệ bác sĩ.",
+  "referencePressure": "Khoảng tham khảo đo tại nhà: dưới 135/85 mmHg (ESC/ESH 2018, Hội Tim mạch Việt Nam 2018).",
+  "referenceHeartRate": "Khoảng tham khảo lúc nghỉ: 60–100 lần/phút.",
+  "referenceGlucose": "Khoảng tham khảo: lúc đói dưới 7,0 mmol/L; sau ăn 2 giờ hoặc bất kỳ dưới 11,1 mmol/L (ADA). Người đang điều trị có thể có mục tiêu riêng do bác sĩ đặt.",
+  "referenceOxygen": "Khoảng tham khảo: từ 95% trở lên.",
+  "referenceTemperature": "Khoảng tham khảo: 35,5–37,4 °C.",
+  "referenceWeight": "Cân vào cùng giờ, cùng trang phục để dễ so sánh. Giảm cân ngoài ý muốn là dấu hiệu cần hỏi bác sĩ.",
+  "referenceHeight": "Chiều cao dùng để tính BMI; ở người cao tuổi nên đo lại vài lần mỗi năm.",
+  "referenceWaist": "Đo ngang rốn, cuối thì thở ra nhẹ.",
+  "referenceSource": "Mục tiêu điều trị của bạn có thể khác; hãy theo hướng dẫn của bác sĩ.",
+  "timingFasting": "Lúc đói",
+  "timingAfterMeal": "Sau ăn 2 giờ",
+  "timingRandom": "Bất kỳ",
+  "healthMetricField": "Chỉ số",
+  "healthValueField": "Giá trị ({unit})",
+  "@healthValueField": {
+    "placeholders": {
+      "unit": {
+        "type": "String"
+      }
+    }
+  },
+  "healthTimingField": "Thời điểm đo",
+  "healthUnitField": "Đơn vị",
+  "healthMeasuredAt": "Đo lúc {date} {time}",
+  "@healthMeasuredAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "healthChangeDate": "Đổi ngày",
+  "healthChangeTime": "Đổi giờ",
+  "healthNoteField": "Ghi chú (không bắt buộc)",
+  "healthSave": "Lưu",
+  "healthSaved": "Đã lưu số đo.",
+  "healthErrorRange": "Giá trị có vẻ chưa đúng. Hãy nhập trong khoảng {min}–{max}.",
+  "@healthErrorRange": {
+    "placeholders": {
+      "min": {
+        "type": "String"
+      },
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "healthErrorPressureOrder": "Số trên (tâm thu) phải lớn hơn số dưới (tâm trương).",
+  "healthErrorTiming": "Chọn thời điểm đo đường huyết.",
+  "healthUrgentTitle": "Cần chú ý",
+  "healthUrgentOk": "Tôi đã hiểu",
+  "healthHistoryHeader": "Các lần đo",
+  "healthChartLabel": "Biểu đồ {metric}: {count} lần đo, gần nhất {latest}",
+  "@healthChartLabel": {
+    "placeholders": {
+      "metric": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      },
+      "latest": {
+        "type": "String"
+      }
+    }
+  },
+  "healthDeleteReading": "Xóa số đo",
+  "healthDeleteReadingConfirm": "Xóa số đo này?",
+  "healthDeleteConfirmAction": "Xóa",
+  "healthCancel": "Hủy",
+  "settingsHealthSection": "Dữ liệu sức khỏe",
+  "settingsHealthDeleteAll": "Xóa toàn bộ dữ liệu sức khỏe",
+  "settingsHealthDeleteAllHint": "Xóa mọi số đo trên máy và tắt theo dõi. Không thể hoàn tác.",
+  "settingsHealthDeleteAllConfirm": "Xóa toàn bộ số đo sức khỏe trên điện thoại này? Không thể hoàn tác.",
+  "settingsHealthDeleted": "Đã xóa toàn bộ dữ liệu sức khỏe.",
+  "healthErrorFuture": "Thời điểm đo không thể ở tương lai.",
+  "healthPressureField": "Huyết áp (mmHg) và nhịp tim",
+  "healthSystolicField": "Tâm thu",
+  "healthDiastolicField": "Tâm trương",
+  "healthPulseField": "Nhịp tim",
+  "healthPressureHint": "Gõ lần lượt 3 số trên máy đo, ô tự chuyển khi đủ số. Nhịp tim có thể bỏ trống.",
+  "healthPressureFormat": "Hãy nhập cả số tâm thu và số tâm trương.",
+  "healthPulseRange": "Nhịp tim có vẻ chưa đúng. Hãy nhập trong khoảng {min}–{max}.",
+  "@healthPulseRange": {
+    "placeholders": {
+      "min": {
+        "type": "String"
+      },
+      "max": {
+        "type": "String"
+      }
+    }
+  },
+  "healthExportAction": "Xuất dữ liệu (CSV, ảnh)",
+  "healthExportTitle": "Xuất dữ liệu sức khỏe",
+  "healthExportIntro": "Tạo file để mang đi khám hoặc gửi cho người thân. Sau khi tạo, bạn tự chọn nơi gửi hoặc lưu (Zalo, Gmail, Drive, Tệp…). App không tự gửi đi đâu.",
+  "healthExportPrivacy": "File chứa thông tin sức khỏe của bạn. Chỉ gửi cho người bạn tin tưởng.",
+  "healthExportCsv": "Xuất file CSV (mở bằng Excel)",
+  "healthExportCsvHint": "Toàn bộ số đo, mỗi lần đo một dòng.",
+  "healthExportImage": "Xuất ảnh tóm tắt",
+  "healthExportImageHint": "Ảnh bên dưới: số đo gần nhất và biểu đồ, tiện cho bác sĩ xem nhanh.",
+  "healthExportPreview": "Xem trước ảnh",
+  "healthExportEmpty": "Chưa có số đo nào để xuất.",
+  "healthExportFailed": "Không tạo được file. Hãy thử lại.",
+  "healthExportSubject": "An – số đo sức khỏe",
+  "healthReportTitle": "Sổ theo dõi sức khỏe",
+  "healthReportCreated": "Tạo lúc {date} {time}",
+  "@healthReportCreated": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "healthReportLatest": "Số đo gần nhất",
+  "healthReportTrends": "Xu hướng",
+  "csvMeasuredAt": "Ngày giờ đo",
+  "csvMetric": "Chỉ số",
+  "csvValue": "Giá trị",
+  "csvSecondValue": "Giá trị 2 (tâm trương)",
+  "csvUnit": "Đơn vị",
+  "csvGlucoseTiming": "Thời điểm đo đường huyết",
+  "csvNote": "Ghi chú",
+  "calendarTitle": "Lịch vạn niên",
+  "calendarOpen": "Xem lịch",
+  "calendarToday": "Hôm nay",
+  "calendarPickDate": "Chọn ngày",
+  "calendarPrevMonth": "Tháng trước",
+  "calendarNextMonth": "Tháng sau",
+  "calendarMonthTitle": "Tháng {month} năm {year}",
+  "@calendarMonthTitle": {
+    "placeholders": {
+      "month": {
+        "type": "int"
+      },
+      "year": {
+        "type": "int"
+      }
+    }
+  },
+  "calendarMonthSubtitle": "Năm {yearName}",
+  "@calendarMonthSubtitle": {
+    "placeholders": {
+      "yearName": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarWeekdayShort1": "T2",
+  "calendarWeekdayFull1": "Thứ hai",
+  "calendarWeekdayShort2": "T3",
+  "calendarWeekdayFull2": "Thứ ba",
+  "calendarWeekdayShort3": "T4",
+  "calendarWeekdayFull3": "Thứ tư",
+  "calendarWeekdayShort4": "T5",
+  "calendarWeekdayFull4": "Thứ năm",
+  "calendarWeekdayShort5": "T6",
+  "calendarWeekdayFull5": "Thứ sáu",
+  "calendarWeekdayShort6": "T7",
+  "calendarWeekdayFull6": "Thứ bảy",
+  "calendarWeekdayShort7": "CN",
+  "calendarWeekdayFull7": "Chủ nhật",
+  "calendarCellLabel": "{weekday}, ngày {day} tháng {month} năm {year}, âm lịch ngày {lunarDay} tháng {lunarMonth}, {quality}",
+  "@calendarCellLabel": {
+    "placeholders": {
+      "weekday": {
+        "type": "String"
+      },
+      "day": {
+        "type": "int"
+      },
+      "month": {
+        "type": "int"
+      },
+      "year": {
+        "type": "int"
+      },
+      "lunarDay": {
+        "type": "int"
+      },
+      "lunarMonth": {
+        "type": "int"
+      },
+      "quality": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarLunarMonthStart": "{day}/{month}",
+  "@calendarLunarMonthStart": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      },
+      "month": {
+        "type": "int"
+      }
+    }
+  },
+  "calendarHoangDao": "Ngày hoàng đạo",
+  "calendarHacDao": "Ngày hắc đạo",
+  "calendarSelectedDate": "{weekday}, {day} tháng {month} năm {year}",
+  "@calendarSelectedDate": {
+    "placeholders": {
+      "weekday": {
+        "type": "String"
+      },
+      "day": {
+        "type": "int"
+      },
+      "month": {
+        "type": "int"
+      },
+      "year": {
+        "type": "int"
+      }
+    }
+  },
+  "calendarSectionDate": "Dương lịch và âm lịch",
+  "calendarLunarDate": "Âm lịch: ngày {day} tháng {month}{leap} năm {yearName}",
+  "@calendarLunarDate": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      },
+      "month": {
+        "type": "int"
+      },
+      "leap": {
+        "type": "String"
+      },
+      "yearName": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarLeapSuffix": " nhuận",
+  "calendarCanChiLine": "Ngày {day} · Tháng {month} · Năm {year}",
+  "@calendarCanChiLine": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarSolarTerm": "Tiết khí: {term}",
+  "@calendarSolarTerm": {
+    "placeholders": {
+      "term": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarSolarTermStarts": "Tiết khí: {term} (bắt đầu hôm nay)",
+  "@calendarSolarTermStarts": {
+    "placeholders": {
+      "term": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarFirstDay": "Mùng 1 âm lịch",
+  "calendarFullMoon": "Rằm (15 âm lịch)",
+  "calendarSectionQuality": "Đánh giá ngày",
+  "calendarRatingGood": "Ngày tốt",
+  "calendarRatingNeutral": "Ngày bình thường",
+  "calendarRatingBad": "Ngày xấu",
+  "calendarGodLine": "{kind} · {god}",
+  "@calendarGodLine": {
+    "placeholders": {
+      "kind": {
+        "type": "String"
+      },
+      "god": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarTruc": "Trực {name}: {note}",
+  "@calendarTruc": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "note": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarRatingNote": "Đánh giá gộp hoàng đạo/hắc đạo và trực của ngày, chỉ để tham khảo.",
+  "calendarSectionHours": "Giờ hoàng đạo",
+  "calendarHourLine": "Giờ {name} ({start}–{end}) · {god}",
+  "@calendarHourLine": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      },
+      "god": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarSectionDeparture": "Xuất hành",
+  "calendarDepartureDay": "Khổng Minh lục diệu: {name}. {note}",
+  "@calendarDepartureDay": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "note": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarHyThan": "Hướng hỷ thần (cầu may): {direction}",
+  "@calendarHyThan": {
+    "placeholders": {
+      "direction": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarTaiThan": "Hướng tài thần (cầu tài): {direction}",
+  "@calendarTaiThan": {
+    "placeholders": {
+      "direction": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarDepartureHours": "Giờ đẹp để xuất hành",
+  "calendarNoDepartureHours": "Hôm nay không có giờ hoàng đạo nào hợp xuất hành.",
+  "calendarAllHours": "Xem đủ 12 giờ",
+  "calendarHourDetail": "Giờ {name} ({start}–{end}): {kind}; xuất hành {cung}",
+  "@calendarHourDetail": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      },
+      "kind": {
+        "type": "String"
+      },
+      "cung": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarHourHoangDao": "hoàng đạo",
+  "calendarHourHacDao": "hắc đạo",
+  "calendarDisclaimer": "Lịch vạn niên chỉ mang tính tham khảo theo văn hóa truyền thống và chưa được chuyên gia thẩm định. Hãy cân nhắc theo hoàn cảnh của bạn; không thay thế lời khuyên y tế, pháp lý hay tài chính.",
+  "calendarLegend": "● Ngày hoàng đạo   ○ Ngày hắc đạo   Chữ nhỏ: ngày âm lịch",
+  "calendarSectionMansion": "Sao nhị thập bát tú",
+  "calendarMansionLine": "Sao {name} ({element}, {animal})",
+  "@calendarMansionLine": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "element": {
+        "type": "String"
+      },
+      "animal": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarMansionKiet": "Kiết tú (sao tốt)",
+  "calendarMansionBinh": "Bình tú (sao trung bình)",
+  "calendarMansionHung": "Hung tú (sao xấu)",
+  "calendarMansionFavorable": "Nên làm: {text}",
+  "@calendarMansionFavorable": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarMansionAvoid": "Kiêng cữ: {text}",
+  "@calendarMansionAvoid": {
+    "placeholders": {
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarSectionActivities": "Nên làm, kỵ theo từng việc",
+  "calendarActivitiesNote": "Tổng hợp từ hoàng đạo/hắc đạo, Trực, sao nhị thập bát tú và (với xuất hành) Khổng Minh lục diệu của ngày; chỉ để tham khảo.",
+  "calendarActivityWedding": "Cưới hỏi",
+  "calendarActivityOpening": "Khai trương",
+  "calendarActivityBuilding": "Xây cất, động thổ",
+  "calendarActivityDeparture": "Xuất hành",
+  "calendarActivityBurial": "An táng, sửa mồ mả",
+  "calendarActivityLawsuit": "Kiện tụng",
+  "calendarVerdictFavorable": "Nên làm",
+  "calendarVerdictNeutral": "Bình thường",
+  "calendarVerdictUnfavorable": "Nên tránh",
+  "calendarActivityRow": "{activity}: {verdict}",
+  "@calendarActivityRow": {
+    "placeholders": {
+      "activity": {
+        "type": "String"
+      },
+      "verdict": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarEvidenceFor": "Thuận: {what}",
+  "@calendarEvidenceFor": {
+    "placeholders": {
+      "what": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarEvidenceAgainst": "Ngược: {what}",
+  "@calendarEvidenceAgainst": {
+    "placeholders": {
+      "what": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarWhatHoangDao": "ngày hoàng đạo ({god})",
+  "@calendarWhatHoangDao": {
+    "placeholders": {
+      "god": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarWhatHacDao": "ngày hắc đạo ({god})",
+  "@calendarWhatHacDao": {
+    "placeholders": {
+      "god": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarWhatTruc": "Trực {name}",
+  "@calendarWhatTruc": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarWhatMansion": "sao {name}",
+  "@calendarWhatMansion": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarWhatLucDieu": "Khổng Minh {name}",
+  "@calendarWhatLucDieu": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "calendarNoEvidence": "Không có chỉ dẫn riêng cho việc này."
+}

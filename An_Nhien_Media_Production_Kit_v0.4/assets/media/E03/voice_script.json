@@ -1,0 +1,32 @@
+{
+  "exerciseId": "E03",
+  "title": "Bàn tay và cổ chân",
+  "totalSeconds": 120,
+  "status": "script-awaiting-voice-video-review",
+  "cues": [
+    {
+      "atSeconds": 0,
+      "text": "Duỗi nhẹ các ngón tay."
+    },
+    {
+      "atSeconds": 20,
+      "text": "Nắm tay vừa phải, không siết."
+    },
+    {
+      "atSeconds": 40,
+      "text": "Mở bàn tay và thả lỏng."
+    },
+    {
+      "atSeconds": 60,
+      "text": "Ngồi vững, nhấc gót chân."
+    },
+    {
+      "atSeconds": 80,
+      "text": "Đổi sang nhấc mũi chân."
+    },
+    {
+      "atSeconds": 100,
+      "text": "Xoay cổ chân nhỏ nếu thoải mái."
+    }
+  ]
+}

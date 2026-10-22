@@ -1,0 +1,45 @@
+{
+  "exercise_id": "E06",
+  "title": "Đi bộ tại chỗ",
+  "locale": "vi-VN",
+  "duration_ms": 180000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Đi bộ tại chỗ."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Đứng thẳng gần chỗ vịn."
+    },
+    {
+      "offset_ms": 45000,
+      "text": "Nhấc chân phải thấp, nhẹ nhàng."
+    },
+    {
+      "offset_ms": 90000,
+      "text": "Đổi sang chân trái và giữ thăng bằng."
+    },
+    {
+      "offset_ms": 135000,
+      "text": "Bước đều chậm, hít thở tự nhiên."
+    },
+    {
+      "offset_ms": 157000,
+      "text": "Thở đều, nhẹ nhàng."
+    },
+    {
+      "offset_ms": 175000,
+      "text": "Không cần nâng gối cao; dừng nếu choáng."
+    }
+  ]
+}

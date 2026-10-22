@@ -1,0 +1,41 @@
+{
+  "exercise_id": "E106",
+  "title": "Lưỡng thủ phàn túc",
+  "locale": "vi-VN",
+  "duration_ms": 75000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thức 6: Lưỡng thủ phàn túc."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Hai tay giơ lên cao."
+    },
+    {
+      "offset_ms": 25000,
+      "text": "Hạ tay, vuốt dọc lưng xuống."
+    },
+    {
+      "offset_ms": 50000,
+      "text": "Cúi chậm, tay trượt xuống chân tới mức dễ chịu."
+    },
+    {
+      "offset_ms": 62000,
+      "text": "Thở ra khi cúi xuống, hít vào khi đứng lên."
+    },
+    {
+      "offset_ms": 70000,
+      "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "brand": "An Nhien",
+  "styleId": "calm-studio-teal-cream-v1.1-v0.3",
+  "colors": {
+    "brandDeep": "#073F3B",
+    "brandPrimary": "#0A5249",
+    "background": "#FAF9F3",
+    "accent": "#7FD1BC",
+    "ink": "#173F38",
+    "warmAccent": "#D9B678"
+  },
+  "people": {
+    "basic": "original male instructor in dark-teal tee",
+    "eastern": "original male instructor in dark-teal tee (v0.3 storyboard)",
+    "futureApprovedEasternModel": "female in cream uniform only after selecting a validated reference set"
+  },
+  "sourcePolicy": "Only prior v1.1 and v0.3 visuals; v0.6 excluded",
+  "mediaAvailability": "cards complete, instructional media incomplete"
+}

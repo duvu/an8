@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "systemId": "SYS-YJJ",
+  "slug": "yijinjing",
+  "titleVi": "Dịch Cân Kinh",
+  "titleEn": "Yi Jin Jing — 12 forms",
+  "numberOfForms": 12,
+  "level": "moderate",
+  "summary": "12 thức • vận động phối hợp",
+  "lineageNotes": "Danh mục 12 thức tham khảo từ trường phái phổ biến, cách thực hiện tùy hệ truyền thừa",
+  "reviewStatus": "draft",
+  "demoOnly": true,
+  "sourceReferences": [
+    "https://www.healthqigong.org/index.php/learn",
+    "https://brennantranslation.wordpress.com/2017/11/30/wang-huaiqi-on-twelve-posture-yijinjing/"
+  ],
+  "coverPath": "assets/covers/yijinjing.webp",
+  "routineIds": [
+    "R102"
+  ],
+  "exerciseTitles": [
+    {
+      "exerciseId": "E201",
+      "number": 1,
+      "titleVi": "Vi Đà hiến chử — thức 1",
+      "sourceNameEn": "Wei Tuo Offers the Pestle I",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E202",
+      "number": 2,
+      "titleVi": "Vi Đà hiến chử — thức 2",
+      "sourceNameEn": "Wei Tuo Offers the Pestle II",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E203",
+      "number": 3,
+      "titleVi": "Vi Đà hiến chử — thức 3",
+      "sourceNameEn": "Wei Tuo Offers the Pestle III",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E204",
+      "number": 4,
+      "titleVi": "Trích tinh hoán đẩu",
+      "sourceNameEn": "Plucking Stars and Changing the Dipper",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E205",
+      "number": 5,
+      "titleVi": "Đảo duệ cửu ngưu vĩ",
+      "sourceNameEn": "Pulling Nine Oxen by the Tail",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E206",
+      "number": 6,
+      "titleVi": "Xuất trảo lượng sí",
+      "sourceNameEn": "Showing Claws and Spreading Wings",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E207",
+      "number": 7,
+      "titleVi": "Cửu quỷ bạt mã đao",
+      "sourceNameEn": "Nine Ghosts Drawing Sabres",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E208",
+      "number": 8,
+      "titleVi": "Tam bàn lạc địa",
+      "sourceNameEn": "Three Plates Landing",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E209",
+      "number": 9,
+      "titleVi": "Thanh long thám trảo",
+      "sourceNameEn": "Green Dragon Extending Claws",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E210",
+      "number": 10,
+      "titleVi": "Ngọa hổ phác thực",
+      "sourceNameEn": "Crouching Tiger Pounces",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E211",
+      "number": 11,
+      "titleVi": "Đả cung",
+      "sourceNameEn": "Bowing Posture",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E212",
+      "number": 12,
+      "titleVi": "Điệu vĩ",
+      "sourceNameEn": "Wagging the Tail",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    }
+  ],
+  "safetyPolicy": [
+    "Đây chỉ là tên thức, không phải hướng dẫn kỹ thuật đã duyệt.",
+    "Không nín thở, rặn, ép biên độ, quay hoặc giật cổ mạnh.",
+    "Người có chóng mặt, tăng huyết áp chưa kiểm soát, triệu chứng thần kinh mới hoặc đau nên tham vấn chuyên môn trước khi tập."
+  ]
+}

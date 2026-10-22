@@ -1,0 +1,24 @@
+{
+  "exerciseId": "E02",
+  "title": "Xoay vai nhẹ",
+  "totalSeconds": 120,
+  "status": "script-awaiting-voice-video-review",
+  "cues": [
+    {
+      "atSeconds": 0,
+      "text": "Đứng hoặc ngồi, thả lỏng vai."
+    },
+    {
+      "atSeconds": 30,
+      "text": "Nâng vai nhẹ, đưa vai ra sau."
+    },
+    {
+      "atSeconds": 60,
+      "text": "Xoay vòng nhỏ, thật chậm."
+    },
+    {
+      "atSeconds": 90,
+      "text": "Hạ vai, thở đều, đổi chiều."
+    }
+  ]
+}

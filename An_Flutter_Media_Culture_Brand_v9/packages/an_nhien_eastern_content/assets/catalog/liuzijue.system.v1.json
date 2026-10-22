@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "systemId": "SYS-LZJ",
+  "slug": "liuzijue",
+  "titleVi": "Lục Tự Quyết",
+  "titleEn": "Liu Zi Jue — Six Sounds",
+  "numberOfForms": 6,
+  "level": "gentle-to-moderate",
+  "summary": "6 âm • phối hợp hơi thở",
+  "lineageNotes": "Chỉ có metadata âm tiết; không có audio phát âm hoặc kỹ thuật hơi thở đã thẩm định",
+  "reviewStatus": "draft",
+  "demoOnly": true,
+  "sourceReferences": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5766674/",
+    "https://wudang.academy/en/page/qigong-liu-zi-jue"
+  ],
+  "coverPath": "assets/covers/liuzijue.webp",
+  "routineIds": [
+    "R104"
+  ],
+  "exerciseTitles": [
+    {
+      "exerciseId": "E401",
+      "number": 1,
+      "titleVi": "Âm Xu (嘘)",
+      "sourceNameEn": "Xu / xū",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E402",
+      "number": 2,
+      "titleVi": "Âm He (呵)",
+      "sourceNameEn": "He / hē",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E403",
+      "number": 3,
+      "titleVi": "Âm Hu (呼)",
+      "sourceNameEn": "Hu / hū",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E404",
+      "number": 4,
+      "titleVi": "Âm Si (呬)",
+      "sourceNameEn": "Si / sī",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E405",
+      "number": 5,
+      "titleVi": "Âm Chui (吹)",
+      "sourceNameEn": "Chui / chuī",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E406",
+      "number": 6,
+      "titleVi": "Âm Xi (嘻)",
+      "sourceNameEn": "Xi / xī",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    }
+  ],
+  "safetyPolicy": [
+    "Đây chỉ là tên thức, không phải hướng dẫn kỹ thuật đã duyệt.",
+    "Không nín thở, rặn, ép biên độ, quay hoặc giật cổ mạnh.",
+    "Người có chóng mặt, tăng huyết áp chưa kiểm soát, triệu chứng thần kinh mới hoặc đau nên tham vấn chuyên môn trước khi tập."
+  ]
+}

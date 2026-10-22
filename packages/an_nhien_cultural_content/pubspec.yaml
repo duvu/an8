@@ -1,0 +1,18 @@
+name: an_nhien_cultural_content
+description: Cultural history, movement meanings and narrator scripts for An (Vietnamese editorial content)
+version: 0.9.0
+publish_to: none
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: '>=3.19.0'
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+  # An app bundles only what it shows (D17): the JSON catalogs, the sources and
+  # the six story scripts. Per-exercise/system narration TXT repeat the JSON
+  # `narratorScript` and the articles repeat `systems.vi.v1.json`.
+  assets:
+    - assets/catalog/
+    - assets/sources/
+    - assets/narration/episodes/

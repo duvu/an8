@@ -1,0 +1,11 @@
+E102 — pose_end_chair. Produce an expert-approved adapted pose for a participant needing chair/support assistance.
+Source-form reference (not a literal pose instruction):
+E102 – pose_end. Bát Đoạn Cẩm – thức 2: Tả hữu khai cung (Drawing the Bow to Shoot the Hawk). Khung 3 – kết thúc.
+Tư thế: Tay trái duỗi ngang tầm vai bên trái, ngón trỏ dựng; tay phải nắm ở trước vai phải, khuỷu mở sang phải; đầu quay nhẹ nhìn ngón trỏ trái. Sau đó đổi bên.
+Góc máy: chếch 3/4. Giữ đúng nhân vật nữ áo kem và bối cảnh đã thống nhất. Ảnh vuông, toàn thân, không chữ.
+
+Mandatory adaptation specification from content brief:
+Ngồi trên mép ghế chắc, lưng thẳng, làm động tác kéo cung chỉ bằng tay. Ghế gỗ chắc chắn nhìn rõ trong khung.
+
+Resolve standing vs seated details by following the adaptation specification. Do NOT generate until an expert has signed off on the exact adapted joint positions, body weight distribution and chair placement. 1:1 photorealistic full body. No text.
+

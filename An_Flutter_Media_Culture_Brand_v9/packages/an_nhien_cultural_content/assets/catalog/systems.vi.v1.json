@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "1.0",
+  "locale": "vi-VN",
+  "contentKind": "cultural_education",
+  "systems": [
+    {
+      "id": "basics",
+      "title": "Dưỡng sinh nhẹ An",
+      "shortDescription": "Bảy động tác vận động nhẹ do An biên tập",
+      "originLabel": "Chương trình hiện đại, không gắn với một trường phái truyền thống",
+      "history": "Bộ bảy động tác cơ bản là chương trình vận động nhẹ do nhóm biên tập An sắp xếp. Không nên giới thiệu bộ này như một bài kinh cổ hay một truyền thống đã được ghi chép lâu đời.",
+      "culturalContext": "Ý tưởng dưỡng sinh ở đây được hiểu theo nghĩa phổ thông: chăm sóc cơ thể qua chuyển động vừa sức, chú ý hơi thở và nhịp sinh hoạt.",
+      "interpretiveFrame": "Đơn giản, tự chủ, không ép cơ thể theo một khuôn mẫu cứng nhắc.",
+      "narrationScript": "Trước khi tìm hiểu các hệ khí công truyền thống, chúng ta bắt đầu từ những chuyển động quen thuộc. Bộ cơ bản của An chú trọng sự dễ chịu và đều đặn, không gắn với lời hứa chữa bệnh hay những khái niệm huyền bí.",
+      "sourceIds": [],
+      "cautions": [
+        "Không gán nguồn gốc cổ truyền cho chương trình hiện đại."
+      ],
+      "reviewStatus": "editorial_draft",
+      "culturalFactReview": "pending",
+      "medicalClaims": "none"
+    },
+    {
+      "id": "baduanjin",
+      "title": "Bát Đoạn Cẩm",
+      "shortDescription": "Tám đoạn gấm — tám thức dưỡng sinh",
+      "originLabel": "Truyền thống dưỡng sinh Trung Hoa; tư liệu cổ liên quan có từ thời Tống",
+      "history": "Tên gọi Bát Đoạn Cẩm xuất hiện trong văn hiến liên quan dưỡng sinh thời Tống. Qua nhiều thế kỷ, bộ tập có biến thể đứng và ngồi; bản Health Qigong hiện đại là một sự hệ thống hóa, không phải bản duy nhất. Những câu chuyện về một người sáng lập duy nhất không đủ cơ sở để khẳng định là lịch sử chắc chắn.",
+      "culturalContext": "Chữ “cẩm” gợi tấm gấm được dệt công phu. Tám thức được kể như tám mảnh chuyển động kết nối sự phối hợp thân, tay, mắt và hơi thở. Một số tên thức chứa cách diễn đạt theo y học truyền thống, cần trình bày là ngôn ngữ văn hóa lịch sử chứ không phải chẩn đoán.",
+      "interpretiveFrame": "Liên tục, mềm mại, tiết chế; tám thức hợp thành một bài hoàn chỉnh.",
+      "narrationScript": "Bát Đoạn Cẩm có thể hiểu là tám đoạn gấm. Gấm là hình ảnh của sự tinh tế: mỗi thức là một mảnh vận động, nối thành một chuỗi mềm mại. Tư liệu lịch sử cho thấy tên bài đã hiện diện từ thời Tống, nhưng bài tập ngày nay có nhiều phiên bản được truyền dạy và chuẩn hóa khác nhau.",
+      "sourceIds": [
+        "BADUANJIN_HISTORY",
+        "CHQA_FOUR",
+        "DAOYIN_REVIEW"
+      ],
+      "cautions": [
+        "Không diễn giải chữ tỳ, vị, thận hay tam tiêu thành công dụng điều trị đã xác thực."
+      ],
+      "reviewStatus": "editorial_draft",
+      "culturalFactReview": "pending",
+      "medicalClaims": "none"
+    },
+    {
+      "id": "yijinjing",
+      "title": "Dịch Cân Kinh",
+      "shortDescription": "Mười hai thức vận động trong hệ dưỡng sinh hiện đại",
+      "originLabel": "Truyền thống daoyin/khí công Trung Hoa; nguồn gốc cụ thể còn được tranh luận",
+      "history": "Dịch Cân Kinh thường được kể cùng Thiếu Lâm và truyền thuyết Bồ Đề Đạt Ma. Mối liên hệ với Bồ Đề Đạt Ma không phải sự kiện lịch sử đã được xác nhận. Nhiều phiên bản và bản biên soạn hiện đại tồn tại; app chỉ giới thiệu nhóm 12 thức đang được sử dụng trong Health Qigong và chờ xác nhận trường phái cụ thể.",
+      "culturalContext": "Tên các thức dùng hình ảnh từ văn hóa cổ: Vi Đà, sao trời, rồng xanh, hổ phục. Đây là lối đặt tên giàu biểu tượng, không có nghĩa động tác truyền được sức mạnh siêu nhiên.",
+      "interpretiveFrame": "Sự mềm mại và kiên trì qua chuyển động có kiểm soát, thay vì gồng sức.",
+      "narrationScript": "Dịch Cân Kinh có một lớp tên gọi giàu biểu tượng: Vi Đà, sao trời, rồng và hổ. Trong văn hóa truyền thống, những hình ảnh ấy giúp người học nhớ bài. Các truyền thuyết về nguồn gốc cần được phân biệt với chứng cứ lịch sử; tại An, mỗi thức được giới thiệu theo hệ thống đang biên tập, chưa coi đây là một bản nguyên thủy duy nhất.",
+      "sourceIds": [
+        "CHQA_FOUR",
+        "DAOYIN_REVIEW",
+        "YIJIN_TRADITION"
+      ],
+      "cautions": [
+        "Không tuyên bố Dịch Cân Kinh xuất phát chắc chắn từ Bồ Đề Đạt Ma hoặc chữa trị bệnh."
+      ],
+      "reviewStatus": "editorial_draft",
+      "culturalFactReview": "pending",
+      "medicalClaims": "none"
+    },
+    {
+      "id": "wuqinxi",
+      "title": "Ngũ Cầm Hí",
+      "shortDescription": "Năm loài vật, mười động tác",
+      "originLabel": "Truyền thống mô phỏng động vật, gắn với danh y Hoa Đà trong sử liệu và truyền thuyết",
+      "history": "Ngũ Cầm Hí thường được gắn với Hoa Đà ở thời Đông Hán. Qua nhiều thời kỳ, bài tập xuất hiện dưới nhiều dạng và được hệ thống hóa lại trong các bộ Health Qigong hiện đại. Không nên giả định chuỗi đang dạy là nguyên trạng từ thời Đông Hán.",
+      "culturalContext": "Hổ, hươu, gấu, khỉ và chim là những hình tượng quen thuộc trong phép quan sát tự nhiên: mỗi loài gợi một phẩm chất chuyển động khác nhau. Người tập không bắt chước thú vật một cách quá mức mà mượn hình tượng để học cách vận động.",
+      "interpretiveFrame": "Học từ sự đa dạng trong tự nhiên: lúc mạnh mẽ, lúc mềm mại, lúc chậm rãi, lúc linh hoạt.",
+      "narrationScript": "Ngũ Cầm Hí nghĩa là trò vận động của năm loài vật. Truyền thống thường nhắc đến danh y Hoa Đà, nhưng các cách tập đã phát triển qua nhiều thế kỷ. Hổ, hươu, gấu, khỉ và chim mở ra năm câu chuyện về chuyển động: từ vững chãi đến khéo léo, từ quan sát đến thăng bằng.",
+      "sourceIds": [
+        "WUQINXI_HISTORY",
+        "CHQA_FOUR",
+        "DAOYIN_REVIEW"
+      ],
+      "cautions": [
+        "Đừng suy diễn hình tượng mỗi loài vật thành cơ chế điều trị một cơ quan cụ thể."
+      ],
+      "reviewStatus": "editorial_draft",
+      "culturalFactReview": "pending",
+      "medicalClaims": "none"
+    },
+    {
+      "id": "liuzijue",
+      "title": "Lục Tự Quyết",
+      "shortDescription": "Sáu âm tiết gắn với hơi thở trong truyền thống",
+      "originLabel": "Truyền thống luyện hơi và âm tiết trong dưỡng sinh Trung Hoa",
+      "history": "Lục Tự Quyết tồn tại qua nhiều truyền thống hơi thở và vận động. Bộ sáu âm trong hệ Health Qigong được chuẩn hóa trong thời hiện đại. Cách phát âm, cách phối hơi và liên hệ ngũ hành có thể khác nhau theo hệ truyền dạy.",
+      "culturalContext": "“Lục tự” nghĩa là sáu âm hoặc sáu chữ. Trong truyền thống, mỗi âm có thể được nối với một ý niệm về vận hành khí và tạng phủ; đây là hệ biểu tượng văn hóa, không phải phương pháp tự chẩn đoán.",
+      "interpretiveFrame": "Lắng nghe hơi thở và âm thanh, không ép hơi dài hay làm choáng.",
+      "narrationScript": "Lục Tự Quyết sử dụng sáu âm tiết gắn với hơi thở: Xu, He, Hu, Si, Chui và Xi. Giá trị văn hóa của bài tập nằm ở sự chú ý đến âm, nhịp và sự tĩnh lặng. Các liên hệ với tạng phủ thuộc ngôn ngữ y học cổ truyền; phát âm chuẩn cần được giảng viên của hệ đã chọn xác nhận trước khi thu âm.",
+      "sourceIds": [
+        "CHQA_FOUR",
+        "DAOYIN_REVIEW"
+      ],
+      "cautions": [
+        "Không phát âm mẫu bằng TTS chưa kiểm định. Không dùng liên hệ tạng phủ như lời hứa chữa bệnh."
+      ],
+      "reviewStatus": "editorial_draft",
+      "culturalFactReview": "pending",
+      "medicalClaims": "none"
+    },
+    {
+      "id": "taichi24",
+      "title": "Thái Cực Quyền 24 thức",
+      "shortDescription": "Bộ giản hóa từ truyền thống Thái Cực Quyền",
+      "originLabel": "Bộ 24 thức được biên soạn và phổ biến năm 1956",
+      "history": "Thái Cực Quyền có lịch sử nhiều trường phái và được UNESCO ghi danh là di sản văn hóa phi vật thể năm 2020. Bộ 24 thức giản hóa được xây dựng năm 1956, dựa chủ yếu trên Thái Cực Quyền Dương gia, nhằm làm cho môn tập dễ phổ biến hơn. Không đánh đồng bộ giản hóa này với mọi truyền thống Thái Cực.",
+      "culturalContext": "Tên thức gợi hình ảnh thiên nhiên và đời sống: ngựa hoang, bạch hạc, mây bay, người đẹp đưa thoi. Những tên gọi này giúp ghi nhớ sự chuyển tiếp, thăng bằng và phối hợp tay chân.",
+      "interpretiveFrame": "Nhu hòa, chuyển trọng tâm có ý thức, chuyển động nối tiếp như một dòng chảy.",
+      "narrationScript": "Thái Cực Quyền kết hợp chuyển động mềm, nhịp thở và sự tập trung. Bộ 24 thức mà chúng ta tìm hiểu được biên soạn năm 1956 để dễ học hơn. Những tên như Bạch Hạc Lượng Sí hay Vân Thủ là ngôn ngữ hình tượng: mỗi thế vừa là kỹ thuật vận động vừa là một hình ảnh văn hóa.",
+      "sourceIds": [
+        "UNESCO_TAIJI",
+        "TAIJI_24_1956"
+      ],
+      "cautions": [
+        "Các thế đá, thấp người và giữ một chân cần biến thể an toàn; tránh đồng nhất biểu tượng với cơ chế sinh lý."
+      ],
+      "reviewStatus": "editorial_draft",
+      "culturalFactReview": "pending",
+      "medicalClaims": "none"
+    },
+    {
+      "id": "xisuijing",
+      "title": "Tẩy Tủy Kinh — hồ sơ tìm hiểu",
+      "shortDescription": "Mục văn hóa và nghiên cứu nguồn, chưa phải bài luyện tập",
+      "originLabel": "Các truyền thống và truyền thuyết nhiều hệ; chưa thống nhất bộ thức",
+      "history": "Tên Tẩy Tủy Kinh xuất hiện trong các câu chuyện gắn với dưỡng sinh và Thiếu Lâm. Không có căn cứ để xem một chuỗi hiện đại bất kỳ là bản cổ chuẩn duy nhất. An chưa lựa chọn hệ truyền dạy và không đưa hướng dẫn thực hành.",
+      "culturalContext": "Từ “tẩy tủy” được sử dụng trong ngôn ngữ biểu tượng truyền thống. Không diễn giải thành khả năng làm sạch hoặc tái tạo tủy xương theo y học hiện đại.",
+      "interpretiveFrame": "Tìm hiểu lịch sử truyền khẩu với thái độ phân biệt truyền thuyết và bằng chứng.",
+      "narrationScript": "Tẩy Tủy Kinh là một tên gọi giàu tính truyền thuyết. Nhiều lời kể gắn nó với truyền thống Thiếu Lâm, nhưng chưa có một chuỗi tư thế duy nhất được An xác nhận. Vì vậy, mục này chỉ giới thiệu bối cảnh văn hóa, không hướng dẫn luyện tập.",
+      "sourceIds": [
+        "YIJIN_TRADITION"
+      ],
+      "cautions": [
+        "Không tạo hướng dẫn thở mạnh, nín thở hoặc nội công. Không khẳng định tái tạo tủy hay chữa bệnh."
+      ],
+      "reviewStatus": "editorial_draft",
+      "culturalFactReview": "pending",
+      "medicalClaims": "none"
+    }
+  ]
+}

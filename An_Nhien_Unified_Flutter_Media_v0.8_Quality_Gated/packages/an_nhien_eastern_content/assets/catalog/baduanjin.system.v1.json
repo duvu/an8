@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "systemId": "SYS-BDJ",
+  "slug": "baduanjin",
+  "titleVi": "Bát Đoạn Cẩm",
+  "titleEn": "Ba Duan Jin — Eight Brocades",
+  "numberOfForms": 8,
+  "level": "gentle-to-moderate",
+  "summary": "8 thức • dưỡng sinh truyền thống",
+  "lineageNotes": "Bộ 8 thức đứng thường gặp; tên Việt là bản biên tập, cần đối chiếu với giảng viên",
+  "reviewStatus": "draft",
+  "demoOnly": true,
+  "sourceReferences": [
+    "https://www.healthqigong.org/index.php/learn",
+    "https://www.shaolinoverseas.com/articlesbyshifu/shaolin-temple-ba-duan-jin"
+  ],
+  "coverPath": "assets/covers/baduanjin.webp",
+  "routineIds": [
+    "R101"
+  ],
+  "exerciseTitles": [
+    {
+      "exerciseId": "E101",
+      "number": 1,
+      "titleVi": "Song thủ thác thiên",
+      "sourceNameEn": "Two Hands Hold up the Heavens",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E102",
+      "number": 2,
+      "titleVi": "Tả hữu khai cung",
+      "sourceNameEn": "Drawing the Bow to Shoot the Hawk",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E103",
+      "number": 3,
+      "titleVi": "Điều lý tỳ vị, nhất thủ cử",
+      "sourceNameEn": "Separating Heaven and Earth",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E104",
+      "number": 4,
+      "titleVi": "Ngũ lao thất thương vãng hậu tiều",
+      "sourceNameEn": "Wise Owl Gazes Backwards",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E105",
+      "number": 5,
+      "titleVi": "Dao đầu bãi vĩ",
+      "sourceNameEn": "Sway the Head and Shake the Tail",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E106",
+      "number": 6,
+      "titleVi": "Lưỡng thủ phàn túc",
+      "sourceNameEn": "Two Hands Hold the Feet",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E107",
+      "number": 7,
+      "titleVi": "Toản quyền nộ mục",
+      "sourceNameEn": "Clench the Fists and Glare",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    },
+    {
+      "exerciseId": "E108",
+      "number": 8,
+      "titleVi": "Bối hậu thất điên",
+      "sourceNameEn": "Bouncing on the Toes",
+      "mediaSlots": [
+        "pose-start",
+        "pose-transition",
+        "pose-end",
+        "video",
+        "captions",
+        "audio"
+      ],
+      "mediaStatus": "awaiting-expert-reviewed-assets"
+    }
+  ],
+  "safetyPolicy": [
+    "Đây chỉ là tên thức, không phải hướng dẫn kỹ thuật đã duyệt.",
+    "Không nín thở, rặn, ép biên độ, quay hoặc giật cổ mạnh.",
+    "Người có chóng mặt, tăng huyết áp chưa kiểm soát, triệu chứng thần kinh mới hoặc đau nên tham vấn chuyên môn trước khi tập."
+  ]
+}

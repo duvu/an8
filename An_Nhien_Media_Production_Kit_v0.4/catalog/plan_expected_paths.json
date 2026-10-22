@@ -1,0 +1,1505 @@
+{
+  "schemaVersion": 1,
+  "updates": [
+    {
+      "exerciseId": "E101",
+      "system": "baduanjin",
+      "planPath": "an8-east/media_plans/baduanjin/E101/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E101/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E101/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E101/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E101/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E101/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E102",
+      "system": "baduanjin",
+      "planPath": "an8-east/media_plans/baduanjin/E102/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E102/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E102/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E102/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E102/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E102/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E103",
+      "system": "baduanjin",
+      "planPath": "an8-east/media_plans/baduanjin/E103/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E103/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E103/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E103/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E103/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E103/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E104",
+      "system": "baduanjin",
+      "planPath": "an8-east/media_plans/baduanjin/E104/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E104/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E104/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E104/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E104/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E104/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E105",
+      "system": "baduanjin",
+      "planPath": "an8-east/media_plans/baduanjin/E105/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E105/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E105/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E105/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E105/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E105/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E106",
+      "system": "baduanjin",
+      "planPath": "an8-east/media_plans/baduanjin/E106/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E106/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E106/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E106/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E106/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E106/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E107",
+      "system": "baduanjin",
+      "planPath": "an8-east/media_plans/baduanjin/E107/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E107/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E107/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E107/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E107/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E107/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E108",
+      "system": "baduanjin",
+      "planPath": "an8-east/media_plans/baduanjin/E108/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E108/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E108/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E108/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E108/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E108/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E201",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E201/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E201/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E201/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E201/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E201/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E201/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E202",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E202/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E202/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E202/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E202/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E202/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E202/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E203",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E203/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E203/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E203/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E203/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E203/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E203/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E204",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E204/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E204/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E204/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E204/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E204/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E204/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E205",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E205/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E205/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E205/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E205/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E205/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E205/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E206",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E206/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E206/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E206/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E206/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E206/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E206/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E207",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E207/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E207/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E207/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E207/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E207/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E207/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E208",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E208/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E208/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E208/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E208/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E208/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E208/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E209",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E209/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E209/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E209/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E209/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E209/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E209/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E210",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E210/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E210/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E210/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E210/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E210/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E210/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E211",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E211/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E211/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E211/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E211/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E211/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E211/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E212",
+      "system": "yijinjing",
+      "planPath": "an8-east/media_plans/yijinjing/E212/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E212/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E212/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E212/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E212/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E212/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E301",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E301/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E301/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E301/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E301/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E301/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E301/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E302",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E302/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E302/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E302/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E302/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E302/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E302/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E303",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E303/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E303/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E303/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E303/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E303/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E303/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E304",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E304/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E304/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E304/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E304/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E304/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E304/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E305",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E305/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E305/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E305/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E305/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E305/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E305/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E306",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E306/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E306/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E306/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E306/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E306/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E306/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E307",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E307/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E307/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E307/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E307/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E307/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E307/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E308",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E308/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E308/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E308/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E308/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E308/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E308/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E309",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E309/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E309/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E309/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E309/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E309/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E309/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E310",
+      "system": "wuqinxi",
+      "planPath": "an8-east/media_plans/wuqinxi/E310/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E310/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E310/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E310/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E310/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E310/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E401",
+      "system": "liuzijue",
+      "planPath": "an8-east/media_plans/liuzijue/E401/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E401/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E401/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E401/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E401/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E401/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E402",
+      "system": "liuzijue",
+      "planPath": "an8-east/media_plans/liuzijue/E402/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E402/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E402/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E402/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E402/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E402/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E403",
+      "system": "liuzijue",
+      "planPath": "an8-east/media_plans/liuzijue/E403/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E403/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E403/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E403/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E403/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E403/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E404",
+      "system": "liuzijue",
+      "planPath": "an8-east/media_plans/liuzijue/E404/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E404/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E404/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E404/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E404/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E404/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E405",
+      "system": "liuzijue",
+      "planPath": "an8-east/media_plans/liuzijue/E405/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E405/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E405/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E405/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E405/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E405/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E406",
+      "system": "liuzijue",
+      "planPath": "an8-east/media_plans/liuzijue/E406/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E406/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E406/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E406/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E406/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E406/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E501",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E501/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E501/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E501/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E501/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E501/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E501/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E502",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E502/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E502/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E502/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E502/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E502/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E502/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E503",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E503/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E503/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E503/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E503/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E503/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E503/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E504",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E504/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E504/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E504/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E504/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E504/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E504/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E505",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E505/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E505/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E505/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E505/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E505/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E505/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E506",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E506/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E506/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E506/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E506/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E506/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E506/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E507",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E507/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E507/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E507/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E507/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E507/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E507/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E508",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E508/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E508/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E508/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E508/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E508/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E508/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E509",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E509/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E509/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E509/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E509/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E509/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E509/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E510",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E510/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E510/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E510/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E510/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E510/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E510/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E511",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E511/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E511/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E511/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E511/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E511/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E511/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E512",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E512/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E512/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E512/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E512/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E512/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E512/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E513",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E513/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E513/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E513/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E513/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E513/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E513/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E514",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E514/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E514/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E514/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E514/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E514/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E514/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E515",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E515/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E515/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E515/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E515/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E515/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E515/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E516",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E516/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E516/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E516/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E516/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E516/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E516/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E517",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E517/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E517/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E517/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E517/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E517/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E517/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E518",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E518/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E518/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E518/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E518/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E518/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E518/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E519",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E519/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E519/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E519/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E519/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E519/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E519/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E520",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E520/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E520/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E520/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E520/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E520/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E520/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E521",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E521/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E521/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E521/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E521/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E521/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E521/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E522",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E522/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E522/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E522/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E522/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E522/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E522/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E523",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E523/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E523/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E523/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E523/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E523/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E523/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    },
+    {
+      "exerciseId": "E524",
+      "system": "taichi24",
+      "planPath": "an8-east/media_plans/taichi24/E524/series.plan.v1.json",
+      "frames": [
+        {
+          "slot": "pose-start",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E524/pose_start.webp"
+        },
+        {
+          "slot": "pose-transition",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E524/pose_transition.webp"
+        },
+        {
+          "slot": "pose-end",
+          "assetPath": "packages/an_nhien_eastern_content/assets/series/E524/pose_end.webp"
+        }
+      ],
+      "videoPath": "packages/an_nhien_eastern_content/assets/series/E524/guide.mp4",
+      "subtitlePath": "packages/an_nhien_eastern_content/assets/series/E524/guide.vi.vtt",
+      "voicePath": null,
+      "status": "planned-not-produced",
+      "contentSafetyReviewer": null,
+      "licenseVerified": false
+    }
+  ]
+}

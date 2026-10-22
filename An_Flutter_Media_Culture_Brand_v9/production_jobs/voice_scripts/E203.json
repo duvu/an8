@@ -1,0 +1,41 @@
+{
+  "exercise_id": "E203",
+  "title": "Vi Đà hiến chử — thức 3",
+  "locale": "vi-VN",
+  "duration_ms": 75000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thức 3: Vi Đà hiến chử — thức 3."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Tay ngang vai."
+    },
+    {
+      "offset_ms": 25000,
+      "text": "Lật tay, vòng lên cao."
+    },
+    {
+      "offset_ms": 50000,
+      "text": "Nâng hai tay trên đầu như đỡ vật."
+    },
+    {
+      "offset_ms": 62000,
+      "text": "Hít vào khi nâng, thở ra khi hạ."
+    },
+    {
+      "offset_ms": 70000,
+      "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+    }
+  ]
+}

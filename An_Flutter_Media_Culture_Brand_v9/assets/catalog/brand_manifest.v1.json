@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "1.0",
+  "displayName": "An",
+  "formerDisplayName": "An Nhiên",
+  "logoSource": "assets/branding/an/lotus_mark_transparent_640.png",
+  "productTagline": "Dưỡng sinh nhẹ nhàng",
+  "palette": {
+    "primary": "#073F3B",
+    "secondary": "#0A5249",
+    "background": "#FAF9F3",
+    "mint": "#7FD1BC"
+  },
+  "placements": {
+    "launcher": "assets/branding/app_icon_ios_1024.png",
+    "appHeader": "assets/branding/an/lockup_on_light.png",
+    "darkHeader": "assets/branding/an/lockup_on_dark.png",
+    "routineCoverBadge": "assets/branding/an/badge_teal_128.png",
+    "videoIntro": "assets/branding/an/video_intro_2s.mp4",
+    "videoOutro": "assets/branding/an/video_outro_2s.mp4",
+    "videoOverlay": "assets/branding/an/video_overlay_480x140.png"
+  },
+  "mediaRule": "Do not paint logos on pose frames; add a brand badge only on cards/covers and chrome overlays. Video source footage remains unmodified.",
+  "technicalCompatibility": "Keep existing package names, exercise IDs, and catalog paths unchanged."
+}

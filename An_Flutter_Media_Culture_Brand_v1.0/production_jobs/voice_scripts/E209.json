@@ -1,0 +1,41 @@
+{
+  "exercise_id": "E209",
+  "title": "Thanh long thám trảo",
+  "locale": "vi-VN",
+  "duration_ms": 75000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thức 9: Thanh long thám trảo."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Nắm tay cạnh eo."
+    },
+    {
+      "offset_ms": 25000,
+      "text": "Vươn vuốt rồng sang trái, xoay thân."
+    },
+    {
+      "offset_ms": 50000,
+      "text": "Cúi nhẹ, vươn tay xuống, quét về; đổi bên."
+    },
+    {
+      "offset_ms": 62000,
+      "text": "Thở ra khi vươn xuống, hít vào khi đứng lên."
+    },
+    {
+      "offset_ms": 70000,
+      "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+    }
+  ]
+}

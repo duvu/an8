@@ -1,0 +1,917 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "an-nhien-baduanjin",
+  "catalogVersion": "2026.10.18-draft.visual.7",
+  "locale": "vi-VN",
+  "status": "draft",
+  "demoOnly": true,
+  "contentManagement": {
+    "source": "git-managed-manifest",
+    "futureBackend": "ContentCatalogRepository / remote CMS adapter",
+    "syncEnabled": false
+  },
+  "exercises": [
+    {
+      "id": "E101",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Song thủ thác thiên",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E101/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E101/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E101/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E101/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E101-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E101-ILLUSTRATED-SERIES-v2",
+        "E101-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E102",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Tả hữu khai cung",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E102/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E102/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E102/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E102/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E102-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E102-ILLUSTRATED-SERIES-v2",
+        "E102-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E103",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Điều lý tỳ vị, nhất thủ cử",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E103/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E103/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E103/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E103/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E103-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E103-ILLUSTRATED-SERIES-v2",
+        "E103-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E104",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Ngũ lao thất thương vãng hậu tiều",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E104/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E104/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E104/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E104/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E104-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E104-ILLUSTRATED-SERIES-v2",
+        "E104-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E105",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Dao đầu bãi vĩ",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E105/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E105/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E105/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E105/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E105-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E105-ILLUSTRATED-SERIES-v2",
+        "E105-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E106",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Lưỡng thủ phàn túc",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E106/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E106/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E106/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E106/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E106-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E106-ILLUSTRATED-SERIES-v2",
+        "E106-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E107",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Toản quyền nộ mục",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E107/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E107/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E107/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E107/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E107-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E107-ILLUSTRATED-SERIES-v2",
+        "E107-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E108",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Bối hậu thất điên",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E108/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E108/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E108/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E108/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E108-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E108-ILLUSTRATED-SERIES-v2",
+        "E108-UNIFIED-POSTER-v1"
+      ]
+    }
+  ],
+  "routines": [
+    {
+      "id": "R101",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Bát Đoạn Cẩm — chuỗi tham khảo",
+      "description": "Danh sách 8 thức theo tài liệu tham khảo. Chỉ xem giới thiệu cho đến khi media và kỹ thuật đã được chuyên gia duyệt.",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin",
+        "draft",
+        "not-playable"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "totalDurationSeconds": 600,
+      "steps": [
+        {
+          "order": 1,
+          "exerciseId": "E101",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 2,
+          "exerciseId": "E102",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 3,
+          "exerciseId": "E103",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 4,
+          "exerciseId": "E104",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 5,
+          "exerciseId": "E105",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 6,
+          "exerciseId": "E106",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 7,
+          "exerciseId": "E107",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 8,
+          "exerciseId": "E108",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        }
+      ]
+    }
+  ],
+  "mediaAssets": [
+    {
+      "id": "E101-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E101/03_poster_instruction.webp",
+          "bytes": 180090,
+          "sha256": "2b2f2bbb14f51575e1d68cd45b3c6156fff8269985f0f9a3c3fb4217585ac422"
+        },
+        {
+          "path": "assets/series/E101/04_step_1.webp",
+          "bytes": 21082,
+          "sha256": "f44f8568e869da2801d7f7b137e4171de5b29936a93c173e5477d039df7d0300"
+        },
+        {
+          "path": "assets/series/E101/05_step_2.webp",
+          "bytes": 21622,
+          "sha256": "fabfeda67b483f005e9d891035746673982c463844d70966d6f0df1be81afc51"
+        },
+        {
+          "path": "assets/series/E101/06_step_3.webp",
+          "bytes": 22446,
+          "sha256": "8826e205d14d2a0afe5b1d239ce4245f20a3c96379beadcb667a9188667f009d"
+        },
+        {
+          "path": "assets/series/E101/07_step_4.webp",
+          "bytes": 21602,
+          "sha256": "c5d523938c5f608266ea27d8ff906f4149cbf9134126363693518ff028bea015"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Song thủ thác thiên."
+    },
+    {
+      "id": "E102-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E102/03_poster_instruction.webp",
+          "bytes": 174160,
+          "sha256": "58070982f69f98031a94dc954a8a9746f6ee4a2672c5aa20bdc390613af311fe"
+        },
+        {
+          "path": "assets/series/E102/04_step_1.webp",
+          "bytes": 20622,
+          "sha256": "3c726f7ac130374e4cf31bfda4f1cfd661a966c7c2bb56957b0385a378be68c2"
+        },
+        {
+          "path": "assets/series/E102/05_step_2.webp",
+          "bytes": 19590,
+          "sha256": "982f45f7049a227e1c97438aa01905b63b9625a9a65ffaceffaa09437239ad65"
+        },
+        {
+          "path": "assets/series/E102/06_step_3.webp",
+          "bytes": 19724,
+          "sha256": "db962a577926a12d9f95bcad064ed25d22a315d4a8449d290a30fa7d7850dc62"
+        },
+        {
+          "path": "assets/series/E102/07_step_4.webp",
+          "bytes": 20534,
+          "sha256": "261f644380f98008e757f4f616deb19a2217acc36d83e134a4bc3629ed8c6fb2"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Tả hữu khai cung."
+    },
+    {
+      "id": "E103-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E103/03_poster_instruction.webp",
+          "bytes": 179694,
+          "sha256": "bcf3b7e819f86ab96cf345d859f3064bcd881e9ef808d98c699aa465cbbc7796"
+        },
+        {
+          "path": "assets/series/E103/04_step_1.webp",
+          "bytes": 20762,
+          "sha256": "2de3612e4627c982cd29f71d1ba3567e07b91832a211d9683315c58481344f37"
+        },
+        {
+          "path": "assets/series/E103/05_step_2.webp",
+          "bytes": 20886,
+          "sha256": "3cf300802fe7716ea65dce298d756c268f280f7140e6dc8b9e2639b629afa1c5"
+        },
+        {
+          "path": "assets/series/E103/06_step_3.webp",
+          "bytes": 20320,
+          "sha256": "be38202dc3c1ef60f396a4868b5c435fd38b956a6a86ad931300c5285c0a33ab"
+        },
+        {
+          "path": "assets/series/E103/07_step_4.webp",
+          "bytes": 20114,
+          "sha256": "741f37678ba5e9e0cd31ec2759735498f9eba04bf5bbe35cd741b312b6f99659"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Điều lý tỳ vị, nhất thủ cử."
+    },
+    {
+      "id": "E104-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E104/03_poster_instruction.webp",
+          "bytes": 169388,
+          "sha256": "e134a5e58990937500fc234a936deb2bf1883430d60d4c5d0b141b5f16f796a5"
+        },
+        {
+          "path": "assets/series/E104/04_step_1.webp",
+          "bytes": 19662,
+          "sha256": "47817298ca7dc12d74877dad557a3a044917163a316deb0d6c15fd012d406552"
+        },
+        {
+          "path": "assets/series/E104/05_step_2.webp",
+          "bytes": 20686,
+          "sha256": "574c9bf4dc5ddda52a0b6daa561f328ea9ccb7bddd18555dfd02e07b0cec3829"
+        },
+        {
+          "path": "assets/series/E104/06_step_3.webp",
+          "bytes": 19724,
+          "sha256": "b8cd5aac8a6edf689a7f053c594ab8da4797b31d2068aff78636a0475fc0c30d"
+        },
+        {
+          "path": "assets/series/E104/07_step_4.webp",
+          "bytes": 19578,
+          "sha256": "dee4a677455c374167203bff9f42d9a16b21e583d3c199c3ffe95e5a27811c02"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Ngũ lao thất thương vãng hậu tiều."
+    },
+    {
+      "id": "E105-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E105/03_poster_instruction.webp",
+          "bytes": 192074,
+          "sha256": "7fe4424f7430e98610dad56626f2c55c098a88387f2b41e7e054a23980a8c4c8"
+        },
+        {
+          "path": "assets/series/E105/04_step_1.webp",
+          "bytes": 23176,
+          "sha256": "3f98b4aa6f1c03bb446a6361590cd87fbc43f00eba50a65c6a73797f796bb307"
+        },
+        {
+          "path": "assets/series/E105/05_step_2.webp",
+          "bytes": 23806,
+          "sha256": "7e80e2e940436a997a5f98054d7ea2dce9a9efa2efe8eb14efc995be6ba66763"
+        },
+        {
+          "path": "assets/series/E105/06_step_3.webp",
+          "bytes": 23696,
+          "sha256": "37ca52530626cde40a079fbae71895529aad2d951960bcf3723aa772f649fcc6"
+        },
+        {
+          "path": "assets/series/E105/07_step_4.webp",
+          "bytes": 22388,
+          "sha256": "bf6ff7249458dce10a268124b8860673bd083018f52e981b7a82b38e149444b1"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Dao đầu bãi vĩ."
+    },
+    {
+      "id": "E106-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E106/03_poster_instruction.webp",
+          "bytes": 178776,
+          "sha256": "0a68143d3da3047f49dd31165a92415a31f56c1bdb67a76b4886e22c3ac24670"
+        },
+        {
+          "path": "assets/series/E106/04_step_1.webp",
+          "bytes": 20444,
+          "sha256": "1dcff22344d270b71371b57915715cce03ede5d2f3645eeab2f918dabe7b5cdc"
+        },
+        {
+          "path": "assets/series/E106/05_step_2.webp",
+          "bytes": 20564,
+          "sha256": "600d8d751b3e9dfde275c90868e1ab23f67a8f30e182d9a505a2ae5f5cb7d2ff"
+        },
+        {
+          "path": "assets/series/E106/06_step_3.webp",
+          "bytes": 20320,
+          "sha256": "bb929bea4ed1df16e51bb0bc650b5df553998f409f0bed5e2a020f52b88403ba"
+        },
+        {
+          "path": "assets/series/E106/07_step_4.webp",
+          "bytes": 20186,
+          "sha256": "bec155a4061951cff747a8398e1c5e36e1e7ad75132c7855623bcde5d424cc89"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Lưỡng thủ phàn túc."
+    },
+    {
+      "id": "E107-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E107/03_poster_instruction.webp",
+          "bytes": 181762,
+          "sha256": "43114e872393515b07183bf0e12a1f1b26b8f3da43858f106893d92f424d0f3c"
+        },
+        {
+          "path": "assets/series/E107/04_step_1.webp",
+          "bytes": 21280,
+          "sha256": "1c51d673d0dedc2c6325830c7f46b3b18b6aaf5219b46d495a669d8e6569134e"
+        },
+        {
+          "path": "assets/series/E107/05_step_2.webp",
+          "bytes": 20978,
+          "sha256": "5d24db7bf6c60983a4a5e783cd9ad2b25454848897c639d2f8035d2b6ac021b6"
+        },
+        {
+          "path": "assets/series/E107/06_step_3.webp",
+          "bytes": 20782,
+          "sha256": "dce4eb991a9915aea9849b11e2d088a5a5f119aac4b021860d6f0a4d078ae037"
+        },
+        {
+          "path": "assets/series/E107/07_step_4.webp",
+          "bytes": 19918,
+          "sha256": "f24fbe382320fab410d331d19c28c5410fb903692ae344c7c315fec8f4f49946"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Toản quyền nộ mục."
+    },
+    {
+      "id": "E108-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E108/03_poster_instruction.webp",
+          "bytes": 170506,
+          "sha256": "7ba5d83b9bb1c5e77f2b514cbfd5af3e12fb777a36755e7c4c190081649c7575"
+        },
+        {
+          "path": "assets/series/E108/04_step_1.webp",
+          "bytes": 19796,
+          "sha256": "cdd384c216031beedad0dedff16ffe64d34f08812c6927655ab9103a7c7e4685"
+        },
+        {
+          "path": "assets/series/E108/05_step_2.webp",
+          "bytes": 20606,
+          "sha256": "ba34c48ae5138fcd6659b2292ce4fd5d3f704808dac221eeadf471b53e4b8f0e"
+        },
+        {
+          "path": "assets/series/E108/06_step_3.webp",
+          "bytes": 18794,
+          "sha256": "3768f84cd49ceb76cc519d225650d27fa5014b2610e72fb785b2e7f4bb7b8dbe"
+        },
+        {
+          "path": "assets/series/E108/07_step_4.webp",
+          "bytes": 20104,
+          "sha256": "3234461c5604a4c48cecc18a5c0b72833ecc035e72507f1ec0c982e860def5cb"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Bối hậu thất điên."
+    },
+    {
+      "id": "E101-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E101_cover.webp",
+          "bytes": 66750,
+          "sha256": "39a181b0d2e2fc0b2085ad160796252e51153cabe25ffe2167a36a499680dd6a"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Song thủ thác thiên; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E102-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E102_cover.webp",
+          "bytes": 62698,
+          "sha256": "acaf0761d05265e3dcf592288780d98a39ab3550661bc9360c59df85b3bd74cf"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Tả hữu khai cung; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E103-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E103_cover.webp",
+          "bytes": 65630,
+          "sha256": "7750cce8adf26d249578a1d59fdfce6a1d612d168bf9c9dfa3655f3ce64014d3"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Điều lý tỳ vị, nhất thủ cử; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E104-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E104_cover.webp",
+          "bytes": 65148,
+          "sha256": "869acd3aac588a0973dcf824b6a3780caa3d75bf2fae3ca2f1b4456793ed4c07"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Ngũ lao thất thương vãng hậu tiều; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E105-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E105_cover.webp",
+          "bytes": 67614,
+          "sha256": "1c23b1b1d9df6a4460b08120d9d62f7773a75598cf3de8d9456ff7413979c92a"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Dao đầu bãi vĩ; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E106-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E106_cover.webp",
+          "bytes": 64050,
+          "sha256": "bcb42f1dd33344fa169c342f31dfad67cc2be27889fd86fe195263b71c907a8b"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Lưỡng thủ phàn túc; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E107-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E107_cover.webp",
+          "bytes": 64470,
+          "sha256": "79c68971e65a2c590d8cc0f979436336b7f70c9c293dd16f9589a22b9e4dcfff"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Toản quyền nộ mục; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E108-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E108_cover.webp",
+          "bytes": 63566,
+          "sha256": "fa9dd06f49dd3bdd881d30dddd6e303768a6cc20305ef85bee8fa1c45e95db74"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Bối hậu thất điên; chưa được kiểm duyệt."
+    }
+  ]
+}

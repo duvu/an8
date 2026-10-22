@@ -1,0 +1,24 @@
+{
+  "exerciseId": "E06",
+  "title": "Đi bộ tại chỗ",
+  "totalSeconds": 180,
+  "status": "script-awaiting-voice-video-review",
+  "cues": [
+    {
+      "atSeconds": 0,
+      "text": "Đứng thẳng cạnh chỗ vịn."
+    },
+    {
+      "atSeconds": 45,
+      "text": "Nhấc chân phải thấp, nhẹ nhàng."
+    },
+    {
+      "atSeconds": 90,
+      "text": "Đổi chân trái, giữ thăng bằng."
+    },
+    {
+      "atSeconds": 135,
+      "text": "Bước đều chậm, thở tự nhiên."
+    }
+  ]
+}

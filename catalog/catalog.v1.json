@@ -1,0 +1,1613 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "an-nhien-v1",
+  "catalogVersion": "2026.10.18.3",
+  "locale": "vi-VN",
+  "status": "published",
+  "demoOnly": false,
+  "contentManagement": {
+    "source": "git-managed-manifest",
+    "futureBackend": "CMS/remote catalog supported via ContentCatalogRepository interface",
+    "syncEnabled": false
+  },
+  "exercises": [
+    {
+      "id": "E01",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Thở tự nhiên",
+      "defaultDurationSeconds": 120,
+      "position": "seated",
+      "intensity": "gentle",
+      "tags": [
+        "gentle",
+        "beginner"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Không cố hít quá sâu hoặc nín thở."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ngồi vững, vai và hàm thả lỏng.",
+          "framePath": "assets/series/E01/frames/01.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Đặt tay lên bụng nếu thấy dễ chịu.",
+          "framePath": "assets/series/E01/frames/02.png"
+        },
+        {
+          "order": 3,
+          "instruction": "Hít thở nhẹ theo nhịp tự nhiên.",
+          "framePath": "assets/series/E01/frames/03.png"
+        },
+        {
+          "order": 4,
+          "instruction": "Tiếp tục thở đều, không nín thở.",
+          "framePath": "assets/series/E01/frames/04.png"
+        }
+      ],
+      "posterMediaId": "E01-STORYBOARD-v1",
+      "mediaAssetIds": [
+        "E01-STORYBOARD-v1"
+      ]
+    },
+    {
+      "id": "E02",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Xoay vai nhẹ",
+      "defaultDurationSeconds": 120,
+      "position": "standing",
+      "intensity": "gentle",
+      "tags": [
+        "gentle",
+        "beginner"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Không xoay mạnh cổ hay giật vai."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng hoặc ngồi thẳng, thả lỏng vai.",
+          "framePath": "assets/series/E02/frames/01.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Nhẹ nhàng nâng và đưa vai ra sau.",
+          "framePath": "assets/series/E02/frames/02.png"
+        },
+        {
+          "order": 3,
+          "instruction": "Tiếp tục vòng xoay nhỏ, chậm.",
+          "framePath": "assets/series/E02/frames/03.png"
+        },
+        {
+          "order": 4,
+          "instruction": "Hạ vai, thở đều, đổi chiều.",
+          "framePath": "assets/series/E02/frames/04.png"
+        }
+      ],
+      "posterMediaId": "E02-STORYBOARD-v1",
+      "mediaAssetIds": [
+        "E02-STORYBOARD-v1"
+      ]
+    },
+    {
+      "id": "E03",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Bàn tay và cổ chân",
+      "defaultDurationSeconds": 120,
+      "position": "seated",
+      "intensity": "gentle",
+      "tags": [
+        "gentle",
+        "beginner"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Ngừng nếu xuất hiện đau hoặc tê tăng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Duỗi nhẹ các ngón tay.",
+          "framePath": "assets/series/E03/frames/01.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Nắm tay vừa phải, không siết chặt.",
+          "framePath": "assets/series/E03/frames/02.png"
+        },
+        {
+          "order": 3,
+          "instruction": "Mở bàn tay và thả lỏng.",
+          "framePath": "assets/series/E03/frames/03.png"
+        },
+        {
+          "order": 4,
+          "instruction": "Ngồi vững, nhấc gót chân.",
+          "framePath": "assets/series/E03/frames/04.png"
+        },
+        {
+          "order": 5,
+          "instruction": "Đổi sang nhấc mũi chân.",
+          "framePath": "assets/series/E03/frames/05.png"
+        },
+        {
+          "order": 6,
+          "instruction": "Xoay cổ chân nhỏ nếu thoải mái.",
+          "framePath": "assets/series/E03/frames/06.png"
+        }
+      ],
+      "posterMediaId": "E03-STORYBOARD-v1",
+      "mediaAssetIds": [
+        "E03-STORYBOARD-v1"
+      ]
+    },
+    {
+      "id": "E04",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Nâng hạ hai tay",
+      "defaultDurationSeconds": 120,
+      "position": "standing",
+      "intensity": "gentle",
+      "tags": [
+        "gentle",
+        "beginner"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Không cần nâng quá đầu; tránh gồng vai."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng vững, tay thả lỏng hai bên.",
+          "framePath": "assets/series/E04/frames/01.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Nâng tay chậm đến mức dễ chịu.",
+          "framePath": "assets/series/E04/frames/02.png"
+        },
+        {
+          "order": 3,
+          "instruction": "Giữ cổ và vai thả lỏng.",
+          "framePath": "assets/series/E04/frames/03.png"
+        },
+        {
+          "order": 4,
+          "instruction": "Hạ tay chậm, thở tự nhiên.",
+          "framePath": "assets/series/E04/frames/04.png"
+        }
+      ],
+      "posterMediaId": "E04-STORYBOARD-v1",
+      "mediaAssetIds": [
+        "E04-STORYBOARD-v1"
+      ]
+    },
+    {
+      "id": "E05",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Chuyển trọng tâm",
+      "defaultDurationSeconds": 120,
+      "position": "standing",
+      "intensity": "gentle",
+      "tags": [
+        "gentle",
+        "beginner"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Hai chân luôn chạm sàn; vịn ghế nếu cần."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng rộng bằng vai cạnh chỗ vịn.",
+          "framePath": "assets/series/E05/frames/01.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Chuyển nhẹ trọng lượng sang trái.",
+          "framePath": "assets/series/E05/frames/02.png"
+        },
+        {
+          "order": 3,
+          "instruction": "Đổi từ từ sang bên phải.",
+          "framePath": "assets/series/E05/frames/03.png"
+        },
+        {
+          "order": 4,
+          "instruction": "Trở về giữa, giữ nhịp thở đều.",
+          "framePath": "assets/series/E05/frames/04.png"
+        }
+      ],
+      "posterMediaId": "E05-STORYBOARD-v1",
+      "mediaAssetIds": [
+        "E05-STORYBOARD-v1"
+      ]
+    },
+    {
+      "id": "E06",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Đi bộ tại chỗ",
+      "defaultDurationSeconds": 180,
+      "position": "standing",
+      "intensity": "gentle",
+      "tags": [
+        "gentle",
+        "beginner"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Không cần nâng gối cao; dừng nếu choáng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng thẳng gần chỗ vịn.",
+          "framePath": "assets/series/E06/frames/01.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Nhấc chân phải thấp, nhẹ nhàng.",
+          "framePath": "assets/series/E06/frames/02.png"
+        },
+        {
+          "order": 3,
+          "instruction": "Đổi sang chân trái và giữ thăng bằng.",
+          "framePath": "assets/series/E06/frames/03.png"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước đều chậm, hít thở tự nhiên.",
+          "framePath": "assets/series/E06/frames/04.png"
+        }
+      ],
+      "posterMediaId": "E06-STORYBOARD-v1",
+      "mediaAssetIds": [
+        "E06-STORYBOARD-v1"
+      ]
+    },
+    {
+      "id": "E07",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Ngồi thư giãn",
+      "defaultDurationSeconds": 60,
+      "position": "seated",
+      "intensity": "gentle",
+      "tags": [
+        "gentle",
+        "beginner"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Không ép hoặc điều khiển nhịp thở quá mức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ngồi trên ghế chắc chắn, chân chạm sàn.",
+          "framePath": "assets/series/E07/frames/01.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Giữ lưng thoải mái, thở tự nhiên.",
+          "framePath": "assets/series/E07/frames/02.png"
+        },
+        {
+          "order": 3,
+          "instruction": "Buông lỏng vai, hàm và bàn tay.",
+          "framePath": "assets/series/E07/frames/03.png"
+        },
+        {
+          "order": 4,
+          "instruction": "Ngồi yên một lúc, chú ý hơi thở.",
+          "framePath": "assets/series/E07/frames/04.png"
+        }
+      ],
+      "posterMediaId": "E07-STORYBOARD-v1",
+      "mediaAssetIds": [
+        "E07-STORYBOARD-v1"
+      ]
+    },
+    {
+      "id": "E101",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Hai tay nâng trời",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Vai thả lỏng, không rướn cổ.",
+        "Hít vào khi nâng tay, thở ra khi hạ tay; lặp lại 6–8 lần.",
+        "Dừng nếu đau, chóng mặt, khó thở hoặc mất thăng bằng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng thẳng, thả lỏng.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E101/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Nâng tay lên phía trước.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E101/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Đưa tay lên cao, lòng bàn tay hướng trời.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E101/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Hạ tay xuống về vị trí ban đầu.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E101/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E101-STEP-PHOTOS-v1",
+      "mediaAssetIds": [
+        "E101-STEP-PHOTOS-v1"
+      ]
+    },
+    {
+      "id": "E102",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Kéo cung bắn chim ưng",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Vai hạ thấp, không gồng cổ.",
+        "Hít vào khi mở, thở ra khi trở về; lặp lại 4–6 lần mỗi bên.",
+        "Dừng nếu đau, chóng mặt, khó thở hoặc mất thăng bằng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng tấn nhẹ, chuẩn bị.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E102/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Mở tay trái, kéo cung.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E102/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Đổi bên, kéo cung.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E102/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Trở về giữa, thả lỏng.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E102/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E102-STEP-PHOTOS-v1",
+      "mediaAssetIds": [
+        "E102-STEP-PHOTOS-v1"
+      ]
+    },
+    {
+      "id": "E103",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Một tay nâng, một tay ép",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Giữ vai mềm, không nghiêng người quá mạnh.",
+        "Hít vào khi nâng, thở ra khi đổi; lặp lại 4–6 lần mỗi bên.",
+        "Dừng nếu đau, chóng mặt, khó thở hoặc mất thăng bằng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng thẳng, chuẩn bị.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E103/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Tay trái nâng, tay phải ép.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E103/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Đổi bên, thực hiện lại.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E103/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Trở về giữa, thả lỏng.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E103/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E103-STEP-PHOTOS-v1",
+      "mediaAssetIds": [
+        "E103-STEP-PHOTOS-v1"
+      ]
+    },
+    {
+      "id": "E104",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Quay đầu nhìn sau",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Không vặn cổ mạnh, tránh đau.",
+        "Thở tự nhiên, chậm và đều; lặp lại 4–6 lần mỗi bên.",
+        "Dừng nếu đau, chóng mặt, khó thở hoặc mất thăng bằng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng thẳng, thả lỏng.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E104/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Quay sang trái, nhìn sau.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E104/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Quay sang phải, nhìn sau.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E104/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Trở về giữa, thả lỏng.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E104/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E104-STEP-PHOTOS-v1",
+      "mediaAssetIds": [
+        "E104-STEP-PHOTOS-v1"
+      ]
+    },
+    {
+      "id": "E105",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Lắc đầu, vẫy đuôi",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Không hạ thấp quá mức, giữ lưng thoải mái.",
+        "Thở đều theo chuyển động; lặp lại 4–6 lần mỗi bên.",
+        "Dừng nếu đau, chóng mặt, khó thở hoặc mất thăng bằng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng tấn nhẹ, chống tay lên đùi.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E105/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Nghiêng sang trái, quay đầu nhẹ.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E105/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Nghiêng sang phải, quay đầu nhẹ.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E105/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Trở về giữa, giữ thăng bằng.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E105/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E105-STEP-PHOTOS-v1",
+      "mediaAssetIds": [
+        "E105-STEP-PHOTOS-v1"
+      ]
+    },
+    {
+      "id": "E106",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Cúi người chạm chân",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Chỉ cúi trong phạm vi thoải mái, không giật mạnh.",
+        "Hít vào khi nâng tay, thở ra khi cúi; lặp lại 4–6 lần.",
+        "Dừng nếu đau, chóng mặt, khó thở hoặc mất thăng bằng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng thẳng, chuẩn bị.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E106/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Nâng tay lên, chuẩn bị cúi.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E106/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Cúi người chậm, chạm chân.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E106/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Đứng thẳng lại, thả lỏng.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E106/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E106-STEP-PHOTOS-v1",
+      "mediaAssetIds": [
+        "E106-STEP-PHOTOS-v1"
+      ]
+    },
+    {
+      "id": "E107",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Nắm quyền, đấm nhẹ",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Đấm nhẹ, không khóa khuỷu tay.",
+        "Thở ra khi đấm, hít vào khi thu tay; lặp lại 4–6 lần mỗi bên.",
+        "Dừng nếu đau, chóng mặt, khó thở hoặc mất thăng bằng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng tấn nhẹ, nắm quyền.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E107/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Đấm tay trái, mắt nhìn theo.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E107/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Đấm tay phải, mắt nhìn theo.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E107/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Thu tay về, thả lỏng.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E107/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E107-STEP-PHOTOS-v1",
+      "mediaAssetIds": [
+        "E107-STEP-PHOTOS-v1"
+      ]
+    },
+    {
+      "id": "E108",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Nhón gót, hạ gót",
+      "defaultDurationSeconds": 75,
+      "position": "standing",
+      "intensity": "easy",
+      "tags": [
+        "eastern-qigong",
+        "baduanjin"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "safetyNotes": [
+        "Giữ người ổn định, có thể đứng gần điểm tựa.",
+        "Hít vào khi nhón, thở ra khi hạ; lặp lại 6–8 lần.",
+        "Dừng nếu đau, chóng mặt, khó thở hoặc mất thăng bằng."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Đứng thẳng, chuẩn bị.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E108/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Nhón gót lên, giữ thăng bằng.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E108/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Giữ nhẹ, thở đều.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E108/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Hạ gót xuống, trở về đầu.",
+          "framePath": "packages/an_nhien_eastern_content/assets/series/E108/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E108-STEP-PHOTOS-v1",
+      "mediaAssetIds": [
+        "E108-STEP-PHOTOS-v1"
+      ]
+    }
+  ],
+  "routines": [
+    {
+      "id": "R01",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Khởi động nhẹ",
+      "description": "Làm quen với hơi thở, vận động vai và thư giãn.",
+      "tags": [
+        "starter",
+        "gentle"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "totalDurationSeconds": 360,
+      "steps": [
+        {
+          "order": 1,
+          "exerciseId": "E01",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 2,
+          "exerciseId": "E02",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 3,
+          "exerciseId": "E07",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        }
+      ]
+    },
+    {
+      "id": "R02",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Dưỡng sinh sáng 14 phút",
+      "description": "Chuỗi 7 động tác nhẹ theo thứ tự.",
+      "tags": [
+        "morning",
+        "gentle"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "totalDurationSeconds": 840,
+      "steps": [
+        {
+          "order": 1,
+          "exerciseId": "E01",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 2,
+          "exerciseId": "E02",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 3,
+          "exerciseId": "E03",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 4,
+          "exerciseId": "E04",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 5,
+          "exerciseId": "E05",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 6,
+          "exerciseId": "E06",
+          "exerciseVersion": 1,
+          "durationSeconds": 180,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 7,
+          "exerciseId": "E07",
+          "exerciseVersion": 1,
+          "durationSeconds": 60,
+          "mediaVariant": "storyboard"
+        }
+      ]
+    },
+    {
+      "id": "R03",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Thư giãn cổ vai 8 phút",
+      "description": "Tập vai, tay và thư giãn, không ấn vào cổ trước.",
+      "tags": [
+        "neck-shoulder",
+        "seated"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "totalDurationSeconds": 480,
+      "steps": [
+        {
+          "order": 1,
+          "exerciseId": "E02",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 2,
+          "exerciseId": "E04",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 3,
+          "exerciseId": "E03",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 4,
+          "exerciseId": "E07",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        }
+      ]
+    },
+    {
+      "id": "R04",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Dưỡng sinh trên ghế 10 phút",
+      "description": "Bài ngồi nhẹ cho tay, chân, vai và hơi thở.",
+      "tags": [
+        "seated"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "totalDurationSeconds": 600,
+      "steps": [
+        {
+          "order": 1,
+          "exerciseId": "E01",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 2,
+          "exerciseId": "E03",
+          "exerciseVersion": 1,
+          "durationSeconds": 180,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 3,
+          "exerciseId": "E02",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 4,
+          "exerciseId": "E04",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 5,
+          "exerciseId": "E07",
+          "exerciseVersion": 1,
+          "durationSeconds": 60,
+          "mediaVariant": "storyboard"
+        }
+      ]
+    },
+    {
+      "id": "R05",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Thư giãn buổi tối 6 phút",
+      "description": "Thở tự nhiên và ngồi thư giãn.",
+      "tags": [
+        "evening",
+        "seated"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "totalDurationSeconds": 360,
+      "steps": [
+        {
+          "order": 1,
+          "exerciseId": "E01",
+          "exerciseVersion": 1,
+          "durationSeconds": 120,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 2,
+          "exerciseId": "E07",
+          "exerciseVersion": 1,
+          "durationSeconds": 240,
+          "mediaVariant": "storyboard"
+        }
+      ]
+    },
+    {
+      "id": "R101",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Bát Đoạn Cẩm 10 phút",
+      "description": "Tám thức Bát Đoạn Cẩm theo thứ tự, động tác chậm, biên độ vừa phải.",
+      "tags": [
+        "baduanjin",
+        "eastern-qigong"
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "totalDurationSeconds": 600,
+      "steps": [
+        {
+          "order": 1,
+          "exerciseId": "E101",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 2,
+          "exerciseId": "E102",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 3,
+          "exerciseId": "E103",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 4,
+          "exerciseId": "E104",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 5,
+          "exerciseId": "E105",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 6,
+          "exerciseId": "E106",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 7,
+          "exerciseId": "E107",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 8,
+          "exerciseId": "E108",
+          "exerciseVersion": 1,
+          "durationSeconds": 75,
+          "mediaVariant": "storyboard"
+        }
+      ]
+    }
+  ],
+  "mediaAssets": [
+    {
+      "id": "E01-STORYBOARD-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E01/storyboard.png",
+          "bytes": 419469,
+          "sha256": "924a8649b7314edcd4e212fb709dfb42ad2ef35b9dff12f2a045c010b8b23b05"
+        },
+        {
+          "path": "assets/series/E01/thumbnail.png",
+          "bytes": 178965,
+          "sha256": "60e08cdee39d0a4b9279a8bf58ea7e7dd6e37c1afcd070b9178d2fa8d3413233"
+        },
+        {
+          "path": "assets/series/E01/series_strip.png",
+          "bytes": 663756,
+          "sha256": "1e60ddbad33a2bc282a4237b7b72868e724b396c47b6cd34296c5725e729d2fd"
+        },
+        {
+          "path": "assets/series/E01/frames/01.png",
+          "bytes": 242130,
+          "sha256": "d7191f7de2efd8de4e96b662bde212d40c0605de0a9b7f439a9b998619fff98f"
+        },
+        {
+          "path": "assets/series/E01/frames/02.png",
+          "bytes": 256825,
+          "sha256": "8c3372c9304653f9cba66701b18de13250883ec07f89154ac469dd9508c19efd"
+        },
+        {
+          "path": "assets/series/E01/frames/03.png",
+          "bytes": 243473,
+          "sha256": "5331bca2dbe70027ceee9c4e201b6028bfc28cc3ab5a299632c4bcbf259fd9bd"
+        },
+        {
+          "path": "assets/series/E01/frames/04.png",
+          "bytes": 231102,
+          "sha256": "4f4aedb3bb42076c8d23122402469587baea513a4d06a17f7780ec5096f682c6"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI; chủ sản phẩm quyết định dùng làm nội dung chính thức ngày 2026-10-18 (chưa có kiểm duyệt chuyên môn hay rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Series ảnh hướng dẫn Thở tự nhiên."
+    },
+    {
+      "id": "E02-STORYBOARD-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E02/storyboard.png",
+          "bytes": 385513,
+          "sha256": "3c990c3acc2f9813deaa468e02a534766baae016dc3d87928ec14fef64d80ac3"
+        },
+        {
+          "path": "assets/series/E02/thumbnail.png",
+          "bytes": 169692,
+          "sha256": "0b0f2292bc1678462c80b399b151fdc23fb9450ed18442d0a90e5011bdf2674b"
+        },
+        {
+          "path": "assets/series/E02/series_strip.png",
+          "bytes": 632084,
+          "sha256": "52fd37f1f44ba17838a2cb046cd5bd40eb564e622efe598c66270b2d6ada35ac"
+        },
+        {
+          "path": "assets/series/E02/frames/01.png",
+          "bytes": 223224,
+          "sha256": "3f56a401958a69b65fb336d7d46bd251549d1bf6af3aa1257e1dc4438dca7a89"
+        },
+        {
+          "path": "assets/series/E02/frames/02.png",
+          "bytes": 205233,
+          "sha256": "8e8dd39b1684cb9daa2400a437b8fe718980efbf9e3e6e966088617e36f83caa"
+        },
+        {
+          "path": "assets/series/E02/frames/03.png",
+          "bytes": 221432,
+          "sha256": "7b3fa047b96c458b0cab7d52738136376eeca2548e26b33f80e98931b0869a89"
+        },
+        {
+          "path": "assets/series/E02/frames/04.png",
+          "bytes": 209149,
+          "sha256": "538713e95a4a63b8f8d62852e70d1fc4233b5fdd512d80fc4d683ab14652c52b"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI; chủ sản phẩm quyết định dùng làm nội dung chính thức ngày 2026-10-18 (chưa có kiểm duyệt chuyên môn hay rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Series ảnh hướng dẫn Xoay vai nhẹ."
+    },
+    {
+      "id": "E03-STORYBOARD-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E03/storyboard.png",
+          "bytes": 390658,
+          "sha256": "915291f21d2265341fde021cf5a636c79babe0fc31904af849bd24501755dd8f"
+        },
+        {
+          "path": "assets/series/E03/thumbnail.png",
+          "bytes": 197313,
+          "sha256": "309f98c900e947cd63d2a289c7b17711db1c863df4a4834c4eb325669f330bd2"
+        },
+        {
+          "path": "assets/series/E03/series_strip.png",
+          "bytes": 612918,
+          "sha256": "f825cb5980af5dffd79eaebf78d4107eb84a89753b8a59c183a2f578cea04b22"
+        },
+        {
+          "path": "assets/series/E03/frames/01.png",
+          "bytes": 110972,
+          "sha256": "de099e358fd6b22ab89b4560a34607afce760f005db5224af17ae9ee8034349a"
+        },
+        {
+          "path": "assets/series/E03/frames/02.png",
+          "bytes": 114198,
+          "sha256": "b7cd72f51b6fb0eafe4de78f277468b29b6d94089aada8e6a26d0ea2e12dfe66"
+        },
+        {
+          "path": "assets/series/E03/frames/03.png",
+          "bytes": 110637,
+          "sha256": "1a3aa246e0de1bf50d35ca533c397f18da914b7263b48f6b4a548b4d6cda9073"
+        },
+        {
+          "path": "assets/series/E03/frames/04.png",
+          "bytes": 100599,
+          "sha256": "259d9be62c088251c35ac9d1bd3c6057e7676a30e13a4ccce2e592424ce49121"
+        },
+        {
+          "path": "assets/series/E03/frames/05.png",
+          "bytes": 103446,
+          "sha256": "04bf61d95c1c025458bcb81ddd52622af9075a1f98aa8b6df805fa9253458c47"
+        },
+        {
+          "path": "assets/series/E03/frames/06.png",
+          "bytes": 130831,
+          "sha256": "5d252b5b0a8f1444c95b63d4a2d5108e9db216a0d502a95f7f052e54d5ebe827"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI; chủ sản phẩm quyết định dùng làm nội dung chính thức ngày 2026-10-18 (chưa có kiểm duyệt chuyên môn hay rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Series ảnh hướng dẫn Bàn tay và cổ chân."
+    },
+    {
+      "id": "E04-STORYBOARD-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E04/storyboard.png",
+          "bytes": 366973,
+          "sha256": "50b24162e2aa8c608b5ae43050ef8dce5601bda8e9dede79fbc669d274b93194"
+        },
+        {
+          "path": "assets/series/E04/thumbnail.png",
+          "bytes": 168535,
+          "sha256": "98e16c3dea5383fc280ae52c08845d6d36629048c711fea4929e5cc856964c34"
+        },
+        {
+          "path": "assets/series/E04/series_strip.png",
+          "bytes": 576528,
+          "sha256": "85071b5b5902bb0876e3f766c749bfcdbf484611d8a05c073d0b98371ad5e694"
+        },
+        {
+          "path": "assets/series/E04/frames/01.png",
+          "bytes": 194013,
+          "sha256": "686fe6d0eed52db74407954a517db437b92aa725e6b1c95275114f9f91d581bf"
+        },
+        {
+          "path": "assets/series/E04/frames/02.png",
+          "bytes": 203348,
+          "sha256": "e064194532e298c0a0958b5f676e415bf454b52e7e64834b822084c61a69a187"
+        },
+        {
+          "path": "assets/series/E04/frames/03.png",
+          "bytes": 203300,
+          "sha256": "0c73db3d05d96d9a13f272e3c7a2532066e06d6a6af3d7dd2a8da0f70a171a0c"
+        },
+        {
+          "path": "assets/series/E04/frames/04.png",
+          "bytes": 195038,
+          "sha256": "231439ab45b08c9137e30c59617f0e2d26e78a5b8223f8a2e818b1de8f677ad5"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI; chủ sản phẩm quyết định dùng làm nội dung chính thức ngày 2026-10-18 (chưa có kiểm duyệt chuyên môn hay rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Series ảnh hướng dẫn Nâng hạ hai tay."
+    },
+    {
+      "id": "E05-STORYBOARD-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E05/storyboard.png",
+          "bytes": 402874,
+          "sha256": "ed392dff6480df6dbc51b951560f6a024d9a680d0465106939ad16d412ecf038"
+        },
+        {
+          "path": "assets/series/E05/thumbnail.png",
+          "bytes": 180120,
+          "sha256": "09d9d7440880adf60e312ccbb0ad9d26a462394eda9257b65c3de2893e07437d"
+        },
+        {
+          "path": "assets/series/E05/series_strip.png",
+          "bytes": 637737,
+          "sha256": "acf1cf1184fab5fe681aa318d47dd12c809e2b9a836bf0f38f513fea25d1dc8d"
+        },
+        {
+          "path": "assets/series/E05/frames/01.png",
+          "bytes": 220636,
+          "sha256": "1d4b08626ca97dd186cda192abd6d6ab034658268e32ed7928374beb603e8b77"
+        },
+        {
+          "path": "assets/series/E05/frames/02.png",
+          "bytes": 217645,
+          "sha256": "d8b0d57aaef5ac10fab5747c4606b433cfd042e8dbc9f02d13f4d5d30b60db1c"
+        },
+        {
+          "path": "assets/series/E05/frames/03.png",
+          "bytes": 238130,
+          "sha256": "811ba391b5b8056540255a70d594ea1686b91c5043087fbd9968f22a70147580"
+        },
+        {
+          "path": "assets/series/E05/frames/04.png",
+          "bytes": 231875,
+          "sha256": "edc5fb5219143df6fbe6e4b2d7c1703a062400e875a2200ccb8ebf6f832a12c6"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI; chủ sản phẩm quyết định dùng làm nội dung chính thức ngày 2026-10-18 (chưa có kiểm duyệt chuyên môn hay rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Series ảnh hướng dẫn Chuyển trọng tâm."
+    },
+    {
+      "id": "E06-STORYBOARD-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E06/storyboard.png",
+          "bytes": 357309,
+          "sha256": "8739bede6f4b8953f5fe91c9f56e1afe4ddc047c100ee1a6c4fa7c25fdf44d33"
+        },
+        {
+          "path": "assets/series/E06/thumbnail.png",
+          "bytes": 163397,
+          "sha256": "29c5804c06c094b0dc4c59e9a6219226fb0a12f445c46a36d1e6223f44cb858a"
+        },
+        {
+          "path": "assets/series/E06/series_strip.png",
+          "bytes": 636324,
+          "sha256": "f5cb5f429e3405b37039f3013079821b3a988182769c96f2e1d261b60c974bd4"
+        },
+        {
+          "path": "assets/series/E06/frames/01.png",
+          "bytes": 207958,
+          "sha256": "fafac8ad3ca15ec254805a2cebae1acf1742cff3a37c702fcf3d31b3263fc4c6"
+        },
+        {
+          "path": "assets/series/E06/frames/02.png",
+          "bytes": 196452,
+          "sha256": "7a9f84b072573a14af5ad3d49cf95ec9e6f9c1e24e2dc12bb0370b94261abe19"
+        },
+        {
+          "path": "assets/series/E06/frames/03.png",
+          "bytes": 197685,
+          "sha256": "bf98855a334b462acb4fd6366b9c5a11cf6c446c54f709f5a72213103369ca79"
+        },
+        {
+          "path": "assets/series/E06/frames/04.png",
+          "bytes": 196013,
+          "sha256": "5195848525e90b098cf1b9263cc8f805ceaae6e954d125b6852b3b0f0ea9e317"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI; chủ sản phẩm quyết định dùng làm nội dung chính thức ngày 2026-10-18 (chưa có kiểm duyệt chuyên môn hay rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Series ảnh hướng dẫn Đi bộ tại chỗ."
+    },
+    {
+      "id": "E07-STORYBOARD-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E07/storyboard.png",
+          "bytes": 453989,
+          "sha256": "bce9caef85c1826e7f309102cf23b31677ac111142f4f909462cf506d0ec0891"
+        },
+        {
+          "path": "assets/series/E07/thumbnail.png",
+          "bytes": 200156,
+          "sha256": "cb9100605499c25620d01926594d0c629102c5b1e1908dfd5262d91b858fece3"
+        },
+        {
+          "path": "assets/series/E07/series_strip.png",
+          "bytes": 574795,
+          "sha256": "30cfa019a42a48f594a3518de294ff491375a18245070d009e70f0c8d2cf9159"
+        },
+        {
+          "path": "assets/series/E07/frames/01.png",
+          "bytes": 251207,
+          "sha256": "571f77c88f0cc9123486d7b3d83a9f9254c30a5066a9be0e55c68d0ffb1e3a8a"
+        },
+        {
+          "path": "assets/series/E07/frames/02.png",
+          "bytes": 288315,
+          "sha256": "20af7bb5249f2fbd4c6105a3978d8e985551cd5b57c2c243caff209c9fb213f6"
+        },
+        {
+          "path": "assets/series/E07/frames/03.png",
+          "bytes": 255159,
+          "sha256": "fb3b92e57cdef30ab752907c784f26b19f4390b92c1223b83abaabd7cd79c45d"
+        },
+        {
+          "path": "assets/series/E07/frames/04.png",
+          "bytes": 250595,
+          "sha256": "208109e5feef49f5e71421f75bffd22e5bfc199d7e4e05951205ac99143b5001"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI; chủ sản phẩm quyết định dùng làm nội dung chính thức ngày 2026-10-18 (chưa có kiểm duyệt chuyên môn hay rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Series ảnh hướng dẫn Ngồi thư giãn."
+    },
+    {
+      "id": "E101-STEP-PHOTOS-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E101/04_step_1.webp",
+          "bytes": 21082,
+          "sha256": "f44f8568e869da2801d7f7b137e4171de5b29936a93c173e5477d039df7d0300"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E101/05_step_2.webp",
+          "bytes": 21622,
+          "sha256": "fabfeda67b483f005e9d891035746673982c463844d70966d6f0df1be81afc51"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E101/06_step_3.webp",
+          "bytes": 22446,
+          "sha256": "8826e205d14d2a0afe5b1d239ce4245f20a3c96379beadcb667a9188667f009d"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E101/07_step_4.webp",
+          "bytes": 21602,
+          "sha256": "c5d523938c5f608266ea27d8ff906f4149cbf9134126363693518ff028bea015"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI (gói nội dung phương Đông v0.3/v0.7); chủ sản phẩm duyệt kỹ thuật và quyết định dùng chính thức ngày 2026-10-18 (chưa rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Chuỗi 4 ảnh hướng dẫn thức Hai tay nâng trời."
+    },
+    {
+      "id": "E102-STEP-PHOTOS-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E102/04_step_1.webp",
+          "bytes": 20622,
+          "sha256": "3c726f7ac130374e4cf31bfda4f1cfd661a966c7c2bb56957b0385a378be68c2"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E102/05_step_2.webp",
+          "bytes": 19590,
+          "sha256": "982f45f7049a227e1c97438aa01905b63b9625a9a65ffaceffaa09437239ad65"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E102/06_step_3.webp",
+          "bytes": 19724,
+          "sha256": "db962a577926a12d9f95bcad064ed25d22a315d4a8449d290a30fa7d7850dc62"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E102/07_step_4.webp",
+          "bytes": 20534,
+          "sha256": "261f644380f98008e757f4f616deb19a2217acc36d83e134a4bc3629ed8c6fb2"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI (gói nội dung phương Đông v0.3/v0.7); chủ sản phẩm duyệt kỹ thuật và quyết định dùng chính thức ngày 2026-10-18 (chưa rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Chuỗi 4 ảnh hướng dẫn thức Kéo cung bắn chim ưng."
+    },
+    {
+      "id": "E103-STEP-PHOTOS-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E103/04_step_1.webp",
+          "bytes": 20762,
+          "sha256": "2de3612e4627c982cd29f71d1ba3567e07b91832a211d9683315c58481344f37"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E103/05_step_2.webp",
+          "bytes": 20886,
+          "sha256": "3cf300802fe7716ea65dce298d756c268f280f7140e6dc8b9e2639b629afa1c5"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E103/06_step_3.webp",
+          "bytes": 20320,
+          "sha256": "be38202dc3c1ef60f396a4868b5c435fd38b956a6a86ad931300c5285c0a33ab"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E103/07_step_4.webp",
+          "bytes": 20114,
+          "sha256": "741f37678ba5e9e0cd31ec2759735498f9eba04bf5bbe35cd741b312b6f99659"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI (gói nội dung phương Đông v0.3/v0.7); chủ sản phẩm duyệt kỹ thuật và quyết định dùng chính thức ngày 2026-10-18 (chưa rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Chuỗi 4 ảnh hướng dẫn thức Một tay nâng, một tay ép."
+    },
+    {
+      "id": "E104-STEP-PHOTOS-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E104/04_step_1.webp",
+          "bytes": 19662,
+          "sha256": "47817298ca7dc12d74877dad557a3a044917163a316deb0d6c15fd012d406552"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E104/05_step_2.webp",
+          "bytes": 20686,
+          "sha256": "574c9bf4dc5ddda52a0b6daa561f328ea9ccb7bddd18555dfd02e07b0cec3829"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E104/06_step_3.webp",
+          "bytes": 19724,
+          "sha256": "b8cd5aac8a6edf689a7f053c594ab8da4797b31d2068aff78636a0475fc0c30d"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E104/07_step_4.webp",
+          "bytes": 19578,
+          "sha256": "dee4a677455c374167203bff9f42d9a16b21e583d3c199c3ffe95e5a27811c02"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI (gói nội dung phương Đông v0.3/v0.7); chủ sản phẩm duyệt kỹ thuật và quyết định dùng chính thức ngày 2026-10-18 (chưa rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Chuỗi 4 ảnh hướng dẫn thức Quay đầu nhìn sau."
+    },
+    {
+      "id": "E105-STEP-PHOTOS-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E105/04_step_1.webp",
+          "bytes": 23176,
+          "sha256": "3f98b4aa6f1c03bb446a6361590cd87fbc43f00eba50a65c6a73797f796bb307"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E105/05_step_2.webp",
+          "bytes": 23806,
+          "sha256": "7e80e2e940436a997a5f98054d7ea2dce9a9efa2efe8eb14efc995be6ba66763"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E105/06_step_3.webp",
+          "bytes": 23696,
+          "sha256": "37ca52530626cde40a079fbae71895529aad2d951960bcf3723aa772f649fcc6"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E105/07_step_4.webp",
+          "bytes": 22388,
+          "sha256": "bf6ff7249458dce10a268124b8860673bd083018f52e981b7a82b38e149444b1"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI (gói nội dung phương Đông v0.3/v0.7); chủ sản phẩm duyệt kỹ thuật và quyết định dùng chính thức ngày 2026-10-18 (chưa rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Chuỗi 4 ảnh hướng dẫn thức Lắc đầu, vẫy đuôi."
+    },
+    {
+      "id": "E106-STEP-PHOTOS-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E106/04_step_1.webp",
+          "bytes": 20444,
+          "sha256": "1dcff22344d270b71371b57915715cce03ede5d2f3645eeab2f918dabe7b5cdc"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E106/05_step_2.webp",
+          "bytes": 20564,
+          "sha256": "600d8d751b3e9dfde275c90868e1ab23f67a8f30e182d9a505a2ae5f5cb7d2ff"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E106/06_step_3.webp",
+          "bytes": 20320,
+          "sha256": "bb929bea4ed1df16e51bb0bc650b5df553998f409f0bed5e2a020f52b88403ba"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E106/07_step_4.webp",
+          "bytes": 20186,
+          "sha256": "bec155a4061951cff747a8398e1c5e36e1e7ad75132c7855623bcde5d424cc89"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI (gói nội dung phương Đông v0.3/v0.7); chủ sản phẩm duyệt kỹ thuật và quyết định dùng chính thức ngày 2026-10-18 (chưa rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Chuỗi 4 ảnh hướng dẫn thức Cúi người chạm chân."
+    },
+    {
+      "id": "E107-STEP-PHOTOS-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E107/04_step_1.webp",
+          "bytes": 21280,
+          "sha256": "1c51d673d0dedc2c6325830c7f46b3b18b6aaf5219b46d495a669d8e6569134e"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E107/05_step_2.webp",
+          "bytes": 20978,
+          "sha256": "5d24db7bf6c60983a4a5e783cd9ad2b25454848897c639d2f8035d2b6ac021b6"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E107/06_step_3.webp",
+          "bytes": 20782,
+          "sha256": "dce4eb991a9915aea9849b11e2d088a5a5f119aac4b021860d6f0a4d078ae037"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E107/07_step_4.webp",
+          "bytes": 19918,
+          "sha256": "f24fbe382320fab410d331d19c28c5410fb903692ae344c7c315fec8f4f49946"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI (gói nội dung phương Đông v0.3/v0.7); chủ sản phẩm duyệt kỹ thuật và quyết định dùng chính thức ngày 2026-10-18 (chưa rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Chuỗi 4 ảnh hướng dẫn thức Nắm quyền, đấm nhẹ."
+    },
+    {
+      "id": "E108-STEP-PHOTOS-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E108/04_step_1.webp",
+          "bytes": 19796,
+          "sha256": "cdd384c216031beedad0dedff16ffe64d34f08812c6927655ab9103a7c7e4685"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E108/05_step_2.webp",
+          "bytes": 20606,
+          "sha256": "ba34c48ae5138fcd6659b2292ce4fd5d3f704808dac221eeadf471b53e4b8f0e"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E108/06_step_3.webp",
+          "bytes": 18794,
+          "sha256": "3768f84cd49ceb76cc519d225650d27fa5014b2610e72fb785b2e7f4bb7b8dbe"
+        },
+        {
+          "path": "packages/an_nhien_eastern_content/assets/series/E108/07_step_4.webp",
+          "bytes": 20104,
+          "sha256": "3234461c5604a4c48cecc18a5c0b72833ecc035e72507f1ec0c982e860def5cb"
+        }
+      ],
+      "reviewStatus": "approved",
+      "demoOnly": false,
+      "aiGenerated": true,
+      "rights": "Ảnh minh họa tạo bằng AI (gói nội dung phương Đông v0.3/v0.7); chủ sản phẩm duyệt kỹ thuật và quyết định dùng chính thức ngày 2026-10-18 (chưa rà soát bản quyền độc lập).",
+      "accessibilityDescription": "Chuỗi 4 ảnh hướng dẫn thức Nhón gót, hạ gót."
+    }
+  ]
+}

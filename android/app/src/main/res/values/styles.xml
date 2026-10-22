@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The app has a light theme only, so launch and first window stay light
+         (also in the OS dark mode) and match the Flutter SplashScreen. -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!-- Removed automatically when Flutter draws its first frame. -->
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <!-- Window colour behind the Flutter UI while it initialises and runs. -->
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@color/launch_background_color</item>
+    </style>
+</resources>

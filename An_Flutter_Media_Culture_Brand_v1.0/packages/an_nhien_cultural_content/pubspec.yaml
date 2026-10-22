@@ -1,0 +1,18 @@
+name: an_nhien_cultural_content
+description: Cultural history, movement meanings and narrator scripts for An (Vietnamese editorial content)
+version: 0.9.0
+publish_to: none
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: '>=3.19.0'
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+  assets:
+    - assets/catalog/
+    - assets/sources/
+    - assets/narration/systems/
+    - assets/narration/exercises/
+    - assets/narration/episodes/
+    - assets/articles/

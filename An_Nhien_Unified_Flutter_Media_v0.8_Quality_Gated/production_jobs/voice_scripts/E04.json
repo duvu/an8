@@ -1,0 +1,45 @@
+{
+  "exercise_id": "E04",
+  "title": "Nâng hạ hai tay",
+  "locale": "vi-VN",
+  "duration_ms": 120000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Nâng hạ hai tay."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Đứng vững, tay thả lỏng hai bên."
+    },
+    {
+      "offset_ms": 30000,
+      "text": "Nâng tay chậm đến mức dễ chịu."
+    },
+    {
+      "offset_ms": 60000,
+      "text": "Giữ cổ và vai thả lỏng."
+    },
+    {
+      "offset_ms": 90000,
+      "text": "Hạ tay chậm, thở tự nhiên."
+    },
+    {
+      "offset_ms": 105000,
+      "text": "Thở đều, nhẹ nhàng."
+    },
+    {
+      "offset_ms": 115000,
+      "text": "Không cần nâng quá đầu; tránh gồng vai."
+    }
+  ]
+}

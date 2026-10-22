@@ -1,0 +1,11 @@
+E210 — pose_transition_chair. Produce an expert-approved adapted pose for a participant needing chair/support assistance.
+Source-form reference (not a literal pose instruction):
+E210 – pose_transition. Dịch Cân Kinh – thức 10: Ngọa hổ phác thực (Crouching Tiger Pounces). Khung 2 – chuyển tiếp.
+Tư thế: Đẩy hai tay ra trước và xuống, thân nghiêng nhẹ về trước.
+Góc máy: chếch 3/4. Giữ đúng nhân vật nữ áo kem và bối cảnh đã thống nhất. Ảnh vuông, toàn thân, không chữ.
+
+Mandatory adaptation specification from content brief:
+Đứng trước ghế, hai bàn tay đặt lên mặt ghế thay vì chạm sàn. Ghế gỗ chắc chắn nhìn rõ trong khung.
+
+Resolve standing vs seated details by following the adaptation specification. Do NOT generate until an expert has signed off on the exact adapted joint positions, body weight distribution and chair placement. 1:1 photorealistic full body. No text.
+

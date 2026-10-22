@@ -1,0 +1,41 @@
+{
+  "exercise_id": "E308",
+  "title": "Khỉ hái quả",
+  "locale": "vi-VN",
+  "duration_ms": 75000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Thức 8: Khỉ hái quả."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Lùi nhẹ, tay móc khỉ."
+    },
+    {
+      "offset_ms": 25000,
+      "text": "Vươn tay hái quả trên cao."
+    },
+    {
+      "offset_ms": 50000,
+      "text": "Mang quả về ngực, tay kia đỡ; đổi bên."
+    },
+    {
+      "offset_ms": 62000,
+      "text": "Hít vào khi vươn lên, thở ra khi thu về."
+    },
+    {
+      "offset_ms": 70000,
+      "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+    }
+  ]
+}

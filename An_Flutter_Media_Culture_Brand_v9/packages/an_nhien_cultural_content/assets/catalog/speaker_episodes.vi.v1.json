@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "1.0",
+  "episodes": [
+    {
+      "id": "EP01",
+      "title": "Vì sao gọi là dưỡng sinh?",
+      "language": "vi-VN",
+      "scriptAssetPath": "assets/narration/episodes/EP01.vi.txt",
+      "audioAssetPath": null,
+      "status": "script_only",
+      "voiceStatus": "not_recorded",
+      "isExerciseInstruction": false
+    },
+    {
+      "id": "EP02",
+      "title": "Tám đoạn gấm và câu chuyện Bát Đoạn Cẩm",
+      "language": "vi-VN",
+      "scriptAssetPath": "assets/narration/episodes/EP02.vi.txt",
+      "audioAssetPath": null,
+      "status": "script_only",
+      "voiceStatus": "not_recorded",
+      "isExerciseInstruction": false
+    },
+    {
+      "id": "EP03",
+      "title": "Năm loài vật và phép quan sát tự nhiên",
+      "language": "vi-VN",
+      "scriptAssetPath": "assets/narration/episodes/EP03.vi.txt",
+      "audioAssetPath": null,
+      "status": "script_only",
+      "voiceStatus": "not_recorded",
+      "isExerciseInstruction": false
+    },
+    {
+      "id": "EP04",
+      "title": "Thái Cực: mây, hạc và những bước chân",
+      "language": "vi-VN",
+      "scriptAssetPath": "assets/narration/episodes/EP04.vi.txt",
+      "audioAssetPath": null,
+      "status": "script_only",
+      "voiceStatus": "not_recorded",
+      "isExerciseInstruction": false
+    },
+    {
+      "id": "EP05",
+      "title": "Dịch Cân Kinh: đâu là truyền thuyết?",
+      "language": "vi-VN",
+      "scriptAssetPath": "assets/narration/episodes/EP05.vi.txt",
+      "audioAssetPath": null,
+      "status": "script_only",
+      "voiceStatus": "not_recorded",
+      "isExerciseInstruction": false
+    },
+    {
+      "id": "EP06",
+      "title": "Sáu âm và ngôn ngữ hơi thở",
+      "language": "vi-VN",
+      "scriptAssetPath": "assets/narration/episodes/EP06.vi.txt",
+      "audioAssetPath": null,
+      "status": "script_only",
+      "voiceStatus": "not_recorded",
+      "isExerciseInstruction": false
+    }
+  ]
+}

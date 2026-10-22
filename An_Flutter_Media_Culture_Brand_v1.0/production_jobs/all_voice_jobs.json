@@ -1,0 +1,2785 @@
+[
+  {
+    "exercise_id": "E01",
+    "title": "Thở tự nhiên",
+    "locale": "vi-VN",
+    "duration_ms": 120000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thở tự nhiên."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Ngồi vững, vai và hàm thả lỏng."
+      },
+      {
+        "offset_ms": 30000,
+        "text": "Đặt tay lên bụng nếu thấy dễ chịu."
+      },
+      {
+        "offset_ms": 60000,
+        "text": "Hít thở nhẹ theo nhịp tự nhiên."
+      },
+      {
+        "offset_ms": 90000,
+        "text": "Tiếp tục thở đều, không nín thở."
+      },
+      {
+        "offset_ms": 105000,
+        "text": "Thở đều, nhẹ nhàng."
+      },
+      {
+        "offset_ms": 115000,
+        "text": "Không cố hít quá sâu hoặc nín thở."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E02",
+    "title": "Xoay vai nhẹ",
+    "locale": "vi-VN",
+    "duration_ms": 120000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Xoay vai nhẹ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đứng hoặc ngồi thẳng, thả lỏng vai."
+      },
+      {
+        "offset_ms": 30000,
+        "text": "Nhẹ nhàng nâng và đưa vai ra sau."
+      },
+      {
+        "offset_ms": 60000,
+        "text": "Tiếp tục vòng xoay nhỏ, chậm."
+      },
+      {
+        "offset_ms": 90000,
+        "text": "Hạ vai, thở đều, đổi chiều."
+      },
+      {
+        "offset_ms": 105000,
+        "text": "Thở đều, nhẹ nhàng."
+      },
+      {
+        "offset_ms": 115000,
+        "text": "Không xoay mạnh cổ hay giật vai."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E03",
+    "title": "Bàn tay và cổ chân",
+    "locale": "vi-VN",
+    "duration_ms": 120000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Bàn tay và cổ chân."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Duỗi nhẹ các ngón tay."
+      },
+      {
+        "offset_ms": 20000,
+        "text": "Nắm tay vừa phải, không siết chặt."
+      },
+      {
+        "offset_ms": 40000,
+        "text": "Mở bàn tay và thả lỏng."
+      },
+      {
+        "offset_ms": 60000,
+        "text": "Ngồi vững, nhấc gót chân."
+      },
+      {
+        "offset_ms": 80000,
+        "text": "Đổi sang nhấc mũi chân."
+      },
+      {
+        "offset_ms": 100000,
+        "text": "Xoay cổ chân nhỏ nếu thoải mái."
+      },
+      {
+        "offset_ms": 110000,
+        "text": "Thở đều, nhẹ nhàng."
+      },
+      {
+        "offset_ms": 115000,
+        "text": "Ngừng nếu xuất hiện đau hoặc tê tăng."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E04",
+    "title": "Nâng hạ hai tay",
+    "locale": "vi-VN",
+    "duration_ms": 120000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Nâng hạ hai tay."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đứng vững, tay thả lỏng hai bên."
+      },
+      {
+        "offset_ms": 30000,
+        "text": "Nâng tay chậm đến mức dễ chịu."
+      },
+      {
+        "offset_ms": 60000,
+        "text": "Giữ cổ và vai thả lỏng."
+      },
+      {
+        "offset_ms": 90000,
+        "text": "Hạ tay chậm, thở tự nhiên."
+      },
+      {
+        "offset_ms": 105000,
+        "text": "Thở đều, nhẹ nhàng."
+      },
+      {
+        "offset_ms": 115000,
+        "text": "Không cần nâng quá đầu; tránh gồng vai."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E05",
+    "title": "Chuyển trọng tâm",
+    "locale": "vi-VN",
+    "duration_ms": 120000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Chuyển trọng tâm."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đứng rộng bằng vai cạnh chỗ vịn."
+      },
+      {
+        "offset_ms": 30000,
+        "text": "Chuyển nhẹ trọng lượng sang trái."
+      },
+      {
+        "offset_ms": 60000,
+        "text": "Đổi từ từ sang bên phải."
+      },
+      {
+        "offset_ms": 90000,
+        "text": "Trở về giữa, giữ nhịp thở đều."
+      },
+      {
+        "offset_ms": 105000,
+        "text": "Thở đều, nhẹ nhàng."
+      },
+      {
+        "offset_ms": 115000,
+        "text": "Hai chân luôn chạm sàn; vịn ghế nếu cần."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E06",
+    "title": "Đi bộ tại chỗ",
+    "locale": "vi-VN",
+    "duration_ms": 180000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Đi bộ tại chỗ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đứng thẳng gần chỗ vịn."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Nhấc chân phải thấp, nhẹ nhàng."
+      },
+      {
+        "offset_ms": 90000,
+        "text": "Đổi sang chân trái và giữ thăng bằng."
+      },
+      {
+        "offset_ms": 135000,
+        "text": "Bước đều chậm, hít thở tự nhiên."
+      },
+      {
+        "offset_ms": 157000,
+        "text": "Thở đều, nhẹ nhàng."
+      },
+      {
+        "offset_ms": 175000,
+        "text": "Không cần nâng gối cao; dừng nếu choáng."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E07",
+    "title": "Ngồi thư giãn",
+    "locale": "vi-VN",
+    "duration_ms": 60000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Ngồi thư giãn."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Ngồi trên ghế chắc chắn, chân chạm sàn."
+      },
+      {
+        "offset_ms": 15000,
+        "text": "Giữ lưng thoải mái, thở tự nhiên."
+      },
+      {
+        "offset_ms": 30000,
+        "text": "Buông lỏng vai, hàm và bàn tay."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Ngồi yên một lúc, chú ý hơi thở."
+      },
+      {
+        "offset_ms": 52000,
+        "text": "Thở đều, nhẹ nhàng."
+      },
+      {
+        "offset_ms": 55000,
+        "text": "Không ép hoặc điều khiển nhịp thở quá mức."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E101",
+    "title": "Song thủ thác thiên",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 1: Song thủ thác thiên."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đan tay trước bụng, đứng vững."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Nâng tay chậm qua ngực, lật lòng bàn tay."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Đẩy nhẹ tay lên cao, vươn người, rồi hạ xuống."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi nâng tay, thở ra khi hạ tay."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E102",
+    "title": "Tả hữu khai cung",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 2: Tả hữu khai cung."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đứng tấn cao, hai tay chéo trước ngực."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Kéo cung: tay phải kéo về, tay trái đẩy ra."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Mắt nhìn theo tay trái; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi tay bắt chéo, thở ra khi kéo cung."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E103",
+    "title": "Điều lý tỳ vị, nhất thủ cử",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 3: Điều lý tỳ vị, nhất thủ cử."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Hai tay ngửa trước bụng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Một tay nâng lên, một tay ấn xuống."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Kéo giãn trên dưới, rồi đổi tay."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi tách tay, thở ra khi hai tay trở về."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E104",
+    "title": "Ngũ lao thất thương vãng hậu tiều",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 4: Ngũ lao thất thương vãng hậu tiều."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đứng thẳng, tay buông."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Xoay tay ra ngoài, mở ngực."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Quay đầu nhẹ nhìn ra sau, rồi đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi mở ngực và quay đầu, thở ra khi trở về."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E105",
+    "title": "Dao đầu bãi vĩ",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 5: Dao đầu bãi vĩ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tấn cao, tay đặt trên đùi."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Nghiêng nhẹ sang phải."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Xoay vòng nhỏ qua trái, mông lắc ngược chiều."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi nghiêng và xoay, hít vào khi về giữa."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E106",
+    "title": "Lưỡng thủ phàn túc",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 6: Lưỡng thủ phàn túc."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Hai tay giơ lên cao."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Hạ tay, vuốt dọc lưng xuống."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Cúi chậm, tay trượt xuống chân tới mức dễ chịu."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi cúi xuống, hít vào khi đứng lên."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E107",
+    "title": "Toản quyền nộ mục",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 7: Toản quyền nộ mục."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tấn cao, nắm tay đặt cạnh eo."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Đấm chậm ra trước, mắt nhìn theo."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Xoay cổ tay, nắm lại và rút về; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi đấm ra, hít vào khi rút về."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E108",
+    "title": "Bối hậu thất điên",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 8: Bối hậu thất điên."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đứng khép chân, thả lỏng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Kiễng gót, vươn người lên."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Hạ gót nhẹ xuống đất."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi kiễng gót, thở ra khi hạ gót."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E201",
+    "title": "Vi Đà hiến chử — thức 1",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 1: Vi Đà hiến chử — thức 1."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đưa hai tay ra trước ngang vai."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Khuỳnh tay, thu về trước ngực."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Chắp tay trước ngực, tĩnh tâm."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở tự nhiên, đều."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E202",
+    "title": "Vi Đà hiến chử — thức 2",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 2: Vi Đà hiến chử — thức 2."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Nâng khuỷu ngang vai."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Mở tay sang hai bên."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Dựng cổ tay, đẩy nhẹ ra hai bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi mở tay, thở ra khi đẩy."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E203",
+    "title": "Vi Đà hiến chử — thức 3",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 3: Vi Đà hiến chử — thức 3."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay ngang vai."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Lật tay, vòng lên cao."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Nâng hai tay trên đầu như đỡ vật."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi nâng, thở ra khi hạ."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E204",
+    "title": "Trích tinh hoán đẩu",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 4: Trích tinh hoán đẩu."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay phải đưa xuống trước hông trái."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Vung tay lên, tay kia đặt sau lưng."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Bàn tay khum trên cao, mắt nhìn theo; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi vung lên, thở ra khi hạ xuống."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E205",
+    "title": "Đảo duệ cửu ngưu vĩ",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 5: Đảo duệ cửu ngưu vĩ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Chùng gối trước, hai tay nắm trước sau."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Dồn trọng tâm về sau, xoay eo."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Kéo như kéo đuôi trâu; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi kéo về, hít vào khi trở lại."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E206",
+    "title": "Xuất trảo lượng sí",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 6: Xuất trảo lượng sí."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Dựng hai bàn tay trước ngực."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Đẩy chậm ra trước, xòe ngón."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Duỗi tay, xòe ngón như móng vuốt; thu về."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi đẩy, hít vào khi thu."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E207",
+    "title": "Cửu quỷ bạt mã đao",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 7: Cửu quỷ bạt mã đao."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay vòng sau đầu, tay kia áp lưng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Xoay thân chậm, mở khuỷu tay."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Giữ ngực mở, cổ thẳng; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi xoay, hít vào khi trở về."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E208",
+    "title": "Tam bàn lạc địa",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 8: Tam bàn lạc địa."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Chân rộng, tay ngửa trước ngực."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Chùng gối, lật tay ấn xuống."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tay ngang gối như đặt đĩa; đứng lên nâng tay."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi hạ, hít vào khi đứng lên."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E209",
+    "title": "Thanh long thám trảo",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 9: Thanh long thám trảo."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Nắm tay cạnh eo."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Vươn vuốt rồng sang trái, xoay thân."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Cúi nhẹ, vươn tay xuống, quét về; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi vươn xuống, hít vào khi đứng lên."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E210",
+    "title": "Ngọa hổ phác thực",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 10: Ngọa hổ phác thực."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Chùng gối trước, tay vuốt hổ."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Đẩy tay ra trước và xuống."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Nghiêng người như hổ vồ, tay đặt lên gối; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi vồ xuống, hít vào khi trở về."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E211",
+    "title": "Đả cung",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 11: Đả cung."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Hai tay áp tai, ngón đặt sau gáy."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Gõ nhẹ ngón tay sau đầu."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Cúi chậm, cuộn lưng xuống, rồi cuộn lên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi cúi, hít vào khi lên."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E212",
+    "title": "Điệu vĩ",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 12: Điệu vĩ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đan tay đẩy ra trước."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Cúi nhẹ, tay đan đẩy xuống."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Quay đầu nhìn sau, hông lắc cùng bên; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở tự nhiên, không nín thở."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E301",
+    "title": "Hổ giơ vuốt",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 1: Hổ giơ vuốt."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay vuốt hổ trước bụng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Nâng tay lên ngực, nắm rồi mở."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Vươn vuốt lên cao, rồi ấn xuống."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi nâng, thở ra khi ấn xuống."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E302",
+    "title": "Hổ vồ mồi",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 2: Hổ vồ mồi."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Vuốt hổ ngang vai, cúi nhẹ."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Duỗi thân, vươn tay ra trước."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Bước tới, vồ xuống ngang gối; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi vồ xuống."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E303",
+    "title": "Hươu húc gạc",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 3: Hươu húc gạc."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay sừng hươu cạnh eo."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Bước gót, vung tay vòng cung."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Xoay thân nhìn về gót chân; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi vung lên, thở ra khi xoay."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E304",
+    "title": "Hươu chạy",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 4: Hươu chạy."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Chùng gối trước, tay sừng hươu ra trước."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Dồn về sau, cong lưng."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Lưng cong như cung, rồi trở về; đổi chân."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi cong lưng, hít vào khi trở về."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E305",
+    "title": "Gấu lắc mình",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 5: Gấu lắc mình."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay chân gấu trước bụng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Nhấc hông, bước chân phải."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Dồn trọng tâm, thân lắc nhẹ; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở tự nhiên theo nhịp bước."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E306",
+    "title": "Gấu xoa bụng",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 6: Gấu xoa bụng."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay chân gấu trước rốn."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Xoay eo, tay vẽ vòng quanh rốn."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Hoàn tất vòng, đổi chiều."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào nửa vòng lên, thở ra nửa vòng xuống."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E307",
+    "title": "Khỉ cảnh giác",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 7: Khỉ cảnh giác."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay móc khỉ trước bụng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Nhún vai, nâng tay, kiễng gót nhẹ."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Quay đầu cảnh giác, rồi hạ xuống; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi nâng, thở ra khi hạ."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E308",
+    "title": "Khỉ hái quả",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 8: Khỉ hái quả."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Lùi nhẹ, tay móc khỉ."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Vươn tay hái quả trên cao."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Mang quả về ngực, tay kia đỡ; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi vươn lên, thở ra khi thu về."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E309",
+    "title": "Chim vươn cánh",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 9: Chim vươn cánh."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Hai tay chồng trước bụng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Nâng tay lên cao, mở ngực."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Mở tay ra sau như cánh; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi nâng, thở ra khi mở cánh."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E310",
+    "title": "Chim bay",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 10: Chim bay."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay trước bụng, gối chùng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Dang tay như cánh chim."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tay lên cao rồi hạ; đổi chân."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi dang cánh, thở ra khi hạ."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E401",
+    "title": "Âm Xu (嘘)",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": true,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 1: Âm Xu (嘘)."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Hai tay ngửa cạnh eo."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Xoay thân, đẩy tay ra, mắt mở to."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Thở ra đọc nhẹ \"xū\"; đổi bên."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào bằng mũi tự nhiên; thở ra chậm khi phát âm, không cố đẩy hết hơi."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E402",
+    "title": "Âm He (呵)",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": true,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 2: Âm He (呵)."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay như vốc nước trước bụng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Vốc tay lên ngực."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Lật tay ấn xuống, thở ra đọc \"hē\"."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi nâng, thở ra khi phát âm."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E403",
+    "title": "Âm Hu (呼)",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": true,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 3: Âm Hu (呼)."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay trước rốn."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Mở tay ra hai bên."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Thở ra đọc \"hū\", thu tay về."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi thu, thở ra khi mở và phát âm."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E404",
+    "title": "Âm Si (呬)",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": true,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 4: Âm Si (呬)."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay trước ngực, đầu ngón hướng nhau."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Kéo vai ra sau, mở ngực."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Đẩy tay ra trước, thở ra đọc \"sī\"."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi mở ngực, thở ra khi đẩy và phát âm."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E405",
+    "title": "Âm Chui (吹)",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": true,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 5: Âm Chui (吹)."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay đặt sau thắt lưng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Vuốt xuống hông, vòng ra trước."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Chùng gối, ôm vòng, thở ra đọc \"chuī\"."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Thở ra khi hạ và phát âm, hít vào khi đứng lên."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E406",
+    "title": "Âm Xi (嘻)",
+    "locale": "vi-VN",
+    "duration_ms": 75000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": true,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 6: Âm Xi (嘻)."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Mu bàn tay áp nhau trước bụng."
+      },
+      {
+        "offset_ms": 25000,
+        "text": "Nâng lên ngực, tách ra lên cao."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Hạ tay sang hai bên, thở ra đọc \"xī\"."
+      },
+      {
+        "offset_ms": 62000,
+        "text": "Hít vào khi nâng, thở ra khi hạ và phát âm."
+      },
+      {
+        "offset_ms": 70000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E501",
+    "title": "Khởi thế",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 1: Khởi thế."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Đứng khép chân."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Bước rộng vai, nâng tay ngang vai."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Chùng gối, ấn tay xuống."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E502",
+    "title": "Dã mã phân tông",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 2: Dã mã phân tông."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Ôm bóng bên phải."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Bước tới, chuyển trọng tâm."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Tách tay: trước cao, sau thấp."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E503",
+    "title": "Bạch hạc lượng sí",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 3: Bạch hạc lượng sí."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Theo nửa bước."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Hư bộ, mũi chân trái chạm đất."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Tay phải cạnh trán, tay trái cạnh hông."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E504",
+    "title": "Lâu tất ảo bộ",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 4: Lâu tất ảo bộ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay phải cạnh tai."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Bước cung bộ trái."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Tay trái quét gối, tay phải đẩy ra."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E505",
+    "title": "Thủ huy tỳ bà",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 5: Thủ huy tỳ bà."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Theo nửa bước, dồn sau."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Gót trái chạm trước."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Hai tay như ôm đàn."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E506",
+    "title": "Đảo quyển quăng",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 6: Đảo quyển quăng."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay phải vòng lên tai."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Lùi chân trái."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Đẩy tay phải, rút tay trái."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E507",
+    "title": "Tả lãm tước vĩ",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 7: Tả lãm tước vĩ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Ôm bóng, bước trái."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Bằng rồi lý: đưa ra, kéo về."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Tễ rồi án: ép và đẩy ra."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E508",
+    "title": "Hữu lãm tước vĩ",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 8: Hữu lãm tước vĩ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Ôm bóng, bước phải."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Đưa ra, kéo về."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Ép và đẩy ra."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E509",
+    "title": "Đơn tiên",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 9: Đơn tiên."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay phải thành móc."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Bước trái, chuyển trọng tâm."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Tay trái đẩy ra, móc phải giữ sau."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E510",
+    "title": "Vân thủ",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 10: Vân thủ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay ngang ngực và bụng."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Bước ngang, tay vẽ vòng như mây."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Khép chân, kết thúc vòng."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E511",
+    "title": "Đơn tiên (lặp)",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 11: Đơn tiên (lặp)."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay phải thành móc."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Bước trái."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Đẩy tay trái ra."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E512",
+    "title": "Cao thám mã",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 12: Cao thám mã."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Theo nửa bước."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Hư bộ trái."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Tay phải đẩy cao, tay trái ngửa."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E513",
+    "title": "Hữu đăng cước",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 13: Hữu đăng cước."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Bắt chéo tay, đứng chân trái."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Nhấc gối phải."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Duỗi gót thấp, mở tay."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E514",
+    "title": "Song phong quán nhĩ",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 14: Song phong quán nhĩ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Hạ tay cạnh gối."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Bước cung bộ phải."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Hai nắm tay vòng lên trước."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E515",
+    "title": "Chuyển thân tả đăng cước",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 15: Chuyển thân tả đăng cước."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Xoay thân, bắt chéo tay."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Nhấc gối trái."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Duỗi gót thấp, mở tay."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E516",
+    "title": "Tả hạ thế độc lập",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 16: Tả hạ thế độc lập."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay móc, tay kia trước ngực."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Duỗi chân trái, tay vuốt theo (không hạ sâu)."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Đứng lên chân trái, nhấc gối nhẹ."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E517",
+    "title": "Hữu hạ thế độc lập",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 17: Hữu hạ thế độc lập."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay móc, tay kia trước ngực."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Duỗi chân phải, tay vuốt theo."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Đứng lên chân phải, nhấc gối nhẹ."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E518",
+    "title": "Tả hữu xuyên thoa",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 18: Tả hữu xuyên thoa."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Ôm bóng, bước trái."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Tay trái nâng chặn trên trán."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Tay phải đẩy ra; đổi bên."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E519",
+    "title": "Hải để châm",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 19: Hải để châm."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Theo nửa bước."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Hư bộ trái."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Tay phải cắm xuống, nghiêng nhẹ."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E520",
+    "title": "Thiểm thông tý",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 20: Thiểm thông tý."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Hai tay trước ngực."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Bước cung bộ trái."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Tay phải trên trán, tay trái đẩy ra."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E521",
+    "title": "Chuyển thân ban lan chùy",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 21: Chuyển thân ban lan chùy."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Xoay phải, nắm tay trước bụng."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Quét và chặn, bước trái."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Đấm ra ngang ngực."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E522",
+    "title": "Như phong tự bế",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 22: Như phong tự bế."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay trái luồn dưới tay phải."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Kéo hai tay về ngực."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Đẩy hai tay ra trước."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E523",
+    "title": "Thập tự thủ",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 23: Thập tự thủ."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Xoay phải, tách tay."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Tay vòng xuống, chân song song."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Bắt chéo tay trước ngực."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  },
+  {
+    "exercise_id": "E524",
+    "title": "Thu thế",
+    "locale": "vi-VN",
+    "duration_ms": 55000,
+    "recording_status": "needs_voice_recording",
+    "professional_review_status": "pending",
+    "phonetic_approval_required": false,
+    "target_spec": {
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "integrated_lufs": -16,
+      "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+    },
+    "cues": [
+      {
+        "offset_ms": 0,
+        "text": "Thức 24: Thu thế."
+      },
+      {
+        "offset_ms": 2000,
+        "text": "Tay chéo trước ngực."
+      },
+      {
+        "offset_ms": 18000,
+        "text": "Lật tay úp, tách rộng vai."
+      },
+      {
+        "offset_ms": 36000,
+        "text": "Hạ tay, khép chân, đứng tĩnh."
+      },
+      {
+        "offset_ms": 45000,
+        "text": "Thở tự nhiên, nhẹ và đều theo chuyển động."
+      },
+      {
+        "offset_ms": 50000,
+        "text": "Tập trong phạm vi thoải mái; dừng nếu chóng mặt hay đau."
+      }
+    ]
+  }
+]

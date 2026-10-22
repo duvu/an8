@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "systemId": "SYS-XSJ",
+  "slug": "xisuijing",
+  "titleVi": "Tẩy Tủy Kinh / Tẩy Tủy Công",
+  "titleEn": "Xi Sui Jing — lineage undetermined",
+  "numberOfForms": 0,
+  "status": "research_only",
+  "demoOnly": true,
+  "reviewStatus": "draft",
+  "publishable": false,
+  "coverPath": "assets/covers/xisuijing.webp",
+  "reason": "Chưa xác định phiên bản, nguồn/pháp hệ và người hướng dẫn; không có một chuỗi bài mặc định có thể phát hành trung thực.",
+  "requiredBeforeAuthoring": [
+    "Chọn trường phái/nguồn cụ thể",
+    "Đối chiếu tên thức và kỹ thuật với người hướng dẫn có chuyên môn",
+    "Thẩm định an toàn, sức khỏe, bản quyền video/ảnh",
+    "Chốt schema, version, phân loại bài và duyệt trước publish"
+  ],
+  "safetyNotes": [
+    "Không đưa các kỹ thuật nín thở, gồng siết mạnh hoặc kỹ thuật nhạy cảm vào app công cộng khi chưa qua thẩm định."
+  ],
+  "routineIds": [],
+  "exerciseTitles": []
+}

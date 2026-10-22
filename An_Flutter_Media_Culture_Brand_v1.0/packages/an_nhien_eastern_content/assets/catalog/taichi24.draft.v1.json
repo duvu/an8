@@ -1,0 +1,2127 @@
+{
+  "schemaVersion": 1,
+  "catalogId": "an-nhien-taichi24",
+  "catalogVersion": "2026.10.18-draft.visual.7",
+  "locale": "vi-VN",
+  "status": "draft",
+  "demoOnly": true,
+  "contentManagement": {
+    "source": "git-managed-manifest",
+    "futureBackend": "ContentCatalogRepository / remote CMS adapter",
+    "syncEnabled": false
+  },
+  "exercises": [
+    {
+      "id": "E501",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Khởi thế",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E501/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E501/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E501/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E501/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E501-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E501-ILLUSTRATED-SERIES-v2",
+        "E501-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E502",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Dã mã phân tông",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E502/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E502/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E502-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E502-DRAFT-SERIES-v1",
+        "E502-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E503",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Bạch hạc lượng sí",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Bước 1 — vào tư thế chuẩn bị.",
+          "framePath": "assets/series/E503/04_step_1.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Bước 2 — thực hiện pha chuyển động đầu tiên.",
+          "framePath": "assets/series/E503/05_step_2.webp"
+        },
+        {
+          "order": 3,
+          "instruction": "Bước 3 — giữ hoặc hoàn thành pha chính của động tác.",
+          "framePath": "assets/series/E503/06_step_3.webp"
+        },
+        {
+          "order": 4,
+          "instruction": "Bước 4 — trở về tư thế ban đầu một cách mềm và có kiểm soát.",
+          "framePath": "assets/series/E503/07_step_4.webp"
+        }
+      ],
+      "posterMediaId": "E503-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E503-ILLUSTRATED-SERIES-v2",
+        "E503-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E504",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Lâu tất ảo bộ",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E504/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E504/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E504-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E504-DRAFT-SERIES-v1",
+        "E504-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E505",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Thủ huy tỳ bà",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E505/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E505/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E505-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E505-DRAFT-SERIES-v1",
+        "E505-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E506",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Đảo quyển quăng",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E506/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E506/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E506-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E506-DRAFT-SERIES-v1",
+        "E506-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E507",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Tả lãm tước vĩ",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E507/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E507/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E507-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E507-DRAFT-SERIES-v1",
+        "E507-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E508",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Hữu lãm tước vĩ",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E508/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E508/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E508-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E508-DRAFT-SERIES-v1",
+        "E508-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E509",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Đơn tiên",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E509/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E509/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E509-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E509-DRAFT-SERIES-v1",
+        "E509-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E510",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Vân thủ",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E510/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E510/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E510-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E510-DRAFT-SERIES-v1",
+        "E510-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E511",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Đơn tiên (lặp)",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E511/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E511/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E511-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E511-DRAFT-SERIES-v1",
+        "E511-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E512",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Cao thám mã",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E512/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E512/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E512-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E512-DRAFT-SERIES-v1",
+        "E512-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E513",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Hữu đăng cước",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E513/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E513/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E513-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E513-DRAFT-SERIES-v1",
+        "E513-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E514",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Song phong quán nhĩ",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E514/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E514/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E514-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E514-DRAFT-SERIES-v1",
+        "E514-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E515",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Chuyển thân tả đăng cước",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E515/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E515/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E515-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E515-DRAFT-SERIES-v1",
+        "E515-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E516",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Tả hạ thế độc lập",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E516/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E516/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E516-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E516-DRAFT-SERIES-v1",
+        "E516-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E517",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Hữu hạ thế độc lập",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E517/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E517/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E517-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E517-DRAFT-SERIES-v1",
+        "E517-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E518",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Tả hữu xuyên thoa",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E518/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E518/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E518-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E518-DRAFT-SERIES-v1",
+        "E518-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E519",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Hải để châm",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E519/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E519/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E519-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E519-DRAFT-SERIES-v1",
+        "E519-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E520",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Thiểm thông tý",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E520/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E520/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E520-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E520-DRAFT-SERIES-v1",
+        "E520-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E521",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Chuyển thân ban lan chùy",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E521/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E521/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E521-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E521-DRAFT-SERIES-v1",
+        "E521-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E522",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Như phong tự bế",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E522/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E522/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E522-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E522-DRAFT-SERIES-v1",
+        "E522-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E523",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Thập tự thủ",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E523/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E523/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E523-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E523-DRAFT-SERIES-v1",
+        "E523-UNIFIED-POSTER-v1"
+      ]
+    },
+    {
+      "id": "E524",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Thu thế",
+      "defaultDurationSeconds": 55,
+      "position": "standing",
+      "intensity": "moderate",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "requires-instructor-review"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "safetyNotes": [
+        "Không tập khi chưa có hướng dẫn tư thế và biên độ đã được chuyên gia duyệt.",
+        "Dừng nếu đau, chóng mặt, mất thăng bằng hoặc tê tăng; không nín thở hay gắng sức."
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Ảnh minh họa tên thức, chưa có hướng dẫn kỹ thuật; không tập theo ảnh.",
+          "framePath": "assets/series/E524/01_title.webp"
+        },
+        {
+          "order": 2,
+          "instruction": "Chờ video/ảnh chuyển động được duyệt và lời dẫn; không tự suy diễn kỹ thuật.",
+          "framePath": "assets/series/E524/02_review_pending.webp"
+        }
+      ],
+      "posterMediaId": "E524-UNIFIED-POSTER-v1",
+      "mediaAssetIds": [
+        "E524-DRAFT-SERIES-v1",
+        "E524-UNIFIED-POSTER-v1"
+      ]
+    }
+  ],
+  "routines": [
+    {
+      "id": "R105",
+      "version": 1,
+      "locale": "vi-VN",
+      "title": "Thái Cực Quyền 24 thức — chuỗi tham khảo",
+      "description": "Danh sách 24 thức theo tài liệu tham khảo. Chỉ xem giới thiệu cho đến khi media và kỹ thuật đã được chuyên gia duyệt.",
+      "tags": [
+        "eastern-qigong",
+        "taichi24",
+        "draft",
+        "not-playable"
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "totalDurationSeconds": 1320,
+      "steps": [
+        {
+          "order": 1,
+          "exerciseId": "E501",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 2,
+          "exerciseId": "E502",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 3,
+          "exerciseId": "E503",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 4,
+          "exerciseId": "E504",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 5,
+          "exerciseId": "E505",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 6,
+          "exerciseId": "E506",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 7,
+          "exerciseId": "E507",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 8,
+          "exerciseId": "E508",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 9,
+          "exerciseId": "E509",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 10,
+          "exerciseId": "E510",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 11,
+          "exerciseId": "E511",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 12,
+          "exerciseId": "E512",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 13,
+          "exerciseId": "E513",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 14,
+          "exerciseId": "E514",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 15,
+          "exerciseId": "E515",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 16,
+          "exerciseId": "E516",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 17,
+          "exerciseId": "E517",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 18,
+          "exerciseId": "E518",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 19,
+          "exerciseId": "E519",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 20,
+          "exerciseId": "E520",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 21,
+          "exerciseId": "E521",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 22,
+          "exerciseId": "E522",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 23,
+          "exerciseId": "E523",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        },
+        {
+          "order": 24,
+          "exerciseId": "E524",
+          "exerciseVersion": 1,
+          "durationSeconds": 55,
+          "mediaVariant": "storyboard"
+        }
+      ]
+    }
+  ],
+  "mediaAssets": [
+    {
+      "id": "E502-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E502/01_title.webp",
+          "bytes": 28704,
+          "sha256": "1d7d0eeda50fe1c341afdd3e0544d6bd7b1de5b7f2a22c7fc2904ec2d8d56dc5"
+        },
+        {
+          "path": "assets/series/E502/02_review_pending.webp",
+          "bytes": 12066,
+          "sha256": "c78f685b5df65062c10b3d718799a270b7b1521ab19fffcfd998e9f265d8043c"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Dã mã phân tông; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E504-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E504/01_title.webp",
+          "bytes": 28064,
+          "sha256": "01683d5b5f633502c9161f83f4eeaf1d358d47d18ce9f3a627cf6ff8a7234fe7"
+        },
+        {
+          "path": "assets/series/E504/02_review_pending.webp",
+          "bytes": 11508,
+          "sha256": "97ce599b5503f7567c4a83a827dc031d817df2f1137cd3f375aaeffa8a150f3e"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Lâu tất ảo bộ; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E505-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E505/01_title.webp",
+          "bytes": 27988,
+          "sha256": "3d948502537143435b79745eceab11454a80c5e5adb9661afa434db14d1b4321"
+        },
+        {
+          "path": "assets/series/E505/02_review_pending.webp",
+          "bytes": 11292,
+          "sha256": "2f9819f7366194b82b0bb69feba55a1eccaa7e395a98e55a331cadbcb91a195e"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Thủ huy tỳ bà; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E506-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E506/01_title.webp",
+          "bytes": 28682,
+          "sha256": "6aae53f47c2096d828b91508f4a76d72e6a301bd92a83c0d2965a23c23a2444c"
+        },
+        {
+          "path": "assets/series/E506/02_review_pending.webp",
+          "bytes": 12242,
+          "sha256": "c76b1f564fa9fbc1655f5ae57da5157bc3814aaa152b4e201d57bb66ddfe89dd"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Đảo quyển quăng; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E507-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E507/01_title.webp",
+          "bytes": 27942,
+          "sha256": "6d708c9e02117d002c6faf5b642b270d6610f0e41ab42f2c4e2c3d44655f7413"
+        },
+        {
+          "path": "assets/series/E507/02_review_pending.webp",
+          "bytes": 11390,
+          "sha256": "d144234dc621f11b5e65261d0f061cb25a4fc8bc72a6f94672a9273e9a43b9e0"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Tả lãm tước vĩ; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E508-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E508/01_title.webp",
+          "bytes": 28334,
+          "sha256": "11fb6d0c272d2e14c906cc19f880036271220c3c32ab420c8c042ac6795ea90d"
+        },
+        {
+          "path": "assets/series/E508/02_review_pending.webp",
+          "bytes": 11618,
+          "sha256": "f142fb3e4f90146f508461f9214dd3d4435aa52f87be9faae24701ef95db19ff"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Hữu lãm tước vĩ; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E509-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E509/01_title.webp",
+          "bytes": 27274,
+          "sha256": "9c3fd4863d57a09df87b35b749d5f12909d1492ffff274a8cf31dd3b28a3ba7b"
+        },
+        {
+          "path": "assets/series/E509/02_review_pending.webp",
+          "bytes": 10630,
+          "sha256": "8e5c5a99353722c7eb675c60a048cb33329f38bb8cb358be6fa13760e7ce1cda"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Đơn tiên; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E510-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E510/01_title.webp",
+          "bytes": 26956,
+          "sha256": "ab7348f47dc7a681aef967da781a3fb8fa082904bec3bc4c0940d8c0332714e9"
+        },
+        {
+          "path": "assets/series/E510/02_review_pending.webp",
+          "bytes": 10574,
+          "sha256": "8cae985beb70bbf11b2fe16b654e58734d63860567592de48dd47e22930f5e64"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Vân thủ; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E511-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E511/01_title.webp",
+          "bytes": 28092,
+          "sha256": "57476dd37a1b3ef3b7ac6b16488e5b35ea90648d63131b12c5b4bd2894e9bd3d"
+        },
+        {
+          "path": "assets/series/E511/02_review_pending.webp",
+          "bytes": 11386,
+          "sha256": "77698db4373eb7d88ee884f66f81402e1b55e611c59697a1185722a97b65ac64"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Đơn tiên (lặp); không phải hướng dẫn tập."
+    },
+    {
+      "id": "E512-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E512/01_title.webp",
+          "bytes": 27762,
+          "sha256": "af7f7a8ccbb98011762b4dd55691d5c2b7f01e485c6bb85bb360a45c4519ef69"
+        },
+        {
+          "path": "assets/series/E512/02_review_pending.webp",
+          "bytes": 11248,
+          "sha256": "416ae588d52596ae6070b3cddfa70019aaca726fd7208f81dd47dd28fda4a29b"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Cao thám mã; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E513-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E513/01_title.webp",
+          "bytes": 28242,
+          "sha256": "dc47acb161814af000aafea4c78c8924e5d50fd9e8b625d9fc21cccfb4b8149a"
+        },
+        {
+          "path": "assets/series/E513/02_review_pending.webp",
+          "bytes": 11696,
+          "sha256": "cb5df1023a9824e41a6a06a2c4e33838ca55bbdf5065fe75c9eaaea18b2e7e09"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Hữu đăng cước; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E514-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E514/01_title.webp",
+          "bytes": 28784,
+          "sha256": "86aa1381d879469f372d98f0907dc5c9c16f5c156242f279f0b80a0e1b34a3e1"
+        },
+        {
+          "path": "assets/series/E514/02_review_pending.webp",
+          "bytes": 12318,
+          "sha256": "bf190447a82d8b922f68a43c2d028ac51f76b50de5d9f3833ac5ef1e89479fd4"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Song phong quán nhĩ; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E515-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E515/01_title.webp",
+          "bytes": 29566,
+          "sha256": "eb4abfaca48407ece13979e0874ec0599c5ddcf6d001e975e437e69e2bb4d67f"
+        },
+        {
+          "path": "assets/series/E515/02_review_pending.webp",
+          "bytes": 13538,
+          "sha256": "a4d359556d8dc4c5346fb745a26926a5c24389672bc265d6dc5c6c473e69ec09"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Chuyển thân tả đăng cước; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E516-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E516/01_title.webp",
+          "bytes": 28384,
+          "sha256": "92092fe6f4bf6f67b2fc621181d475ffcb30b92adf3a2f157007a04b3d1fc0ad"
+        },
+        {
+          "path": "assets/series/E516/02_review_pending.webp",
+          "bytes": 11998,
+          "sha256": "00f519cefee3118a4a8f512a6f55dd43564ded6c7577b6c77055940eb7f2b287"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Tả hạ thế độc lập; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E517-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E517/01_title.webp",
+          "bytes": 28784,
+          "sha256": "53b585fe4a7c1ae0710b9f6aa253cb6406f3489c961b90d931f18f04efe2d41d"
+        },
+        {
+          "path": "assets/series/E517/02_review_pending.webp",
+          "bytes": 12196,
+          "sha256": "bb99dc50dcf4eadd1be3603c348b71b2eb30dd08f4c2de40dcf977e04ca7f8b1"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Hữu hạ thế độc lập; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E518-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E518/01_title.webp",
+          "bytes": 28836,
+          "sha256": "1aeca44bdf86221b41bcc873c8743320adeea5a3d2611c068239680e9640de67"
+        },
+        {
+          "path": "assets/series/E518/02_review_pending.webp",
+          "bytes": 12146,
+          "sha256": "4af7bb077aec662c9229ac6708e9f4e69095cae48dbfb4eaaa87ad5e4a8bdb9d"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Tả hữu xuyên thoa; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E519-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E519/01_title.webp",
+          "bytes": 27992,
+          "sha256": "24f6464553d889a32c96b1ab4eb894f34edef2a0486394ed2f3c5ec8be270eb0"
+        },
+        {
+          "path": "assets/series/E519/02_review_pending.webp",
+          "bytes": 11230,
+          "sha256": "5c0afbdf32d47486769a9ecb216e7d4904b7c93198a71ff5922b1bcbaa78d639"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Hải để châm; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E520-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E520/01_title.webp",
+          "bytes": 28044,
+          "sha256": "e8633e6207362c0b72777394f494c45a9f593f19ae434b73ad8348418686a6e3"
+        },
+        {
+          "path": "assets/series/E520/02_review_pending.webp",
+          "bytes": 11674,
+          "sha256": "5a6be35910e1deffcaec17db72435d9642d8b93626988a8100ee7b45631fd34a"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Thiểm thông tý; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E521-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E521/01_title.webp",
+          "bytes": 29416,
+          "sha256": "74cfe40c6c375dbb272fcaaeb80137520bc6dda674427532dcbd0a3125dd035e"
+        },
+        {
+          "path": "assets/series/E521/02_review_pending.webp",
+          "bytes": 13076,
+          "sha256": "1b3dc3144bf3546d57cb9857f9bb3cbc7dbc251bb40d906fcce019551eef0e53"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Chuyển thân ban lan chùy; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E522-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E522/01_title.webp",
+          "bytes": 28392,
+          "sha256": "2498054705e947a6682b87ccc80532e03c10da2ada005c820424cac966f6f4e9"
+        },
+        {
+          "path": "assets/series/E522/02_review_pending.webp",
+          "bytes": 11820,
+          "sha256": "a3c85cd08c90dbafe174a50240c7817ee7951ecf0eb67a5f260ce5be0a0c206c"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Như phong tự bế; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E523-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E523/01_title.webp",
+          "bytes": 27636,
+          "sha256": "a0aef779afff72392c5faf7bd08abd8b315c2399ef06206a44bf4efba8377218"
+        },
+        {
+          "path": "assets/series/E523/02_review_pending.webp",
+          "bytes": 11000,
+          "sha256": "f238a81198864792c55431cec01adeb0dc8df8e470bce15b41b0405367bfef04"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Thập tự thủ; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E524-DRAFT-SERIES-v1",
+      "version": 1,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E524/01_title.webp",
+          "bytes": 26544,
+          "sha256": "f769b09782f7069278730cce2321ddeffc03411fc06f6a4c96f8044432efd509"
+        },
+        {
+          "path": "assets/series/E524/02_review_pending.webp",
+          "bytes": 10450,
+          "sha256": "56c928ad4c7c5bdf3b6800e893e1bce61029f43d7deb07dfa6a76744ecf3e205"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated decorative illustration; no movement demonstration rights or expert review claimed; prototype only",
+      "accessibilityDescription": "Ảnh bìa minh họa Thu thế; không phải hướng dẫn tập."
+    },
+    {
+      "id": "E501-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E501/03_poster_instruction.webp",
+          "bytes": 178116,
+          "sha256": "887deb8606f69f550ae0ed4ec6615c1f7479564d123459e08a76f0266c8201c3"
+        },
+        {
+          "path": "assets/series/E501/04_step_1.webp",
+          "bytes": 22276,
+          "sha256": "5bee3bd1e9d63b5abe785cf1554194638d5be4834c1ff2e4b82f28af13a30326"
+        },
+        {
+          "path": "assets/series/E501/05_step_2.webp",
+          "bytes": 23136,
+          "sha256": "3e08651e2679438e2bac6dbde10ad77943a4bca0fc69ca63bed10cbb44b34ec4"
+        },
+        {
+          "path": "assets/series/E501/06_step_3.webp",
+          "bytes": 22368,
+          "sha256": "f05bd1eb2e96f60c816be2636d53bdaf311b09cba48b4fe4965dfa3a26b46578"
+        },
+        {
+          "path": "assets/series/E501/07_step_4.webp",
+          "bytes": 21288,
+          "sha256": "3d4a738b7007370a2ad6c3e910cd571f0b7a7abfb10ba87231a1c6b7c5ae831c"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Khởi thế."
+    },
+    {
+      "id": "E503-ILLUSTRATED-SERIES-v2",
+      "version": 2,
+      "kind": "storyboard",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/series/E503/03_poster_instruction.webp",
+          "bytes": 185700,
+          "sha256": "636537667a282e7c4e85ac1e7b0542e34845745bdd8754a0f7c044cf8f90b4af"
+        },
+        {
+          "path": "assets/series/E503/04_step_1.webp",
+          "bytes": 21702,
+          "sha256": "745ac7aea7913eccd608819c4d696918f2b7083209d274bda75ce2bbc571c37b"
+        },
+        {
+          "path": "assets/series/E503/05_step_2.webp",
+          "bytes": 23058,
+          "sha256": "b64fab989688753c784e52875d9b1fcdd715ecb4dbddaaf501b6ab3d032b4df9"
+        },
+        {
+          "path": "assets/series/E503/06_step_3.webp",
+          "bytes": 24070,
+          "sha256": "29b62436591df8f6d36f84050a3e64f6c665b6650be0d9590588c5be56791718"
+        },
+        {
+          "path": "assets/series/E503/07_step_4.webp",
+          "bytes": 22670,
+          "sha256": "44ead893478188b8c576e7267731b589f0c05e9a5c6c7c77d96e7dc574726263"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated instructional illustration package for product prototyping; requires expert review before public therapeutic or technical claims.",
+      "accessibilityDescription": "Chuỗi 4 khung minh họa cho bài Bạch hạc lượng sí."
+    },
+    {
+      "id": "E501-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E501_cover.webp",
+          "bytes": 68194,
+          "sha256": "84729aceb7e9bcf951512e99b6e519f84582fca8c8897ea8663ced232493dd5c"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Khởi thế; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E502-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E502_cover.webp",
+          "bytes": 70102,
+          "sha256": "79f047e5a503646dda05abe7b7f067fd1951944a1c3671734e26bf6a1e8ed44b"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Dã mã phân tông; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E503-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E503_cover.webp",
+          "bytes": 70656,
+          "sha256": "c7fd6af33cb3b63e88005394a1ec78c17d074698c6a8346501e38f0e806da2ab"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Bạch hạc lượng sí; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E504-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E504_cover.webp",
+          "bytes": 69376,
+          "sha256": "c7a03ee629d1d70015db0bf874eadcb53781de4f953bf003620a04f1fd0748e2"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Lâu tất ảo bộ; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E505-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E505_cover.webp",
+          "bytes": 68890,
+          "sha256": "a9e574b56aca5d726e59c22cdf195e27d80de9b6eb7a8a2e288af492538e0521"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Thủ huy tỳ bà; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E506-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E506_cover.webp",
+          "bytes": 70214,
+          "sha256": "93bb793794025b2260684c9c37225f26f6cb668617782d9e4561d3933b245c99"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Đảo quyển quăng; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E507-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E507_cover.webp",
+          "bytes": 68910,
+          "sha256": "2feca82f2f774a9ea854d9a1cbda9e32bfa2b2447cf0d39adabafd9bbc0083c4"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Tả lãm tước vĩ; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E508-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E508_cover.webp",
+          "bytes": 69994,
+          "sha256": "f9ad310124fca9886da3f48bc31778909570ea039dc858f4638359818058cc4e"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Hữu lãm tước vĩ; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E509-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E509_cover.webp",
+          "bytes": 68246,
+          "sha256": "4ecd4fa579e8950c227be345d0a6b00478a1d0bd8f403a34983b58fd0e747204"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Đơn tiên; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E510-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E510_cover.webp",
+          "bytes": 68556,
+          "sha256": "dbcae6417eda3c60451c2b74d884728b80ec59c1516ece902cfcbbd3a567d986"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Vân thủ; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E511-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E511_cover.webp",
+          "bytes": 68966,
+          "sha256": "8c3ba3f768fc2cb2667921766129b708415436a59663110439a41c6d9e815330"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Đơn tiên (lặp); chưa được kiểm duyệt."
+    },
+    {
+      "id": "E512-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E512_cover.webp",
+          "bytes": 69470,
+          "sha256": "1bb4cbd30f965aa9258f2f56e16f81bf4b387895b70b710206c501a73623d2b6"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Cao thám mã; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E513-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E513_cover.webp",
+          "bytes": 69120,
+          "sha256": "5f9193bbb4696cee2a7ed64b3e83c4850857aa477df5dcf9946dc5b89e42265f"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Hữu đăng cước; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E514-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E514_cover.webp",
+          "bytes": 70514,
+          "sha256": "7e0969e6e444bd9e47f57219cee8638e167c9d54cd0f1bc5b79055cee9d70841"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Song phong quán nhĩ; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E515-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E515_cover.webp",
+          "bytes": 70516,
+          "sha256": "c4311564f274b2ea7913307955e27a12d90807654043746112f93567b5379046"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Chuyển thân tả đăng cước; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E516-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E516_cover.webp",
+          "bytes": 69884,
+          "sha256": "c7efd1504a77ec398ff50ee3b08303f2a87b68f8bad9d614b341bfd60c0b3c14"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Tả hạ thế độc lập; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E517-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E517_cover.webp",
+          "bytes": 69562,
+          "sha256": "3eba353fbac776b94431f36e663b59bf79a413febb590e46ffb115210cd31303"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Hữu hạ thế độc lập; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E518-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E518_cover.webp",
+          "bytes": 70068,
+          "sha256": "c07c53edd35e3d62e227dc341f7742a28c33702cfa9dd403816d4715f6a547bf"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Tả hữu xuyên thoa; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E519-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E519_cover.webp",
+          "bytes": 68634,
+          "sha256": "2a5dff497f4fcd62483ef7578883634b42958a25b7862acd716cd3b5140f3aaa"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Hải để châm; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E520-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E520_cover.webp",
+          "bytes": 69810,
+          "sha256": "bc7af273061c725dd9a41ce2c53ff6e9b38e99b9c16d8292435e7e9cbb2efde4"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Thiểm thông tý; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E521-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E521_cover.webp",
+          "bytes": 70356,
+          "sha256": "c6c13986dfbf21c707e934953f7868f4a93b8afa1d4659036bda459210db3d00"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Chuyển thân ban lan chùy; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E522-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E522_cover.webp",
+          "bytes": 70082,
+          "sha256": "7223d4f6c097dc2d4ff40c3afb9af30ce4915bfc3121ff7f8680757d8b3814bc"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Như phong tự bế; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E523-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E523_cover.webp",
+          "bytes": 68612,
+          "sha256": "504e8cb5c1fdb2b362e89c4e4fc2eb89230e0408f6951f670d8d618cf762fc76"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Thập tự thủ; chưa được kiểm duyệt."
+    },
+    {
+      "id": "E524-UNIFIED-POSTER-v1",
+      "version": 1,
+      "kind": "poster",
+      "locale": "vi-VN",
+      "files": [
+        {
+          "path": "assets/listing/E524_cover.webp",
+          "bytes": 68756,
+          "sha256": "a7a780857783a7be6e7857e54269e22cc8d400dd750976cc58a26b456636c4df"
+        }
+      ],
+      "reviewStatus": "draft",
+      "demoOnly": true,
+      "aiGenerated": true,
+      "rights": "Generated from previous An Nhien v1.1/v0.3 internal AI artwork; use only as draft catalog illustration, not instructional technique.",
+      "accessibilityDescription": "Ảnh danh mục minh họa cho Thu thế; chưa được kiểm duyệt."
+    }
+  ]
+}

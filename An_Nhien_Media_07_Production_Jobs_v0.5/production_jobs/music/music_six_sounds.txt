@@ -1,0 +1,1 @@
+| M5 `music_six_sounds` | Lục Tự Quyết | không nhịp | "Minimal ambient drone, single warm low tone with slow gentle swells, almost silent, leaves full space for spoken breathing sounds, seamless loop, no melody, no vocals" (nên mặc định **tắt** nhạc cho hệ này) |

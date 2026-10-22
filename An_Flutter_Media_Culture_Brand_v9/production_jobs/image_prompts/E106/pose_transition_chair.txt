@@ -1,0 +1,11 @@
+E106 — pose_transition_chair. Produce an expert-approved adapted pose for a participant needing chair/support assistance.
+Source-form reference (not a literal pose instruction):
+E106 – pose_transition. Bát Đoạn Cẩm – thức 6: Lưỡng thủ phàn túc (Two Hands Hold the Feet). Khung 2 – chuyển tiếp.
+Tư thế: Hai tay hạ xuống trước ngực, lòng bàn tay úp; luồn ra sau nách, áp dọc lưng xuống tới mông.
+Góc máy: chính diện. Giữ đúng nhân vật nữ áo kem và bối cảnh đã thống nhất. Ảnh vuông, toàn thân, không chữ.
+
+Mandatory adaptation specification from content brief:
+Ngồi trên ghế, hai tay trượt từ đùi xuống cẳng chân tới mức thoải mái, không cúi đầu thấp. Ghế gỗ chắc chắn nhìn rõ trong khung.
+
+Resolve standing vs seated details by following the adaptation specification. Do NOT generate until an expert has signed off on the exact adapted joint positions, body weight distribution and chair placement. 1:1 photorealistic full body. No text.
+

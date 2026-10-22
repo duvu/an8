@@ -1,0 +1,70 @@
+name: an_nhien_eastern_content
+description: Draft Vietnamese Eastern qigong content catalogs and decorative media for An Nhien Flutter.
+version: 0.1.0
+publish_to: none
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  # An Nhiên app shows introductions only (DECISIONS.md D09, D11): catalog metadata,
+  # system covers and the listing cards that are specific to one form. Same-system
+  # cards (coverIsExerciseSpecific=false) and step frames are not bundled.
+  assets:
+    - assets/catalog/
+    - assets/covers/
+    - assets/listing/E101_cover.webp
+    - assets/listing/E102_cover.webp
+    - assets/listing/E103_cover.webp
+    - assets/listing/E104_cover.webp
+    - assets/listing/E105_cover.webp
+    - assets/listing/E106_cover.webp
+    - assets/listing/E107_cover.webp
+    - assets/listing/E108_cover.webp
+    - assets/listing/E201_cover.webp
+    - assets/listing/E301_cover.webp
+    - assets/listing/E309_cover.webp
+    - assets/listing/E401_cover.webp
+    - assets/listing/E501_cover.webp
+    - assets/listing/E503_cover.webp
+    # Thái Cực Quyền 24 overview boards, reference only (DECISIONS.md D21).
+    - assets/education/taichi24/taichi24_01_08_v3.webp
+    - assets/education/taichi24/taichi24_09_16_v3.webp
+    - assets/education/taichi24/taichi24_17_24_v3.webp
+    # Bát Đoạn Cẩm step photos, published in the app catalog (DECISIONS.md D13).
+    - assets/series/E101/04_step_1.webp
+    - assets/series/E101/05_step_2.webp
+    - assets/series/E101/06_step_3.webp
+    - assets/series/E101/07_step_4.webp
+    - assets/series/E102/04_step_1.webp
+    - assets/series/E102/05_step_2.webp
+    - assets/series/E102/06_step_3.webp
+    - assets/series/E102/07_step_4.webp
+    - assets/series/E103/04_step_1.webp
+    - assets/series/E103/05_step_2.webp
+    - assets/series/E103/06_step_3.webp
+    - assets/series/E103/07_step_4.webp
+    - assets/series/E104/04_step_1.webp
+    - assets/series/E104/05_step_2.webp
+    - assets/series/E104/06_step_3.webp
+    - assets/series/E104/07_step_4.webp
+    - assets/series/E105/04_step_1.webp
+    - assets/series/E105/05_step_2.webp
+    - assets/series/E105/06_step_3.webp
+    - assets/series/E105/07_step_4.webp
+    - assets/series/E106/04_step_1.webp
+    - assets/series/E106/05_step_2.webp
+    - assets/series/E106/06_step_3.webp
+    - assets/series/E106/07_step_4.webp
+    - assets/series/E107/04_step_1.webp
+    - assets/series/E107/05_step_2.webp
+    - assets/series/E107/06_step_3.webp
+    - assets/series/E107/07_step_4.webp
+    - assets/series/E108/04_step_1.webp
+    - assets/series/E108/05_step_2.webp
+    - assets/series/E108/06_step_3.webp
+    - assets/series/E108/07_step_4.webp

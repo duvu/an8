@@ -1,0 +1,11 @@
+E105 — pose_start_chair. Produce an expert-approved adapted pose for a participant needing chair/support assistance.
+Source-form reference (not a literal pose instruction):
+E105 – pose_start. Bát Đoạn Cẩm – thức 5: Dao đầu bãi vĩ (Sway the Head and Shake the Tail). Khung 1 – bắt đầu.
+Tư thế: Đứng tấn ngựa rộng nhưng cao (gối hơi chùng), hai bàn tay đặt trên đùi gần gối, lưng thẳng.
+Góc máy: chếch 3/4. Giữ đúng nhân vật nữ áo kem và bối cảnh đã thống nhất. Ảnh vuông, toàn thân, không chữ.
+
+Mandatory adaptation specification from content brief:
+Ngồi trên ghế, hai tay đặt trên đùi, nghiêng và xoay thân trên biên độ nhỏ, đầu luôn cao hơn tim. Ghế gỗ chắc chắn nhìn rõ trong khung.
+
+Resolve standing vs seated details by following the adaptation specification. Do NOT generate until an expert has signed off on the exact adapted joint positions, body weight distribution and chair placement. 1:1 photorealistic full body. No text.
+

@@ -1,0 +1,45 @@
+{
+  "exercise_id": "E05",
+  "title": "Chuyển trọng tâm",
+  "locale": "vi-VN",
+  "duration_ms": 120000,
+  "recording_status": "needs_voice_recording",
+  "professional_review_status": "pending",
+  "phonetic_approval_required": false,
+  "target_spec": {
+    "sample_rate_hz": 48000,
+    "channels": 1,
+    "integrated_lufs": -16,
+    "voice_style": "Vietnamese warm neutral, 110–130 words/minute"
+  },
+  "cues": [
+    {
+      "offset_ms": 0,
+      "text": "Chuyển trọng tâm."
+    },
+    {
+      "offset_ms": 2000,
+      "text": "Đứng rộng bằng vai cạnh chỗ vịn."
+    },
+    {
+      "offset_ms": 30000,
+      "text": "Chuyển nhẹ trọng lượng sang trái."
+    },
+    {
+      "offset_ms": 60000,
+      "text": "Đổi từ từ sang bên phải."
+    },
+    {
+      "offset_ms": 90000,
+      "text": "Trở về giữa, giữ nhịp thở đều."
+    },
+    {
+      "offset_ms": 105000,
+      "text": "Thở đều, nhẹ nhàng."
+    },
+    {
+      "offset_ms": 115000,
+      "text": "Hai chân luôn chạm sàn; vịn ghế nếu cần."
+    }
+  ]
+}
